@@ -1,0 +1,37 @@
+						{% assign actietekst = page.actie | replace: 'vroegboekkorting', 'vroegboek korting' | replace: 'onlineaanbod', 'online aanbod' | replace: '!', '' %}{% assign speciaaltekst = page.speciaal | replace: 'coronaproof', 'corona proof' %}{% if page.actie %}<style scoped>.product.actie:before { content: '{{actietekst}}' }</style>{% endif %}{% if page.speciaal %}<style scoped>.product.speciaal:after { content: '{{speciaaltekst}}' }</style>{% endif %}
+						{% capture omenom %}{% cycle 'oneven', 'even' %}{% endcapture %}<li class="{{omenom}}">
+							<a href="{{page.url}}" title="Over {{page.title}}{% if page.leeftijd %} ({{page.leeftijd}}){% endif %}" class="product {% assign parent = page.url | split: '/' %}{% if parent[2] %} {{parent[1] | replace: '/', ''}}{% endif %}{% if page.actie %} actie{% endif %}{% if page.speciaal %} speciaal{% endif %}" ontouchend="">
+								{% if omenom == 'oneven' %}<div>
+									<div class="product-info">
+										<div class="product-kopjes">
+											<h3><span class="product-titel">{{page.title}}</span>{% if page.leeftijd %} <span class="leeftijd">{{page.leeftijd}}</span>{% endif %}</h3>
+											<p class="onderdeel-naam">{% assign parent = page.url | split: '/' %}{{parent[1] | replace: '/', '' | replace: '-', ' ' | capitalize}}</p>
+											<p class="tap-meer-lezen">Tap om meer te lezen</p>
+											<p class="klik-meer-info">Klik voor meer info</p>
+										</div>
+										<div class="product-korte-beschrijving"><p>{{page.korte-beschrijving}}</p></div>
+									</div>
+									<div class="product-foto-box">
+										<noscript><div class="product-foto" style="background-image: url({{page.assets[0].path}})"></div></noscript>
+										<div class="product-foto lazyload" data-bg="{{page.assets[0].path}}"></div>
+										<div class="product-foto-lader"></div>
+									</div>
+								</div>
+								{% else %}<div>
+									<div class="product-foto-box">
+										<noscript><div class="product-foto" style="background-image: url({{page.assets[0].path}})"></div></noscript>
+										<div class="product-foto lazyload" data-bg="{{page.assets[0].path}}"></div>
+										<div class="product-foto-lader"></div>
+									</div>
+									<div class="product-info">
+										<div class="product-kopjes">
+											<h3><span class="product-titel">{{page.title}}</span>{% if page.leeftijd %} <span class="leeftijd">{{page.leeftijd}}</span>{% endif %}</h3>
+											<p class="onderdeel-naam">{% assign parent = page.url | split: '/' %}{{parent[1] | replace: '/', '' | replace: '-', ' ' | capitalize}}</p>
+											<p class="tap-meer-lezen">Tap om meer te lezen</p>
+											<p class="klik-meer-info">Klik voor meer info</p>
+										</div>
+										<div class="product-korte-beschrijving"><p>{{page.korte-beschrijving}}</p></div>
+									</div>
+								</div>{% endif %}
+							</a>
+						</li>

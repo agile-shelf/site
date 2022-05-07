@@ -1,0 +1,44 @@
+---
+title: InControl
+date: 2015-11-23 15:59:00 +01:00
+position: 9
+author: info@opde1sterij.nl
+sectie: vo
+kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: 12+ alle niveaus ook
+  speciaal onderwijs; Tijdsduur: 1,5 uur (45 min voorstelling en 45 min nabespreking);
+  Aangeboden in: heel Nederland; Max. aantal deelnemers: 60 leerlingen of 2 klassen;
+  Maakt gebruik van: digibord; Nieuw lesmateriaal: vanaf schooljaar 21-22; Prijs:
+  1 voorstelling per dag €735,- <br> 2 voorstellingen per dag €1215,- <br> 3 voorstellingen
+  per dag €1605,- <br> De prijzen zijn excl. btw en incl. reiskosten; Online aanbod:
+  Live vanuit de studio, via Zoom of Teams. De online-voorstelling duurt 35 min.,
+  de online-nabespreking 30 min. ; Coronaproof: De voorstellingen worden altijd gespeeld
+  in overeenstemming met de recente corona-maatregelen en de richtlijnen van het RIVM.
+  Afhankelijk daarvan kan de voorstelling plaatsvinden in een aula, gymzaal of speellokaal.'
+korte-beschrijving: InControl volgt een schooljaar lang 3 jongeren die worstelen met
+  de vraag ‘hoe om te gaan met alcohol, drugs en gamen’. InControl is een voorstelling
+  met interactieve nabespreking over genotmiddelen en gameverslaving in de wereld
+  van nu.
+leeftijd: 12+
+zoektermen: Theatergroep zwerm, tg zwerm, op de eerste rij, schoolvoorstelling, educatieve
+  voorstelling, educatief theater, educatie, theater in de klas, voorstellingen in
+  de klas, toneelstuk, interactief, ckv, drank, drugs, gamen, gameverslaving, alcohol,
+  alcoholverslaving, alcoholmisbruik, drugsverslaving, drugsmisbruik, middelbare school,
+  middelbare scholen, middelbaar onderwijs, nix18, pubers, puberen,
+actie: online aanbod
+sleutelwoorden: 
+filmpje-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/cQnG0H9BCRg"
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+speciaal: coronaproof
+assets:
+- path: "/uploads/InControl.jpg"
+  name: InControl
+---
+
+**InControl** In een wereld waarin NIX de afspraak is, is een pil goedkoper en voor jongeren makkelijker verkrijgbaar dan een sixpack. Op de laptop, waarop jongeren hun huiswerk maken, zijn ze één klik verwijderd van duizenden games, die ze onbeperkt, met mensen over de hele wereld, dag en nacht kunnen spelen. InControl is een voorstelling over genotmiddelen en gameverslaving, in de wereld van nu.
+
+InControl volgt een schooljaar lang Luuk, Julia en Denise, 3 jongeren die worstelen met de vraag ‘hoe om te gaan met alcohol, drugs en gamen’. Als iedereen alcohol drinkt, moet ik dat dan ook doen? En hoeveel uur per dag gamen is nog gezond? Of heb ik toch een probleem? Ga ik zo nog wel over?
+
+Na de voorstelling is er een interactief nagesprek met de acteurs als gespreksleiders. Zij worden hier intensief in getraind.  Daardoor zijn ze goed in het creëren van een veilige sfeer, waarin iedereen de ruimte krijgt om deel te nemen aan een eerlijk en open gesprek over wat de jongeren net gezien hebben en over de manier waarop ze met drugs, alcohol, gamen en hun eigen grenzen willen omgaan.
+
+De voorstelling InControl en het interactieve nagesprek zijn een fijne basis om aan te kunnen refereren in de lessen.
