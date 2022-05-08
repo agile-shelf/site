@@ -156,16 +156,17 @@
 						<span>Klik hier om te boeken</span>
 						<div class="blokje"></div>
 					</a>
-					<a class="naar-crew link" href="{{page.url}}/crew/" title="Over de Crew">
+					{% if page.url != '/traject-c/' %}<a class="naar-crew link" href="{{page.url}}/crew/" title="Over de Crew">
 						<span>Over de Crew</span>
 						<div class="blokje"></div>
-					</a>
+					</a>{% endif %}
 				</article>
 				<div class="product-overzicht">
 					<h1 class="hoofd">Aanbod {{page.title}}</h1>
 					<ul>{% assign pages = site.pages | sort: 'position' | where_exp: 'sub-page', 'sub-page.url contains page.dir' | where_exp: 'sub-page', 'sub-page.sectie' %}
 						{% for page in pages %}{% include producten.html %}{% endfor %}
 					</ul>
+					{% if page.url == '/monkeyspoom/' %}<a style="display: block; text-align: center;" href="/contact/" title="Contact">Meer Info</a>{% endif %}
 				</div>
 				{% elsif page.url contains '/crew/' %}
 				<h1 class="hoofd">{{page.title}}</h1>
