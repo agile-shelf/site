@@ -166,7 +166,7 @@
 					<ul>{% assign pages = site.pages | sort: 'position' | where_exp: 'sub-page', 'sub-page.url contains page.dir' | where_exp: 'sub-page', 'sub-page.sectie' %}
 						{% for page in pages %}{% include producten.html %}{% endfor %}
 					</ul>
-					{% if page.url == '/monkeyspoom/' %}<a style="display: block; text-align: center;" href="/contact/" title="Contact">Meer Info</a>{% endif %}
+					{% if page.url == '/monkeyspoom/' %}<a style="display: block; text-align: center;" href="/contact/" title="Contact">Meer Info</a><br>{% endif %}
 				</div>
 				{% elsif page.url contains '/crew/' %}
 				<h1 class="hoofd">{{page.title}}</h1>
