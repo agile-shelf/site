@@ -3,7 +3,8 @@ title: Nog 10 weken
 date: 2022-05-11 20:30:00 +02:00
 blogger: Esther Hulst
 assets:
-- "/uploads/blog11-5.pdf"
+  path: "/uploads/blog-9841f5.jpg"
+  name: blog-9841f5.jpg
 ---
 
 *Door: Esther Hulst*
