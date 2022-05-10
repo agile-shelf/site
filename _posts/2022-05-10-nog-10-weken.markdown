@@ -4,7 +4,7 @@ date: 2022-05-10 20:30:00 +02:00
 blogger: Esther Hulst
 assets:
   path: "/uploads/blog-9841f5.jpg"
-  name: blog-9841f5.jpg
+  name: blog-9841f5
 ---
 
 *Door: Esther Hulst*
