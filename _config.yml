@@ -39,8 +39,11 @@ defaults:
   values:
     layout: default
     permalink: "/blog/:i_day-:i_month-:year-:title/"
+    trailer-embed-code: 
     filmpje-embed-code: 
-    hidden: 
+    assets:
+    - path: ''
+      name: ''
 - scope:
     path: ''
     type: crew
