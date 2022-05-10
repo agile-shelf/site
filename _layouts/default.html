@@ -200,7 +200,7 @@
 				</div>
 				{% elsif page.url == '/boekingen/' %}<article>
 					<h1>{{page.title}}</h1>
-					<form id="gform" class="boekingsformulier" method="POST" data-email="boekingen@opde1sterij.nl" action="https://script.google.com/a/opde1sterij.nl/macros/s/AKfycbxt2pvOSYmUvfsPWTlzCZYbpcs4I_U3Tamry3aUa0eG708wJUc/exec">
+					<form id="gform" class="boekingsformulier" method="POST" data-email="boekingen@opde1sterij.nl" action="https://script.google.com/macros/s/AKfycbxt2pvOSYmUvfsPWTlzCZYbpcs4I_U3Tamry3aUa0eG708wJUc/exec">
 						<p class="boekingsuitleg">Selecteer wat je wilt boeken:</p>
 						<div class="product-selectie">{% assign onderdelen = site.pages | where_exp: 'onderdeel-page', 'onderdeel-page.onderdeel == true' | sort: 'position' %}{% for onderdeel in onderdelen %}{% assign pages = site.pages | where_exp: 'sub-page', 'sub-page.dir contains onderdeel.dir' | where_exp: 'sub-page', 'sub-page.sectie' | sort: 'position' %}
 							{% for page in pages %}<div id="{{page.title | slugify}}">
@@ -374,7 +374,7 @@
 
 		<script src="/lazysizes.min.js" async=""></script>
 		<script src="/opde1sterij.js"></script>
-		{% if page.url == '/boekingen' %}<script src="/boekingen.js"></script>{% endif %}
+		{% if page.url == '/boekingen/' %}<script src="/boekingen.js"></script>{% endif %}
 		<script>
 			window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
 			ga('create', '{{home-page.analytics}}', 'auto'); ga('set', 'forceSSL', true); ga('set', 'anonymizeIp', true); ga('send', 'pageview')
