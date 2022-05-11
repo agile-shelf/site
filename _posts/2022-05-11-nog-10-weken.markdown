@@ -3,7 +3,6 @@ title: Nog 10 weken
 date: 2022-05-11 08:30:00 +02:00
 redirect_from:
 - "/blog/10-5-2022-nog-10-weken/"
-- "/blog/11-5-2022-nog-10-weken/"
 assets:
 - path: "/uploads/nog-10-weken.jpg"
   name: nog 10 weken
