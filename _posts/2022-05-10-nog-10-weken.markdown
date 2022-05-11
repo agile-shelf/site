@@ -1,6 +1,6 @@
 ---
 title: Nog 10 weken
-date: 2022-05-11 08:30:00 +02:00
+date: 2022-05-10 08:30:00 +02:00
 assets:
 - path: "/uploads/nog-10-weken.jpg"
   name: nog 10 weken
