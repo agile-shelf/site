@@ -4338,7 +4338,7 @@ input.nieuwsbrief-voornaam
 {
     position: absolute;
 
-    margin-top: 2.5px;
+    margin-top: 3px;
     margin-left: 5px;
 
     content: '';
@@ -4348,6 +4348,15 @@ input.nieuwsbrief-voornaam
     border-top: 4px solid transparent;
     border-bottom: 4px solid transparent;
     border-left: 4px solid #fff;
+}
+
+@media 
+(-webkit-min-device-pixel-ratio: 2), 
+(min-resolution: 192dpi) {
+	.instagram-post-rechter-kolom .driehoekje-rechts
+	{
+		margin-top: 3.5px;
+	}
 }
 
 /* 
@@ -4445,6 +4454,15 @@ input.nieuwsbrief-voornaam
     border-top: 4px solid transparent;
     border-bottom: 4px solid transparent;
     border-left: 4px solid #fff;
+}
+
+@media 
+(-webkit-min-device-pixel-ratio: 2), 
+(min-resolution: 192dpi) {
+	.cjp-info a:after
+	{
+		margin-top: 4.5px;
+	}
 }
 
 .cjp-info p
