@@ -28,4 +28,4 @@ Wil je meerdere voorstellingen voor verschillende leerjaren boeken? Dan hebben w
 
 Voor komend schooljaar hebben we ook weer een mooie brochure met dit jaar ons gehele aanbod erin: [Interactieve digitale brochure schooljaar 22-23](https://indd.adobe.com/view/b0df1780-05be-4b35-bb3b-21afadaf2063)
 
-Wees dus verzekerd van een plekje in onze agenda en boek nu! Wij zijn enorm blij met je boeking. Hoe maak je gebruik van de **vroegboek-korting**? Stuur een mail naar [boekingen@opde1sterij.nl](mailto:boekingen@opde1sterij.nl) bel <a href="tel:\+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a>
+Wees dus verzekerd van een plekje in onze agenda en boek nu! Wij zijn enorm blij met je boeking. Hoe maak je gebruik van de **vroegboek-korting**? Stuur een mail naar [boekingen@opde1sterij.nl](mailto:boekingen@opde1sterij.nl) bel <a href="tel:\+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a> of plan een [belafspraak](http://calendly.com/opde1sterij) met ons in. 
