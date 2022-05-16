@@ -1,7 +1,7 @@
 ---
 title: Vroegboekkorting
 date: 2020-05-13 21:50:00 +02:00
-position: 1
+position: 0
 assets:
 - path: "/uploads/vroegboek-korting-22.jpg"
   name: vroegboek-korting-22
@@ -26,6 +26,6 @@ Wil je meerdere voorstellingen voor verschillende leerjaren boeken? Dan hebben w
 
 * Boek vóór 16 juli 2022 een **[TheaterChallenge](https://www.opde1sterij.nl/theaterchallenge/)** voor schooljaar 2021-2022 en ontvang 10% korting op de gehele offerte!
 
-Voor komend schooljaar hebben we ook weer een mooie brochure met dit jaar ons gehele aanbod erin: [Interactieve digitale brochure schooljaar 22-23](https://indd.adobe.com/view/b0df1780-05be-4b35-bb3b-21afadaf2063)
+Voor komend schooljaar hebben we ook weer een mooie brochure met dit jaar ons gehele aanbod erin: [Interactieve digitale brochure schooljaar 22-23](https://indd.adobe.com/view/7f57be93-7ff3-4708-a07d-05f0129dbab7)
 
-Wees dus verzekerd van een plekje in onze agenda en boek nu! Wij zijn enorm blij met je boeking. Hoe maak je gebruik van de **vroegboek-korting**? Stuur een mail naar [boekingen@opde1sterij.nl](mailto:boekingen@opde1sterij.nl) bel <a href="tel:\+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a> of plan een [belafspraak](http://calendly.com/opde1sterij) met ons in. 
+Wees dus verzekerd van een plekje in onze agenda en boek nu! Wij zijn enorm blij met je boeking. Hoe maak je gebruik van de **vroegboek-korting**? Neem contact met ons op via mail [boekingen@opde1sterij.nl](mailto:boekingen@opde1sterij.nl), bel <a href="tel:\+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a> of plan een [belafspraak](http://calendly.com/opde1sterij) met ons in. 
