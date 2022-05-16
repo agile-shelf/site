@@ -60,6 +60,7 @@ markdown: kramdown
 auteur: Op de eerste rij
 include:
 - ".gearchiveerd"
+- ".verborgen"
 plugins:
 - jekyll-redirect-from
 whitelist:
