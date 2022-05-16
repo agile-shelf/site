@@ -1,7 +1,7 @@
 ---
 title: Vroegboekkorting
 date: 2020-05-13 21:50:00 +02:00
-position: 0
+position: 1
 assets:
 - path: "/uploads/vroegboek-korting-22.jpg"
   name: vroegboek-korting-22

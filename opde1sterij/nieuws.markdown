@@ -2,7 +2,7 @@
 title: Nieuws - Alert! CJP-budget
 date: 2020-04-14 07:09:00 +02:00
 published: false
-position: 3
+position: 4
 trailer-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/yBBwDjk-tAI?controls=0"
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
