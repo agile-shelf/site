@@ -2,33 +2,32 @@
 title: Ouderavonden
 date: 2015-09-24 17:52:00 +02:00
 position: 12
-author: info@opde1sterij.nl
-sectie: bo, vo
-kenmerken: 'Soort project: voorstelling; Doelgroep: ouders, verzorgers, docenten,
-  hulpverleners; Tijdsduur: in overleg (45 min voorstelling 30 min nabespreking);
-  Aangeboden in: heel Nederland; Max aantal deelnemers: in overleg; Maakt gebruik
-  van: digibord; Prijs: 1 voorstelling per dag €825,- <br> De prijzen zijn excl. btw
-  en incl. reiskosten ; Online aanbod: Live vanuit de studio, via Zoom of Teams. De
-  online-voorstelling duurt 35 min., de online-nabespreking 30 min. ; Coronaproof:
-  De voorstellingen worden altijd gespeeld in overeenstemming met de recente corona-maatregelen
-  en de richtlijnen van het RIVM.'
-korte-beschrijving: Theatergroep Zwerm speelt ook op ouderavonden voor ouders, verzorgers,
-  docenten en hulpverleners. Tg Zwerm geeft op unieke wijze een inkijkje in de wereld
-  van het kind.
-leeftijd: ouders, verzorgers, docenten, hulpverleners
 zoektermen: Theatergroep zwerm, tg zwerm, op de eerste rij, schoolvoorstelling, educatieve
   voorstelling, educatief theater, educatie, toneelstuk, interactief, ckv, ouderavond,
   voorlichtingsavond, docententeam, ouders, docenten, volwassenen, sociale media,
   social media, mediawijsheid, middelbare school, middelbare scholen, middelbaar onderwijs,
   pesteducatie, internet, pesten, cyberpesten, vriendschap, privacy, intimiteit, identiteit,
   Basisschool voorstelling, bovenbouw, basisonderwijs
-filmpje-embed-code: 
-actie: online aanbod
-sleutelwoorden: 
-speciaal: coronaproof
+korte-beschrijving: Theatergroep Zwerm speelt ook op ouderavonden voor ouders, verzorgers,
+  docenten en hulpverleners. Tg Zwerm geeft op unieke wijze een inkijkje in de wereld
+  van het kind.
 assets:
 - path: "/uploads/ouderavonden.jpg"
   name: ouderavonden
+author: info@opde1sterij.nl
+sectie: bo, vo
+kenmerken: 'Soort project: voorstelling; Doelgroep: ouders, verzorgers, docenten,
+  hulpverleners; Tijdsduur: in overleg (45 min voorstelling 30 min nabespreking);
+  Aangeboden in: heel Nederland; Max aantal deelnemers: in overleg; Maakt gebruik
+  van: digibord; Prijs: 1 voorstelling per dag €845,- <br> De prijzen zijn excl. btw
+  en incl. reiskosten ; Online aanbod: Live vanuit de studio, via Zoom of Teams. De
+  online-voorstelling duurt 35 min., de online-nabespreking 30 min. ; Coronaproof:
+  De voorstellingen worden altijd gespeeld in overeenstemming met de recente corona-maatregelen
+  en de richtlijnen van het RIVM.'
+leeftijd: ouders, verzorgers, docenten, hulpverleners
+actie: online aanbod
+sleutelwoorden: 
+speciaal: coronaproof
 ---
 
 **Theatergroep Zwerm** speelt ook op ouderavonden voor ouders, verzorgers en docenten. Tg Zwerm geeft op unieke wijze een inkijkje in de wereld van het kind. Dit doet zij in het basis- en voortgezet onderwijs, maar ook in andere omgevingen zoals buurthuizen, gemeenten en bedrijven.

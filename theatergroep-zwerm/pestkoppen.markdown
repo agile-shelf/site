@@ -2,30 +2,30 @@
 title: PestKoppen
 date: 2018-05-30 16:26:00 +02:00
 position: 1
+korte-beschrijving: De voorstelling PestKoppen, met interactieve nabespreking, onderzoekt
+  samen met de leerlingen waar plagen ophoudt en pesten begint.
+filmpje-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/54LS8dRYBcM"
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+assets:
+- path: "/uploads/PestKoppen.jpg"
+  name: PestKoppen
 author: info@opde1sterij.nl
 sectie: bo
 kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: groep 6 t/m 8 ook speciaal
   onderwijs; Tijdsduur: 1,5 uur (45 min voorstelling en 45 min nabespreking); Aangeboden
   in: heel Nederland; Aantal deelnemers: max. 64 leerlingen of 2 klassen; Maakt gebruik
   van: digibord; Nieuw lesmateriaal: vanaf schooljaar 21-22; Prijs: 1 voorstelling
-  per dag €640,- <br> 2 voorstellingen per dag €1060,- <br> 3 voorstellingen per dag
-  €1430,- <br>  Prijzen zijn excl. btw en incl. reiskosten; Online aanbod: Live vanuit
+  per dag €660,- <br> 2 voorstellingen per dag €1080,- <br> 3 voorstellingen per dag
+  €1450,- <br>  Prijzen zijn excl. btw en incl. reiskosten; Online aanbod: Live vanuit
   de studio, via Zoom of Teams. De online-voorstelling duurt 35 min., de online-nabespreking
   30 min. ; Coronaproof: De voorstellingen worden altijd gespeeld in overeenstemming
   met de recente corona-maatregelen en de richtlijnen van het RIVM. Afhankelijk daarvan
   kan de voorstelling plaatsvinden in een aula, gymzaal of speellokaal.'
-korte-beschrijving: De voorstelling PestKoppen, met interactieve nabespreking, onderzoekt
-  samen met de leerlingen waar plagen ophoudt en pesten begint.
 leeftijd: groep 6, 7 & 8
-filmpje-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/54LS8dRYBcM"
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 actie: online aanbod
 sleutelwoorden: 
 speciaal: coronaproof
-assets:
-- path: "/uploads/PestKoppen.jpg"
-  name: PestKoppen
 ---
 
 **PestKoppen** Een veilige leeromgeving is voor leerlingen een vereiste om zich optimaal te kunnen ontwikkelen. Daar past pesten natuurlijk niet bij. Maar pesten is helaas van alle tijden. De voorstelling PestKoppen, met interactieve nabespreking, onderzoekt samen met de leerlingen waar plagen ophoudt en pesten begint. 

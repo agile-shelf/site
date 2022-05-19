@@ -2,37 +2,37 @@
 title: CLOSE
 date: 2015-09-05 20:54:00 +02:00
 position: 11
-author: info@opde1sterij.nl
-sectie: vo
-kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: 12+ alle niveaus ook
-  speciaal onderwijs; Tijdsduur: 1,5 uur (45 min voorstelling 45 min nabespreking);
-  Aangeboden in: heel Nederland; Max aantal deelnemers: 64 leerlingen of 2 klassen;
-  Nieuw lesmateriaal: vanaf schooljaar 21-22; Prijs: 1 voorstelling per dag €735,-
-  <br> 2 voorstellingen per dag €1215,- <br> 3 voorstellingen per dag €1605,-  <br>
-  De prijzen zijn excl. btw en incl. reiskosten; Online aanbod: Live vanuit de studio,
-  via Zoom of Teams. De online-voorstelling duurt 35 min., de online-nabespreking
-  30 min. ; Coronaproof: De voorstellingen worden altijd gespeeld in overeenstemming
-  met de recente corona-maatregelen en de richtlijnen van het RIVM. Afhankelijk daarvan
-  kan de voorstelling plaatsvinden in een aula, gymzaal of speellokaal.'
-korte-beschrijving: Close is een voorstelling over liefde en seksualiteit. Je volgt
-  4 middelbare scholieren in de zoektocht naar hun grenzen met aansluitend een interactief
-  nagesprek. Dit is een fijne basis om aan te kunnen refereren in de lessen seksuele
-  vorming.
-leeftijd: 12+
 zoektermen: Theatergroep zwerm, tg zwerm, op de eerste rij, schoolvoorstelling, educatieve
   voorstelling, educatief theater, educatie, theater in de klas, voorstellingen in
   de klas, toneelstuk, interactief, ckv, middelbare scholieren, middelbaar onderwijs,
   seksualiteit, seks, grenzen stellen, liefde, verliefdheid, seks, vriendschap, groepsdruk,
   loverboys, seksuele voorlichting, seksuele weerbaarheid, loverboy preventie
+korte-beschrijving: Close is een voorstelling over liefde en seksualiteit. Je volgt
+  4 middelbare scholieren in de zoektocht naar hun grenzen met aansluitend een interactief
+  nagesprek. Dit is een fijne basis om aan te kunnen refereren in de lessen seksuele
+  vorming.
 filmpje-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/DFJkzN1AcNo"
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-actie: online aanbod
-sleutelwoorden: 
-speciaal: coronaproof
 assets:
 - path: "/uploads/CLOSE.jpg"
   name: CLOSE
+author: info@opde1sterij.nl
+sectie: vo
+kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: 12+ alle niveaus ook
+  speciaal onderwijs; Tijdsduur: 1,5 uur (45 min voorstelling 45 min nabespreking);
+  Aangeboden in: heel Nederland; Max aantal deelnemers: 64 leerlingen of 2 klassen;
+  Nieuw lesmateriaal: vanaf schooljaar 21-22; Prijs: 1 voorstelling per dag €755,-
+  <br> 2 voorstellingen per dag €1235,- <br> 3 voorstellingen per dag €1625,-  <br>
+  De prijzen zijn excl. btw en incl. reiskosten; Online aanbod: Live vanuit de studio,
+  via Zoom of Teams. De online-voorstelling duurt 35 min., de online-nabespreking
+  30 min. ; Coronaproof: De voorstellingen worden altijd gespeeld in overeenstemming
+  met de recente corona-maatregelen en de richtlijnen van het RIVM. Afhankelijk daarvan
+  kan de voorstelling plaatsvinden in een aula, gymzaal of speellokaal.'
+leeftijd: 12+
+actie: online aanbod
+sleutelwoorden: 
+speciaal: coronaproof
 ---
 
 **CLOSE** Op alle scholen in Nederland wordt seksuele vorming gegeven. Over het algemeen is dit vooral gericht op voorlichting. Laten we zeggen: het technische gedeelte. De voorstelling Close gaat vooral over het sociaal-emotionele deel.

@@ -2,38 +2,38 @@
 title: iSocial PO
 date: 2015-09-05 20:52:00 +02:00
 position: 3
-author: info@opde1sterij.nl
-sectie: bo
-kenmerken: "Soort project: voorstelling in de klas; Doelgroep: groep 5 t/m 8 ook speciaal
-  onderwijs; Tijdsduur: 1,5 uur (45 min voorstelling en 45 min nabespreking); Aangeboden
-  in: heel Nederland; Max. aantal deelnemers: 64 leerlingen of 2 klassen; Maakt gebruik
-  van: digibord; Nieuw lesmateriaal: vanaf schooljaar 21-22; Prijs: 1 voorstelling
-  per dag €640,- <br> 2 voorstellingen per dag €1060,- <br> 3 voorstellingen per dag
-  €1430,- <br> Prijzen zijn excl. btw en incl. reiskosten; Online aanbod: Live vanuit
-  de studio, via Zoom of Teams.   \nDe online-voorstelling duurt 35 min., de online-nabespreking
-  30 min. ;    Coronaproof: De voorstellingen worden altijd gespeeld in overeenstemming
-  met de recente corona-maatregelen en de richtlijnen van het RIVM. Afhankelijk daarvan
-  kan de voorstelling plaatsvinden in een aula, gymzaal of speellokaal."
-korte-beschrijving: De voorstelling iSocial volgt drie basisscholieren die hun weg
-  proberen te vinden in de wereld van Internet en Social Media. De voorstelling en
-  interactief nagesprek zijn een fijne basis om aan te kunnen refereren in de lessen
-  Mediawijsheid.
-leeftijd: groep 5, 6, 7 en 8
 zoektermen: Theatergroep zwerm, tg zwerm, op de eerste rij, schoolvoorstelling, educatieve
   voorstelling, educatief theater, educatie, theater in de klas, voorstellingen in
   de klas, interactief, ckv, bovenbouw, basisonderwijs, ouderavonden, social media,
   sociale media, pesteducatie, educatief theater, educatie, internet, pesten, cyberpesten,
   vriendschap, privacy, intimiteit, identiteit, basisschool, facebook, instagram,
   snapchat, isocial
+korte-beschrijving: De voorstelling iSocial volgt drie basisscholieren die hun weg
+  proberen te vinden in de wereld van Internet en Social Media. De voorstelling en
+  interactief nagesprek zijn een fijne basis om aan te kunnen refereren in de lessen
+  Mediawijsheid.
 filmpje-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/tW7-qW-8rhk"
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-actie: online aanbod
-sleutelwoorden: 
-speciaal: coronaproof
 assets:
 - path: "/uploads/iSocialBO.jpg"
   name: iSocialBO
+author: info@opde1sterij.nl
+sectie: bo
+kenmerken: "Soort project: voorstelling in de klas; Doelgroep: groep 5 t/m 8 ook speciaal
+  onderwijs; Tijdsduur: 1,5 uur (45 min voorstelling en 45 min nabespreking); Aangeboden
+  in: heel Nederland; Max. aantal deelnemers: 64 leerlingen of 2 klassen; Maakt gebruik
+  van: digibord; Nieuw lesmateriaal: vanaf schooljaar 21-22; Prijs: 1 voorstelling
+  per dag €660,- <br> 2 voorstellingen per dag €1080,- <br> 3 voorstellingen per dag
+  €1450,- <br> Prijzen zijn excl. btw en incl. reiskosten; Online aanbod: Live vanuit
+  de studio, via Zoom of Teams.   \nDe online-voorstelling duurt 35 min., de online-nabespreking
+  30 min. ;    Coronaproof: De voorstellingen worden altijd gespeeld in overeenstemming
+  met de recente corona-maatregelen en de richtlijnen van het RIVM. Afhankelijk daarvan
+  kan de voorstelling plaatsvinden in een aula, gymzaal of speellokaal."
+leeftijd: groep 5, 6, 7 en 8
+actie: online aanbod
+sleutelwoorden: 
+speciaal: coronaproof
 ---
 
 **iSocial** Het leven van kinderen speelt zich ook voor een steeds groter deel online af. Deze steeds veranderende online wereld is voor de gemiddelde volwassene nauwelijks bij te benen. Maar hoe worden basisscholieren hier wegwijs in?

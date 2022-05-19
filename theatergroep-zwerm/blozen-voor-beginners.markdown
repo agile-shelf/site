@@ -2,37 +2,37 @@
 title: Blozen voor beginners
 date: 2021-02-24 16:30:00 +01:00
 position: 2
-author: info@opde1sterij.nl
-sectie: bo
-kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: groep 7 & 8 ook speciaal
-  onderwijs; Tijdsduur: 1,5 uur (45 min voorstelling en 45 min nabespreking); Aangeboden
-  in: heel Nederland; Max. aantal deelnemers: 64 leerlingen of 2 klassen; Nieuw lesmateriaal:
-  vanaf schooljaar 21-22; Prijs: 1 voorstelling per dag €640,- <br> 2 voorstellingen
-  per dag €1060,- <br> 3 voorstellingen per dag €1430,- <br> Prijzen zijn excl. btw
-  en incl. reiskosten; Online aanbod: Live vanuit de studio, via Zoom of Teams. De
-  online-voorstelling duurt 35 min., de online-nabespreking 30 min. ; Coronaproof:
-  De voorstellingen worden altijd gespeeld in overeenstemming met de recente corona-maatregelen
-  en de richtlijnen van het RIVM. Afhankelijk daarvan kan de voorstelling plaatsvinden
-  in een aula, gymzaal of speellokaal.'
-korte-beschrijving: Blozen voor beginners volgt 3 basisscholieren aan het begin van
-  de puberteit op zoek naar zichzelf, de liefde en hun grenzen. De voorstelling Blozen
-  voor beginners en het interactieve nagesprek zijn een fijne basis om aan te kunnen
-  refereren in de lessen seksuele vorming.
-leeftijd: groep 7 & 8
 zoektermen: Theatergroep zwerm, tg zwerm, op de eerste rij, schoolvoorstelling, educatieve
   voorstelling, educatief theater, educatie, theater in de klas, voorstellingen in
   de klas, toneelstuk, interactief, ckv, groep 8, groep 7, seksualiteit, grenzen,
   grenzen stellen, verliefd, puberteit, basisonderwijs, basisscholieren, puberen,
   vriendschap, liefde, basisschool, seksuele voorlichting, opgroeien
-actie: online aanbod
-sleutelwoorden: 
-speciaal: coronaproof
+korte-beschrijving: Blozen voor beginners volgt 3 basisscholieren aan het begin van
+  de puberteit op zoek naar zichzelf, de liefde en hun grenzen. De voorstelling Blozen
+  voor beginners en het interactieve nagesprek zijn een fijne basis om aan te kunnen
+  refereren in de lessen seksuele vorming.
 filmpje-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/XDT23dEQFgA"
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 assets:
 - path: "/uploads/blozen-voor-beginners.jpg"
   name: blozen-voor-beginners
+author: info@opde1sterij.nl
+sectie: bo
+kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: groep 7 & 8 ook speciaal
+  onderwijs; Tijdsduur: 1,5 uur (45 min voorstelling en 45 min nabespreking); Aangeboden
+  in: heel Nederland; Max. aantal deelnemers: 64 leerlingen of 2 klassen; Nieuw lesmateriaal:
+  vanaf schooljaar 21-22; Prijs: 1 voorstelling per dag €660,- <br> 2 voorstellingen
+  per dag €1080,- <br> 3 voorstellingen per dag €1450,- <br> Prijzen zijn excl. btw
+  en incl. reiskosten; Online aanbod: Live vanuit de studio, via Zoom of Teams. De
+  online-voorstelling duurt 35 min., de online-nabespreking 30 min. ; Coronaproof:
+  De voorstellingen worden altijd gespeeld in overeenstemming met de recente corona-maatregelen
+  en de richtlijnen van het RIVM. Afhankelijk daarvan kan de voorstelling plaatsvinden
+  in een aula, gymzaal of speellokaal.'
+leeftijd: groep 7 & 8
+actie: online aanbod
+sleutelwoorden: 
+speciaal: coronaproof
 ---
 
 **Blozen voor beginners** Op alle scholen in Nederland wordt seksuele vorming gegeven. Over het algemeen is dit vooral gericht op voorlichting. Laten we zeggen: het technische gedeelte. De voorstelling Blozen voor beginners gaat vooral over het sociaal-emotionele deel.

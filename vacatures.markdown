@@ -41,5 +41,5 @@ De voorstellingen van Theatergroep Zwerm gaan over actuele maatschappelijke them
 Theatergroep Zwerm is onderdeel van Op de eerste rij. Op de eerste rij is een bedrijf in Cultuureducatie werkzaam in het primair en voortgezet onderwijs. Op de eerste rij bestaat uit: [TheaterChallenge](https://www.opde1sterij.nl/theaterchallenge/), [Traject C](https://www.opde1sterij.nl/traject-c/) en [Theatergroep Zwerm](https://www.opde1sterij.nl/theatergroep-zwerm/). Bij ons vind je inspirerende workshops, prikkelende educatieve voorstellingen, spetterende lessenreeksen, interessante ouderavonden en ook docententrainingen.Allemaal vanuit de visie dat een mens meer, sneller en beter leert wanneer deze mede-eigenaar is. Wil hier meer over weten? Check dan dit [filmpje](https://youtu.be/XZq-SEY45gc).
 
 
-**Zie jij jezelf in het bovenstaande profiel en pas je bij Theatergroep Zwerm?** Stuur dan **vóór 8 juni 2022** je CV en korte motivatie naar: [esther@opde1sterij.nl](mailto:esther@opde1sterij.nl).
+**Zie jij jezelf in het bovenstaande profiel en pas je bij Theatergroep Zwerm?** Stuur dan **vóór 8 juni 2022** je CV en een recente foto naar: [esther@opde1sterij.nl](mailto:esther@opde1sterij.nl).
 
