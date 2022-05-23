@@ -24,7 +24,7 @@ Wil je meerdere voorstellingen voor verschillende leerjaren boeken? Dan hebben w
 
 **TheaterChallenge**
 
-* Boek vóór 16 juli 2022 een **[TheaterChallenge](https://www.opde1sterij.nl/theaterchallenge/)** voor schooljaar 2021-2022 en ontvang 10% korting op de gehele offerte!
+* Boek vóór 16 juli 2022 een **[TheaterChallenge](https://www.opde1sterij.nl/theaterchallenge/)** voor schooljaar 2022-2023 en ontvang 10% korting op de gehele offerte!
 
 Voor komend schooljaar hebben we ook weer een mooie brochure met dit jaar ons gehele aanbod erin: [Interactieve digitale brochure schooljaar 22-23](https://indd.adobe.com/view/7f57be93-7ff3-4708-a07d-05f0129dbab7)
 
