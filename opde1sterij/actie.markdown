@@ -2,6 +2,9 @@
 title: Vroegboekkorting
 date: 2020-05-13 21:50:00 +02:00
 position: 0
+trailer-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/EbkSxkjb4SI"
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 assets:
 - path: "/uploads/vroegboek-korting-22.jpg"
   name: vroegboek-korting-22
