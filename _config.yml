@@ -60,7 +60,8 @@ markdown: kramdown
 auteur: Op de eerste rij
 include:
 - ".gearchiveerd"
-- ".verborgen"
+- ".2022-03"
+- ".2022-04"
 plugins:
 - jekyll-redirect-from
 whitelist:
