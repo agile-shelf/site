@@ -5,7 +5,7 @@ position: 0
 korte-beschrijving: Een interactieve multimediale voorstelling over de natuur, survivallen
   en wat wij met z'n allen voor de natuur kunnen doen.
 assets:
-- path: "/uploads/kbw22.png"
+- path: "/uploads/help-onze-meester-is-verdwaald.jpg"
   name: help-onze-meester-is-verdwaald
 - path: "/uploads/help-onze-meester-is-verdwaald-2.jpg"
   name: help-onze-meester-is-verdwaald-2
