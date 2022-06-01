@@ -19,3 +19,5 @@ Sam en Philine gaan deze keer met hun klas op kamp. Niet Philine’s vader komt 
 Zoals ik eerder al schreef: ik kan niet wachten om eraan te beginnen. De fantasie te prikkelen. De gekste avonturen voor Sam en Philine te schrijven. Deze gekte vorm te geven onderleiding van David. Samen met Ben weer op pad te gaan en elke speelplek, van gymzaal tot speellokaal tot gezamenlijke hal, om te toveren tot een theatertje. En vooral om samen met de kinderen het nieuwe avontuur te beleven.
 
 Hoe dit precies gaat aflopen weet nog niemand, maar dat het een spannend, leuk, vrolijk, grappig, prikkelend en mooi avontuur voor de hele school wordt staat vast. Ik hoop dat we weer heel vaak door heel Nederland mogen gaan spelen. De eerste voorstellingen staan in ieder geval al in de agenda. Hopelijk komen daar nog een hele hoop bij!
+
+Wil jij dit ook voor jouw leerlingen? Check de [website](https://www.opde1sterij.nl/theatergroep-zwerm/help-onze-meester-is-verdwaald/) en neem contact met ons op. Dan bespreken we de mogelijkheden.
