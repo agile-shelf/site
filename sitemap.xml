@@ -4,7 +4,7 @@ layout:
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-	{% for page in site.pages %}{% if page.url == '/admin' %}{% elsif page.url == '/agenda' %}{% else %}<url>
+	{% for page in site.pages %}{% if page.url == '/admin/' %}{% elsif page.url == '/agenda/' %}{% elsif page.url == '/e-mailhandtekeningen/' %}{% elsif page.url == '/assets/css/style.css' %}{% elsif page.url == '/redirects.json' %}{% else %}<url>
 		<loc>https://www.opde1sterij.nl{{page.url}}</loc>
 		<lastmod>{{page.date | date_to_xmlschema}}</lastmod>
 		<priority>1.0</priority>
