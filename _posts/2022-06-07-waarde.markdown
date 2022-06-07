@@ -3,8 +3,11 @@ title: Waarde
 date: 2022-06-07 12:13:00 +02:00
 assets:
 - path: "/uploads/blog%208%20juni.png"
+  name: waarde
 Blogger: Esther Hulst
 ---
+
+*Door: Esther Hulst*
 
 Het einde van het jaar is weer in zicht en dat betekent vroegboekkorting. Het einde van het jaar betekent ook veel contact met scholen met klanten. En daar geniet ik van. Ik vind het enorm leuk om scholen te spreken, om te horen wat er beter kan, om te horen wat er goed ging,, maar vooral om te horen wat voor waarde de voorstellingen, lessen en workshops voor de leerlingen en docenten hebben. 
 
