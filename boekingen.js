@@ -66,6 +66,7 @@ function handleFormSubmit(event) {  // handles form submit withtout any jquery
   xhr.onreadystatechange = function() {
       document.getElementById('gform').style.display = 'none'; // hide form
       document.getElementById('boeking-verzonden').style.display = 'block';
+      window.scrollTo(0, 0);
       return;
   };
   // url encode form data for sending as post data

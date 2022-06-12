@@ -9,4 +9,4 @@ Onze interactieve digitale brochure schooljaar 2022-2023 is er. Ons volledige aa
 
 Wij zijn er in ieder geval enorm trots op. Ik wens iedereen veel lees- en kijkplezier. 
 <br><br>
-<iframe style="min-height: 482px" src="https://indd.adobe.com/embed/7f57be93-7ff3-4708-a07d-05f0129dbab7?startpage=1&allowFullscreen=true" width="100%" height="auto" frameborder="0" allowfullscreen=""></iframe>
+<iframe src="https://indd.adobe.com/embed/7f57be93-7ff3-4708-a07d-05f0129dbab7?startpage=1&allowFullscreen=true" width="610" height="428" frameborder="0" allowfullscreen=""></iframe>
