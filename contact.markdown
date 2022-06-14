@@ -14,7 +14,7 @@ Voor meer informatie mail:
 
 Of bel:  
 Algemeen: <a href="tel:+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a>  
-Esther Hulst: <a href="tel:+31630470685" title="Bel Esther Hulst | 06-30470685">06-30470685</a>  
+ 
 
 Op de eerste rij<br>
 Broedplaats Bogota<br>
