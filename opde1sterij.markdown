@@ -24,7 +24,7 @@ kvk-nummer: 58190767
 btw-nummer: NL852918550 B01
 e-mailadres: info@opde1sterij.nl
 telefoonnummer: 023 - 205 2482
-esther-telefoonnummer: "+31630470685"
+esther-telefoonnummer: 
 facebook: https://facebook.com/de1sterij
 youtube: https://youtube.com/channel/UC7fMOjJuMH4-oYb2MqjHvig
 twitter: https://twitter.com/opde1sterij
