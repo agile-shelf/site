@@ -6,6 +6,8 @@ assets:
 blogger: Esther Hulst
 ---
 
+*Door: Esther Hulst*
+
 Vorig jaar rond deze tijd werd ik gevraagd of ik misschien volgend jaar theater- en dansles zou willen verzorgen op basisschool De Kwikstaart, voor alle groepen 3 t/m 8. De reden daarvoor: "Wij vinden het een meerwaarde om naast de cognitieve vakken de kinderen kennis te laten maken met de kunstvormen theater en dans." Daarnaast hadden de leerlingen al muziekles en met de NPO-gelden wilden ze dit creatieve vakkenpakket uitbreiden met dans- en theaterlessen. 
 
 De betreffende docent zei ook nog: “Natuurlijk moeten er achterstanden ingehaald worden, maar wij denken dat die veel meer liggen op het vlak van samenwerken, naar elkaar luisteren. Dat pakken we liever aan met creatieve vakken. Dat kunnen jullie toch?” Ik had er meteen zin in. Wat goed dat ze de NPO-gelden gebruiken voor cultuureducatie. En dat ze de noodzaak zien.
