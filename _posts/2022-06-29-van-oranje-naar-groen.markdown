@@ -3,7 +3,7 @@ title: Van oranje naar groen
 date: 2022-06-29 09:40:00 +02:00
 blogger: Fee Reynaert
 assets:
-- path: "/uploads/blogpoast%20pag.png"
+- path: "/uploads/van-oranje-naar-groen.jpg"
 ---
 
 *Door: Fee Reynaert*

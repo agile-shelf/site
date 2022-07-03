@@ -234,7 +234,7 @@ $(function(){
 			var itemLink = 'https://www.instagram.com/p/' + item.shortcode;
 			var imgLink = 'https://bibliogram.art/imageproxy?url=' + encodeURIComponent(item.thumbnail_resources[2].src);
 			var itemAfbeelding = '<a href="' + itemLink + '" title="Klik!" rel="noopener noreferrer"><div class="instagram-post-cirkel"><div class="instagram-post-foto lazyload" data-bg="' + imgLink + '"></div></div></a>';
-			var	itemBericht = "Foto zonder bericht @opde1sterij"
+			var	itemBericht = "Foto zonder bericht. Klik hier om op Instagram te bekijken."
 			if (item.edge_media_to_caption.edges[0] != undefined) {
 				itemBericht = item.edge_media_to_caption.edges[0].node.text
 			}
