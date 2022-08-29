@@ -199,8 +199,8 @@ $(function(){
 			onderdeel = item.artist.name.toLowerCase();
 			if (onderdeel.includes('zwerm')) {
 				onderdeel = 'theatergroep-zwerm';
-			} else if (onderdeel.includes('vibes')) {
-				onderdeel = 'vibes';
+			} else if (onderdeel.includes('traject c')) {
+				onderdeel = 'traject-c';
 			} else if (onderdeel.includes('theaterchallenge')) {
 				onderdeel = 'theaterchallenge';
 			} else if (onderdeel.includes('monkeyspoom')) {
