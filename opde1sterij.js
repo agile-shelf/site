@@ -247,8 +247,8 @@ $(function(){
 			itemTijdGeleden = instagramItemTijdGeleden;
 			var itemTijdGeledenInDelen = itemTijdGeleden.split(' ');
 			var itemTijdGeledenDatum = itemTijdGeledenInDelen[0].split('.');
-			itemTijdGeleden = new Date(itemTijdGeledenDatum[2].trim() + '-' + itemTijdGeledenDatum[1].trim() + '-' + itemTijdGeledenDatum[0].trim() + 'T' + itemTijdGeledenInDelen[1].trim() + '+03:00').toLocaleString('en-US', { timeZone: 'Europe/Amsterdam' });
-			itemTijdGeleden = jQuery.timeago(itemTijdGeleden);
+			itemTijdGeleden = new Date(itemTijdGeledenDatum[2].trim() + '-' + itemTijdGeledenDatum[1].trim() + '-' + itemTijdGeledenDatum[0].trim() + 'T' + itemTijdGeledenInDelen[1].trim()).setHours(parseInt(itemTijdGeledenInDelen[1]) - 1);
+			itemTijdGeleden = jQuery.timeago(new Date(itemTijdGeleden).toLocaleString());
 		}
 		$('.laatste-instagram-post').html('<div class="instagram-post-linker-kolom"><div class="instagram-post-plaatje">' + itemAfbeelding + '</div><p class="instagram-post-tijd">' + itemTijdGeleden + '</p></div><div class="instagram-post-rechter-kolom"><p>' + itemBericht + '</p></div>');
 		$('.instagram-post-rechter-kolom p')
