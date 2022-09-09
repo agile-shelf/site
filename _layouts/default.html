@@ -2,9 +2,6 @@
 <html class="no-js" lang="nl">
 	<head>
 		<meta charset="utf-8">
-<!-- 
-		<meta name="referrer" content="no-referrer">
- -->
 		<title>{% if page.url != '/' %}{{page.title}}{% if page.leeftijd %} ({{page.leeftijd}}){% endif %} -{% endif %}{% assign parent = page.url | split: '/' %}{% if parent[2] %} {{parent[1] | replace: '/', '' | replace: '-', ' ' | replace: 'opde1sterij', 'Home' | replace: 'theaterchallenge', 'TheaterChallenge' | capitalize}} -{% endif %} {{site.title}}</title>
 		{% assign home-page = site.pages | where_exp: 'sub-page', 'sub-page.url == "/"' | first %}{% if page.url == '/blog/' %}{% assign blog-page = site.collections | where: 'title', 'Posts' | first %}{% assign description = blog-page.korte-beschrijving %}{% else %}{% assign description = page.korte-beschrijving | default: home-page.korte-beschrijving %}{% endif %}<meta name="description" content="{% if page.blogger %}{{page.content | replace: '</em>', ' • ' | strip_html | strip_newlines | truncate: 160}}{% else %}{{description}}{% endif %}">
 		<meta name="viewport" content="width=device-width, initial-scale=1">

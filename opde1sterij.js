@@ -189,7 +189,7 @@ $(function() {
 	var laatsteAgenda = 'https://df16q22jjvdd7.cloudfront.net';
 	$.ajax({
 		url: laatsteAgenda,
-		timeout: 10000
+		timeout: 3000
 	})
 	.done(function(agendaData) {
 		$.each(agendaData.data,function(index, item) {
@@ -225,18 +225,17 @@ $(function() {
 	});
 	
 	var itemLink = 'https://www.instagram.com/opde1sterij';
-	var itemImgLink = '/instagram_nieuw.jpg';
 	var itemBericht = 'Foto zonder bericht. Klik hier om op Instagram te bekijken.';
 	var itemTijdGeleden = 'Recent';
-	var instagramItemImgLink, instagramItemBericht, instagramTijdGeleden;
+	var itemImgLink, instagramItemImgLink, instagramItemBericht, instagramTijdGeleden;
 	$.ajax({
 		url: 'https://corsproxy.io/?' + encodeURIComponent('https://www.picuki.com/profile/opde1sterij'),
-		timeout: 10000
+		timeout: 3000
 	})
 	.done(function(instagramData) {
 		instagramItemImgLink = $(instagramData).find('.post-image').first().attr('src');
 		if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
-			itemImgLink = instagramItemImgLink;
+			itemImgLink = 'https://corsproxy.io/?' + instagramItemImgLink;
 		}
 		var instagramItemBericht = $(instagramData).find('.photo-description').first().text().trim();
 		if (instagramItemBericht != undefined && instagramItemBericht != '') {
@@ -268,7 +267,7 @@ $(function() {
 	.fail(function() {
 		$.ajax({
 			url: 'https://corsproxy.io/?' + encodeURIComponent('https://hookgram.com/en/u/opde1sterij'),
-			timeout: 10000
+			timeout: 3000
 		})
 		.done(function(instagramData) {
 			instagramItemImgLink = $(instagramData).find('.card-img-top').first().attr('src');
@@ -302,7 +301,7 @@ $(function() {
 				return this.nodeType == 3;
 			})
 			.wrap('<span class="zichtbaar">');
-		$('.laatste-instagram-post').wrap('<a class="laatste-instagram-post-link" title="Bekijk op Instagram" href="' + itemLink + '" rel="noopener noreferrer"></a>')
+		$('.laatste-instagram-post').wrap('<a class="laatste-instagram-post-link" title="Bekijk op Instagram" href="' + itemLink + '" rel="noopener noreferrer"></a>');
 	}
 
 	$(window).on('load', function() {
