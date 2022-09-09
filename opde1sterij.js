@@ -287,12 +287,12 @@ $(function() {
 			laadtInstagramPost();
 		})
 		.fail(function() {
-			$('.laatste-instagram-post').html('<div class="instagram-post-linker-kolom"><div class="instagram-post-plaatje"><div class="instagram-post-cirkel"><a href="https://www.instagram.com/opde1sterij" title="Op de eerste rij op Instagram" rel="noopener noreferrer"><div class="instagram-post-foto lazyload" data-bg="/instagram_nieuw.jpg"></div></a></div></div></div><div class="instagram-post-rechter-kolom"><p>Laatste Instagram post kon niet geladen worden.<br>Ga direct naar: <a href="https://www.instagram.com/opde1sterij" title="Op de eerste rij op Instagram" rel="noopener noreferrer">instagram.com/opde1sterij</a></span></p></div>');
+			$('.laatste-instagram-post').html('<div class="instagram-post-linker-kolom"><div class="instagram-post-plaatje"><div class="instagram-post-cirkel lazyload" data-bg="/instagram_nieuw.jpg"><a href="https://www.instagram.com/opde1sterij" title="Op de eerste rij op Instagram" rel="noopener noreferrer"><div class="instagram-post-foto"></div></a></div></div></div><div class="instagram-post-rechter-kolom"><p>Laatste Instagram post kon niet geladen worden.<br>Ga direct naar: <a href="https://www.instagram.com/opde1sterij" title="Op de eerste rij op Instagram" rel="noopener noreferrer">instagram.com/opde1sterij</a></span></p></div>');
 		});
 	});
 	
 	function laadtInstagramPost() {
-		var itemAfbeelding = '<a href="' + itemLink + '" title="Klik!" rel="noopener noreferrer"><div class="instagram-post-cirkel"><div class="instagram-post-foto lazyload" data-bg="' + itemImgLink + '"></div></div></a>';
+		var itemAfbeelding = '<a href="' + itemLink + '" title="Klik!" rel="noopener noreferrer"><div class="instagram-post-cirkel lazyload" data-bg="/instagram_nieuw.jpg"><div class="instagram-post-foto lazyload" data-bg="' + itemImgLink + '"></div></div></a>';
 		$('.laatste-instagram-post').html('<div class="instagram-post-linker-kolom"><div class="instagram-post-plaatje">' + itemAfbeelding + '</div><p class="instagram-post-tijd">' + itemTijdGeleden + '</p></div><div class="instagram-post-rechter-kolom"><p>' + itemBericht + '</p></div>');
 		$('.instagram-post-rechter-kolom p')
 			.shave(106, {classname: 'onzichtbaar', character: '…'})
