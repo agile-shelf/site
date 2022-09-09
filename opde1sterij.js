@@ -192,7 +192,7 @@ $(function() {
 		timeout: 10000
 	})
 	.done(function(agendaData) {
-		$.each(agendaData.data,function(index,item) {
+		$.each(agendaData.data,function(index, item) {
 			onderdeel = item.artist.name.toLowerCase();
 			if (onderdeel.includes('zwerm')) {
 				onderdeel = 'theatergroep-zwerm';
@@ -236,7 +236,7 @@ $(function() {
 	.done(function(instagramData) {
 		instagramItemImgLink = $(instagramData).find('.post-image').first().attr('src');
 		if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
-			itemImgLink = 'https://corsproxy.io/?' + instagramItemImgLink;
+			itemImgLink = instagramItemImgLink;
 		}
 		var instagramItemBericht = $(instagramData).find('.photo-description').first().text().trim();
 		if (instagramItemBericht != undefined && instagramItemBericht != '') {
