@@ -231,19 +231,19 @@ $(function() {
 	var instagramItemImgLink, instagramItemBericht, instagramTijdGeleden;
 	$.ajax({
 		url: 'https://corsproxy.io/?' + encodeURIComponent('https://www.picuki.com/profile/opde1sterij'),
-		timeout: 3000
+		timeout: 10000
 	})
 	.done(function(instagramData) {
 		instagramItemImgLink = $(instagramData).find('.post-image').first().attr('src');
 		if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
-			itemImgLink = 'https://corsproxy.io/?' + instagramItemImgLink;
+			itemImgLink = 'https://corsproxy.io/?' + encodeURIComponent(instagramItemImgLink);
 		}
 		var instagramItemBericht = $(instagramData).find('.photo-description').first().text().trim();
 		if (instagramItemBericht != undefined && instagramItemBericht != '') {
 			itemBericht = instagramItemBericht;
 		}
 		instagramItemTijdGeleden = $(instagramData).find('.time').first().text().trim();
-		if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '' && instagramItemTijdGeleden != '') {
+		if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
 			var itemTijdGeledenVertaling = {
 				ago: 'geleden',
 				second: 'seconde',
@@ -268,12 +268,12 @@ $(function() {
 	.fail(function() {
 		$.ajax({
 			url: 'https://corsproxy.io/?' + encodeURIComponent('https://hookgram.com/en/u/opde1sterij'),
-			timeout: 3000
+			timeout: 10000
 		})
 		.done(function(instagramData) {
 			instagramItemImgLink = $(instagramData).find('.card-img-top').first().attr('src');
 			if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
-				itemImgLink = 'https://corsproxy.io/?' + instagramItemImgLink;
+				itemImgLink = 'https://corsproxy.io/?' + encodeURIComponent(instagramItemImgLink);
 			}
 			instagramItemBericht = $(instagramData).find('.card-body .small').first().text().trim();
 			if (instagramItemBericht != undefined && instagramItemBericht != '') {
