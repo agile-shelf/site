@@ -225,9 +225,10 @@ $(function() {
 	});
 	
 	var itemLink = 'https://www.instagram.com/opde1sterij';
-	var itemBericht = 'Foto zonder bericht. Klik hier om op Instagram te bekijken.';
-	var itemTijdGeleden = 'Recent';
-	var itemImgLink, instagramItemImgLink, instagramItemBericht, instagramTijdGeleden;
+	var itemImgLink = '';
+	var itemBericht = 'Klik hier om de meest recente posts op onze Instagram pagina te bekijken. @opde1sterij';
+	var itemTijdGeleden = '';
+	var instagramItemImgLink, instagramItemBericht, instagramTijdGeleden;
 	$.ajax({
 		url: 'https://corsproxy.io/?' + encodeURIComponent('https://www.picuki.com/profile/opde1sterij'),
 		timeout: 3000
