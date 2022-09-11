@@ -236,7 +236,7 @@ $(function() {
 	.done(function(instagramData) {
 		instagramItemImgLink = $(instagramData).find('.post-image').first().attr('src');
 		if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
-			itemImgLink = 'https://corsproxy.io/?' + encodeURIComponent(instagramItemImgLink);
+			itemImgLink = instagramItemImgLink;
 		}
 		var instagramItemBericht = $(instagramData).find('.photo-description').first().text().trim();
 		if (instagramItemBericht != undefined && instagramItemBericht != '') {
@@ -273,7 +273,7 @@ $(function() {
 		.done(function(instagramData) {
 			instagramItemImgLink = $(instagramData).find('.card-img-top').first().attr('src');
 			if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
-				itemImgLink = 'https://corsproxy.io/?' + encodeURIComponent(instagramItemImgLink);
+				itemImgLink = 'https://corsproxy.io/?' + instagramItemImgLink;
 			}
 			instagramItemBericht = $(instagramData).find('.card-body .small').first().text().trim();
 			if (instagramItemBericht != undefined && instagramItemBericht != '') {
