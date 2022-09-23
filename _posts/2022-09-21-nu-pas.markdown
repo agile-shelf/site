@@ -2,7 +2,7 @@
 title: Nu pas?
 date: 2022-09-21 14:33:00 +02:00
 assets:
-- path: "/uploads/blog%20kbw%20sept%2022.png"
+- path: "/uploads/nu-pas.jpg"
 blogger: Esther Hulst
 ---
 
