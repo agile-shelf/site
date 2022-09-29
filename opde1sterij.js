@@ -238,7 +238,7 @@ $(function() {
 		instagramProfiel = $(picukiData, virtueelDocument).find('.profile-name-top').first().text().trim();
 		instagramItemImgLink = $(picukiData, virtueelDocument).find('.post-image').first().attr('src');
 		if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
-			itemImgLink = instagramItemImgLink;
+			itemImgLink = 'https://corsproxy.io/?' + instagramItemImgLink;
 		}
 		var instagramItemBericht = $(picukiData, virtueelDocument).find('.photo-description').first().text().trim();
 		if (instagramItemBericht != undefined && instagramItemBericht != '') {
@@ -285,25 +285,25 @@ $(function() {
 			virtueelDocument = document.implementation.createHTMLDocument('virtueel');
 			instagramProfiel = $(hookgramData, virtueelDocument).find('h2').first().text().trim();
 			instagramItemImgLink = $(hookgramData, virtueelDocument).find('.card-img-top').first().attr('src');
-			if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
-				itemImgLink = 'https://corsproxy.io/?' + instagramItemImgLink;
+			if (instagramProfiel == 'opde1sterij') {
+				if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
+					itemImgLink = 'https://corsproxy.io/?' + instagramItemImgLink;
+				}
+				instagramItemBericht = $(hookgramData, virtueelDocument).find('.card-body .small').first().text().trim();
+				if (instagramItemBericht != undefined && instagramItemBericht != '') {
+					itemBericht = instagramItemBericht;
+				}
+				instagramItemTijdGeleden = $(hookgramData, virtueelDocument).find('.card-flag-top-right').first().text().trim();
+				if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
+					var itemTijdGeledenInDelen = instagramItemTijdGeleden.split(' ');
+					var itemTijdGeledenDatum = itemTijdGeledenInDelen[0].split('.');
+					itemTijdGeleden = jQuery.timeago(new Date(itemTijdGeledenDatum[2].trim() + '-' + itemTijdGeledenDatum[1].trim() + '-' + itemTijdGeledenDatum[0].trim() + 'T' + itemTijdGeledenInDelen[1].trim()).setHours(parseInt(itemTijdGeledenInDelen[1]) - 1));
+				}
 			}
-			instagramItemBericht = $(hookgramData, virtueelDocument).find('.card-body .small').first().text().trim();
-			if (instagramItemBericht != undefined && instagramItemBericht != '') {
-				itemBericht = instagramItemBericht;
-			}
-			instagramItemTijdGeleden = $(hookgramData, virtueelDocument).find('.card-flag-top-right').first().text().trim();
-			if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
-				var itemTijdGeledenInDelen = instagramItemTijdGeleden.split(' ');
-				var itemTijdGeledenDatum = itemTijdGeledenInDelen[0].split('.');
-				itemTijdGeleden = jQuery.timeago(new Date(itemTijdGeledenDatum[2].trim() + '-' + itemTijdGeledenDatum[1].trim() + '-' + itemTijdGeledenDatum[0].trim() + 'T' + itemTijdGeledenInDelen[1].trim()).setHours(parseInt(itemTijdGeledenInDelen[1]) - 1));
-			}
-			if (itemImgLink != '' && instagramProfiel == 'opde1sterij') {
-				plaatsInstagramPost();
-			} 
+			plaatsInstagramPost();
 		})
 		.fail(function() {
-			$('.laatste-instagram-post').html('<div class="instagram-post-linker-kolom"><div class="instagram-post-plaatje"><div class="instagram-post-cirkel lazyload" data-bg="/instagram_nieuw.jpg"><a href="https://www.instagram.com/opde1sterij" title="Op de eerste rij op Instagram" rel="noopener noreferrer"><div class="instagram-post-foto"></div></a></div></div></div><div class="instagram-post-rechter-kolom"><p>Laatste Instagram post kon niet geladen worden.<br>Ga direct naar: <a href="https://www.instagram.com/opde1sterij" title="Op de eerste rij op Instagram" rel="noopener noreferrer">instagram.com/opde1sterij</a></span></p></div>');
+			plaatsInstagramPost();
 		});
 	}
 	
