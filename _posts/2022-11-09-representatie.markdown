@@ -3,7 +3,7 @@ title: Representatie
 date: 2022-11-09 10:45:00 +01:00
 assets:
 - path: "/uploads/Blog%209-11.png"
-Blogger: Esther Hulst
+blogger: Esther Hulst
 ---
 
 *Door: Esther Hulst*
