@@ -21,4 +21,8 @@ Wat gebeurt er dan met het budget dat er over blijft?, hoor ik je denken. Dat wo
 En dan nog iets over onszelf.
 Met Op de eerste rij gaat het ondanks of misschien wel dankzij alle Corona-perikelen heel goed. “Dankzij” omdat we er door de online-versie van onze voorstellingen heel wat nieuwe scholen als klant bij hebben. Super leuk. Dit jaar verzorgen we met Traject C op meerdere verschillende scholen lessenreeksen, staan er al 15 TheaterChallenges in de agenda en spelen we met Theatergroep Zwerm al meer dan 300 voorstellingen. Gelukkig hebben nog wel wat ruimte in onze agenda om ook bij jou op school cultuureducatie te verzorgen.
 
-We zouden het jammer vinden als er veel geld bestemd voor cultuureducatie op de plank blijft liggen. Vooral omdat het al begroot is. Het is gereserveerd voor cultuureducatie, het moet alleen uitgegeven worden.  Heeft jouw school ook nog budget over? Neem dan contact met ons op via telefoon 023-2052482, [mail](mailto: info@opde1sterij.nl) of plan een [belafspraak](https://calendly.com/opde1sterij/bellen-voor-meer-info) in. Zo kun je het CJP-budget toch nog besteden aan cultuur. Precies waar het voor bedoeld is.
+We zouden het jammer vinden als er veel geld bestemd voor cultuureducatie op de plank blijft liggen. Vooral omdat het al begroot is. Het is gereserveerd voor cultuureducatie, het moet alleen uitgegeven worden.  
+
+Heeft jouw school ook nog budget over? Neem dan contact met ons op via telefoon 023-2052482, [mail](mailto: info@opde1sterij.nl) of plan een [belafspraak](https://calendly.com/opde1sterij/bellen-voor-meer-info) in. 
+
+Zo kun je het CJP-budget toch nog besteden aan cultuur. Precies waar het voor bedoeld is.
