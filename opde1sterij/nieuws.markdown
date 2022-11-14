@@ -2,6 +2,9 @@
 title: Nieuws - Alert! CJP-budget
 date: 2022-11-07 07:09:00 +01:00
 position: 1
+filmpje-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/5C9CC6vLBmA"
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 assets:
 - path: "/uploads/CJP-Alert%20maak%20het%20budget%20op%20nieuws.png"
 author: info@opde1sterij.nl
