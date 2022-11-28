@@ -1,6 +1,7 @@
 ---
 title: Het hele jaar rond
 date: 2022-06-15 08:00:00 +02:00
+permalink: "/blog/2022-06-15-het-hele-jaar-rond/"
 assets:
 - path: "/uploads/het-hele-jaar-rond.jpg"
 blogger: Esther Hulst

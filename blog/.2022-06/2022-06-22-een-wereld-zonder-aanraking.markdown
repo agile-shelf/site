@@ -1,6 +1,7 @@
 ---
 title: Een wereld zonder aanraking
 date: 2022-06-22 08:00:00 +02:00
+permalink: "/blog/2022-06-22-een-wereld-zonder-aanraking/"
 assets:
 - path: "/uploads/een-wereld-zonder-aanraking.jpg"
 blogger: Esther Hulst

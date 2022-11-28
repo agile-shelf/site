@@ -1,6 +1,7 @@
 ---
 title: Van oranje naar groen
 date: 2022-06-29 09:40:00 +02:00
+permalink: "/blog/2022-06-29-van-oranje-naar-groen/"
 blogger: Fee Reynaert
 assets:
 - path: "/uploads/van-oranje-naar-groen.jpg"

@@ -1,6 +1,7 @@
 ---
 title: Kinderboekenweek
 date: 2022-06-01 07:03:00 +02:00
+permalink: "/blog/2022-06-01-kinderboekenweek/"
 assets:
 - path: "/uploads/kinderboekenweek.jpg"
 blogger: Esther Hulst

@@ -1,6 +1,7 @@
 ---
 title: Nu pas?
 date: 2022-09-21 14:33:00 +02:00
+permalink: "/blog/2022-09-21-nu-pas/"
 assets:
 - path: "/uploads/nu-pas.jpg"
 blogger: Esther Hulst

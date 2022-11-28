@@ -1,6 +1,7 @@
 ---
 title: Zie je in de zaal!
 date: 2022-04-13 09:52:00 +02:00
+permalink: "/blog/2022-04-13-zie-je-in-de-zaal/"
 blogger: Fee Reynaert
 assets:
 - path: "/uploads/zie-je-in-de-zaal.jpg"

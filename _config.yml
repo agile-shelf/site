@@ -39,6 +39,7 @@ defaults:
   values:
     layout: default
     permalink: "/blog/:i_day-:i_month-:year-:title/"
+    blogger: 
     trailer-embed-code: 
     filmpje-embed-code: 
     assets:

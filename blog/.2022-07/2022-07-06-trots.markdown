@@ -1,6 +1,7 @@
 ---
 title: Trots
 date: 2022-07-06 22:20:00 +02:00
+permalink: "/blog/2022-07-06-trots/"
 blogger: Esther Hulst
 assets:
 - path: "/uploads/trots-2.jpg"
