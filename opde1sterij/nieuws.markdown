@@ -6,7 +6,7 @@ trailer-embed-code: <iframe width="560" height="315" src="https://www.youtube.co
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 assets:
-- path: "/uploads/CJP-Alert%20maak%20het%20budget%20op%20nieuws.png"
+- path: "/uploads/nieuws-alert!-cjp-budget"
 author: info@opde1sterij.nl
 ---
 
