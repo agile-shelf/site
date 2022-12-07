@@ -1,6 +1,6 @@
 ---
 title: Dag Sinterklaas
-date: 2022-12-07 20:13:00 +01:00
+date: 2022-12-07 08:13:00 +01:00
 blogger: Esther Hulst
 assets:
 - path: "/uploads/sint%20gaat.png"
