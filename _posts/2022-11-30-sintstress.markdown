@@ -3,7 +3,7 @@ title: Sintstress
 date: 2022-11-30 12:12:00 +01:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/Blog%2030%20nov.png"
+- path: "/uploads/sintstress.jpg"
 ---
 
 *Door: Esther Hulst*

@@ -244,7 +244,7 @@ $(function() {
 		if (instagramItemBericht != undefined && instagramItemBericht != '') {
 			itemBericht = instagramItemBericht;
 		}
-		instagramItemTijdGeleden = $(picukiData, virtueelDocument).find('.time').first().text().trim();
+		instagramItemTijdGeleden = $(picukiData, virtueelDocument).find('.time span').first().text().trim();
 		if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
 			var itemTijdGeledenVertaling = {
 				ago: 'geleden',
@@ -252,16 +252,16 @@ $(function() {
 				seconds: 'seconden',
 				minute: 'minuut',
 				minutes: 'minuten',
-				hour: 'een uur',
+				hour: 'uur',
 				hours: 'uur',
-				day: 'een dag',
+				day: 'dag',
 				days: 'dagen',
-				month: 'een maand',
+				month: 'maand',
 				months: 'maanden',
-				year: 'een jaar',
+				year: 'jaar',
 				years: 'jaar'
 			};
-			itemTijdGeleden = instagramItemTijdGeleden.replace(/ago|second |seconds|minute |minutes|hour |hours|day |days|month |months|year |years/gi, function(matched) {
+			itemTijdGeleden = instagramItemTijdGeleden.replace(/ago|second|seconds|minute|minutes|hour|hours|day|days|month|months|year|years/gi, function(matched) {
   				return itemTijdGeledenVertaling[matched];
 			});
 		}
