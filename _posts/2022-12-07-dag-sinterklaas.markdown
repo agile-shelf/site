@@ -1,6 +1,7 @@
 ---
 title: Dag Sinterklaas
 date: 2022-12-07 08:13:00 +01:00
+permalink: "/blog/7-12-2022-dag-sinterklaas/"
 blogger: Esther Hulst
 assets:
 - path: "/uploads/dag-sinterklaas.jpg"
