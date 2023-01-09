@@ -30,7 +30,7 @@ kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: 12+ alle niveaus 
   met de recente corona-maatregelen en de richtlijnen van het RIVM. Afhankelijk daarvan
   kan de voorstelling plaatsvinden in een aula, gymzaal of speellokaal.'
 leeftijd: 12+
-actie: online aanbod
+actie: 
 sleutelwoorden: 
 speciaal: coronaproof
 ---

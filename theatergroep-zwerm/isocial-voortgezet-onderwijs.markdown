@@ -32,7 +32,7 @@ kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: 12+ alle niveaus 
 leeftijd: 12+
 sleutelwoorden: 
 speciaal: coronaproof
-actie: online aanbod
+actie: 
 ---
 
 **iSocial** Het leven van jongeren speelt zich voor een steeds groter deel online af. Deze steeds veranderende online wereld is voor de gemiddelde volwassene nauwelijks bij te benen. Maar hoe worden jongeren hier wegwijs in?

@@ -23,4 +23,4 @@ Om aan de verschillende wensen, protocollen en richtlijnen te kunnen voldoen zij
 
 We houden ons te alle tijden aan de meest recente richtlijnen van het RIVM, de protocollen van de scholen en de sector cultuureducatie.
 
-Mocht je vragen hebben? Bel 023-205 2482 <a href="tel:+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a> of [mail](mailto: boekingen@opde1sterij.nl). In overleg is er nog veel meer mogelijk.
+Mocht je vragen hebben? Bel <a href="tel:+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a> of [mail](mailto: boekingen@opde1sterij.nl). In overleg is er nog veel meer mogelijk.
