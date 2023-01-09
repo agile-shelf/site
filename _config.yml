@@ -30,6 +30,7 @@ defaults:
     korte-beschrijving: 
     trailer-embed-code: 
     filmpje-embed-code: 
+    home-page: 
     assets:
     - path: ''
       name: ''

@@ -128,12 +128,12 @@
 							<div class="blokje"></div>
 						</a>
 					</div>{% assign pages = site.pages | sort: 'position' | where_exp: 'sub-page', 'sub-page.dir contains "opde1sterij"' %}
-					{% for page in pages %}<h1 id='{{page.title | replace: ' ', '-' | replace: '!', '' | downcase}}'><a href="{{page.url}}" title="{{page.title}}">{{page.title}}</a></h1>
+					{% for page in pages %}{% if page.home-page != 'nee'%}<h1 id='{{page.title | replace: ' ', '-' | replace: '!', '' | downcase}}'><a href="{{page.url}}" title="{{page.title}}">{{page.title}}</a></h1>
 					<div class="tekst">
 						{{page.content | replace: '<iframe', '<div class="filmpje"><div class="video-wikkel normale-ratio"><iframe' | replace: 'src=', 'data-src=' | replace: 'youtube.com', 'youtube-nocookie.com' | replace: '></iframe>', ' class="lazyload"></iframe></div></div>'}}
 						{% assign trailer = page.trailer-embed-code | default: 'geen trailer' %}{% if trailer != 'geen trailer' %}{{page.trailer-embed-code | replace: '<iframe', '<div class="filmpje"><div class="video-wikkel normale-ratio"><iframe' | replace: 'src=', 'data-src=' | replace: 'youtube.com', 'youtube-nocookie.com' | replace: '></iframe>', ' class="lazyload"></iframe></div></div>'}}{% endif %}
 						{% if page.assets[0].path != '' %}<noscript><img src="{{page.assets[0].path}}" style="width: 100%; margin: 16px 0 0;" /></noscript><img class="lazyload" data-src="{{page.assets[0].path}}" style="width: 100%; margin: 16px 0 0;" />{% endif %}
-					</div>{% endfor %}
+					</div>{% endif %}{% endfor %}
 					{% assign vacatures-page = site.pages | where_exp: 'sub-page', 'sub-page.url == "/vacatures/"' | first %}{% if vacatures-page %}<a class="link link-vacatures" href="/vacatures/" title="Bekijk de vacatures">
 						<span>Werken bij op de eerste rij? Bekijk de vacatures</span>
 						<div class="blokje"></div>
@@ -310,8 +310,8 @@
 				</article>
 				{% else %}<article class="{% if page.actie %}actie{% endif %} {% if page.speciaal %}speciaal{% endif %}">
 					<h1>{{page.title}}{% if page.leeftijd %} <span class="leeftijd-doelgroep">({{page.leeftijd}})</span>{% endif %}</h1>
-					{% if page.actie %}<a class="actie-knop" href='/{{page.actie | replace: ' ', '-' | replace: '!', '' | downcase}}'>{{page.actie | replace: 'vroegboekkorting', 'vroegboek korting' | replace: 'onlineaanbod', 'online aanbod' | replace: '!', ''}}➔</a>{% endif %}
-					{% if page.speciaal %}<a class="speciaal-knop" href='/{{page.speciaal | replace: ' ', '-' | replace: '!', '' | downcase}}'>{{page.speciaal | replace: 'coronaproof', 'corona proof' | replace: '!', ''}}➔</a>{% endif %}
+					{% if page.actie %}<a class="actie-knop" href='/opde1sterij/{{page.actie | replace: ' ', '-' | replace: '!', '' | downcase}}'>{{page.actie | replace: 'vroegboekkorting', 'vroegboek korting' | replace: 'onlineaanbod', 'online aanbod' | replace: '!', ''}}➔</a>{% endif %}
+					{% if page.speciaal %}<a class="speciaal-knop" href='/opde1sterij/{{page.speciaal | replace: ' ', '-' | replace: '!', '' | downcase}}'>{{page.speciaal | replace: 'coronaproof', 'corona proof' | replace: '!', ''}}➔</a>{% endif %}
 					<div class="tekst">
 						{{content | replace: '<iframe', '<div class="video-wikkel normale-ratio"><iframe' | replace: 'src=', 'data-src=' | replace: 'youtube.com', 'youtube-nocookie.com' | replace: '></iframe>', ' class="lazyload"></iframe></div>'}}
 						{% assign sleutelwoorden = page.sleutelwoorden | default: 'geen sleutelwoorden' %}{% if sleutelwoorden != 'geen sleutelwoorden' %}<ul><li><span class="kenmerk-lijst-titel">Sleutelwoorden<span class="kapitalen-dubbelepunt">:</span></span> <span class="kenmerk-lijst-info">{{page.sleutelwoorden}}</span></li></ul>{% endif %}
