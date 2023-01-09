@@ -3,10 +3,10 @@ title: Online aanbod
 date: 2021-02-08 14:41:00 +01:00
 position: 6
 korte-beschrijving: online aanbod
-trailer-embed-code: <iframe width="560" height="315" data-src="https://www.youtube-nocookie.com/embed/vwLyG9S7488"
+trailer-embed-code: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vwLyG9S7488"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen class="lazyload"></iframe>
-filmpje-embed-code: <iframe width="560" height="315" data-src="https://www.youtube-nocookie.com/embed/s1S8I6nWelk"
+filmpje-embed-code: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/s1S8I6nWelk"
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="lazyload"></iframe>
 home-page: nee
