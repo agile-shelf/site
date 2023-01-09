@@ -30,7 +30,7 @@ kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: groep 7 & 8 ook s
   en de richtlijnen van het RIVM. Afhankelijk daarvan kan de voorstelling plaatsvinden
   in een aula, gymzaal of speellokaal.'
 leeftijd: groep 7 & 8
-actie: online aanbod
+actie: 
 sleutelwoorden: 
 speciaal: coronaproof
 ---
