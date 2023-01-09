@@ -1,9 +1,10 @@
 ---
 title: Representatie
 date: 2022-11-09 10:45:00 +01:00
+permalink: l/blog/9-11-2022-representatie/
+blogger: Esther Hulst
 assets:
 - path: "/uploads/representatie.jpg"
-blogger: Esther Hulst
 ---
 
 *Door: Esther Hulst*

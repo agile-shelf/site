@@ -1,6 +1,7 @@
 ---
 title: Sintstress
 date: 2022-11-30 12:12:00 +01:00
+permalink: "/blog/30-11-2022-sintstress/"
 blogger: Esther Hulst
 assets:
 - path: "/uploads/sintstress.jpg"

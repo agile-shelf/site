@@ -310,8 +310,8 @@
 				</article>
 				{% else %}<article class="{% if page.actie %}actie{% endif %} {% if page.speciaal %}speciaal{% endif %}">
 					<h1>{{page.title}}{% if page.leeftijd %} <span class="leeftijd-doelgroep">({{page.leeftijd}})</span>{% endif %}</h1>
-					{% if page.actie %}<a class="actie-knop" href='/#{{page.actie | replace: ' ', '-' | replace: '!', '' | downcase}}'>{{page.actie | replace: 'vroegboekkorting', 'vroegboek korting' | replace: 'onlineaanbod', 'online aanbod' | replace: '!', ''}}➔</a>{% endif %}
-					{% if page.speciaal %}<a class="speciaal-knop" href='/#{{page.speciaal | replace: ' ', '-' | replace: '!', '' | downcase}}'>{{page.speciaal | replace: 'coronaproof', 'corona proof' | replace: '!', ''}}➔</a>{% endif %}
+					{% if page.actie %}<a class="actie-knop" href='/{{page.actie | replace: ' ', '-' | replace: '!', '' | downcase}}'>{{page.actie | replace: 'vroegboekkorting', 'vroegboek korting' | replace: 'onlineaanbod', 'online aanbod' | replace: '!', ''}}➔</a>{% endif %}
+					{% if page.speciaal %}<a class="speciaal-knop" href='/{{page.speciaal | replace: ' ', '-' | replace: '!', '' | downcase}}'>{{page.speciaal | replace: 'coronaproof', 'corona proof' | replace: '!', ''}}➔</a>{% endif %}
 					<div class="tekst">
 						{{content | replace: '<iframe', '<div class="video-wikkel normale-ratio"><iframe' | replace: 'src=', 'data-src=' | replace: 'youtube.com', 'youtube-nocookie.com' | replace: '></iframe>', ' class="lazyload"></iframe></div>'}}
 						{% assign sleutelwoorden = page.sleutelwoorden | default: 'geen sleutelwoorden' %}{% if sleutelwoorden != 'geen sleutelwoorden' %}<ul><li><span class="kenmerk-lijst-titel">Sleutelwoorden<span class="kapitalen-dubbelepunt">:</span></span> <span class="kenmerk-lijst-info">{{page.sleutelwoorden}}</span></li></ul>{% endif %}
@@ -328,7 +328,7 @@
 						<div class="blokje"></div>
 					</a>
 					<a class="terug-naar-onderdeel link" href="{% assign parent = page.url | split: '/' %}{% if parent[2] %}/{% if parent[1] != 'opde1sterij' %}{{parent[1]}}{% endif %}{% else %}/{% endif %}" title="{% if parent[2] %}{% if parent[1] == 'opde1sterij' %}Home{% else %}Over {{parent[1] | replace: '/', '' | replace: '-', ' ' | replace: 'theaterchallenge', 'TheaterChallenge' | capitalize}}{% endif %}{% else %}Home{% endif %}">
-						<span>{% if page.url == '/cjp/' %}Home{% else %}{% assign parent = page.url | split: '/' %}{% if parent[2] %}{% if parent[1] == 'opde1sterij' %}Home{% else %}Over {{parent[1] | replace: '/', '' | replace: '-', ' ' | replace: 'theaterchallenge', 'TheaterChallenge' | capitalize}}{% endif %}{% endif %}{% endif %}</span>
+						<span>{% if page.url == '/cjp/' %}Home{% else %}{% assign parent = page.url | split: '/' %}{% if parent[2] %}{% if parent[1] == 'opde1sterij' %}Home{% else %}Over {{parent[1] | replace: '/', '' | replace: '-', ' ' | replace: 'theaterchallenge', 'TheaterChallenge' | capitalize}}{% endif %}{% else %}Home{% endif %}{% endif %}</span>
 						<div class="blokje"></div>
 					</a>{% endif %}
 				</article>

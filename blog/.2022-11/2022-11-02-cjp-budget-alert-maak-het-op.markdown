@@ -1,9 +1,10 @@
 ---
 title: CJP-budget alert! Maak het op!
 date: 2022-11-02 08:15:00 +01:00
+permalink: "/blog/2-11-2022-cjp-budget-alert-maak-het-op/"
+blogger: Esther Hulst
 assets:
 - path: "/uploads/cjp-budget-alert-maak-het-op.jpg"
-blogger: Esther Hulst
 ---
 
 *Door: Esther Hulst*

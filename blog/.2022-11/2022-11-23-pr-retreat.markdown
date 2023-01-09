@@ -1,9 +1,10 @@
 ---
 title: Pr-retreat
 date: 2022-11-23 07:45:00 +01:00
+permalink: "/blog/23-11-2022-pr-retreat/"
+blogger: Esther Hulst
 assets:
 - path: "/uploads/pr-retreat.jpg"
-blogger: Esther Hulst
 ---
 
 *Door: Esther Hulst*

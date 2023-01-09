@@ -1,8 +1,7 @@
 ---
 title: Coronaproof
 date: 2020-05-22 10:12:00 +02:00
-published: false
-position: 5
+position: 10
 assets:
 - path: "/uploads/coronaproof.jpg"
   name: coronaproof
