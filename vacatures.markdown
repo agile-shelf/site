@@ -4,7 +4,7 @@ date: 2015-10-25 22:52:00 +01:00
 position: 7
 korte-beschrijving: Werken bij Op de eerste rij? Bekijk de vacatures.
 assets:
-- path: "/uploads/Blauw%20Startup%20Kantoor%20Stage%20Vacature%20Aankondiging%20(Instagram-bericht%20(vierkant))%20(Facebook-bericht%20(liggend))%20(Presentatie%20(169)).png"
+- path: "/uploads/gezocht-administratieve-duizendpoot.jpg"
   name: vacature administratieve duizendpoot
 - path: "/uploads/vacature.jpg"
   name: vacature
