@@ -6,6 +6,8 @@ assets:
 - path: "/uploads/brainstorm%20blog.png"
 ---
 
+*Door: Esther Hulst*
+
 Ik hield nooit zo van brainstormen althans dat dacht ik. Toch gek, dat ik als theatermaker, creatieveling niet hou van brainstormen. Ik vind het moeilijk om geen ja-maar te mogen zeggen, als een idee gewoon geen goed idee is. En ik vind het nog moeilijker over zo’n idee vervolgens nog heel lang door te brainstormen, omdat ik het in de basis al een slecht idee vond. Doordat ik dan heel veel weerstand ervaar, ervaren de andere deelnemers weer mijn weerstand en krijg ik het stempel: slechte brainstormer.
 
 Terwijl: mijn Brain is één grote storm aan ideeën. Ik dacht zelf dat het zo ging doordat dat ik een snelle (soms te snelle) denker ben en al drie stappen vooruit denk. Maar sinds mijn deelname aan de PR-retreat (denk je: wat is dat in hemels naam? Lees dan de blog die ik erover schreef) in december weet ik beter. Het lag niet aan mij, gelukkig! Het lag aan de manier van brainstormen. Op de PR-retreat stond er een brainstorm op het programma. En in alle eerlijkheid: ik zag er een beetje tegenop. Ik had de overtuiging: ik ben een slechte brainstormer…. 
