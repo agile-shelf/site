@@ -6,7 +6,7 @@ korte-beschrijving: Werken bij Op de eerste rij? Bekijk de vacatures.
 assets:
 - path: "/uploads/gezocht-administratieve-duizendpoot.jpg"
   name: vacature administratieve duizendpoot
-- path: "/uploads/vacature.jpg"
+- path: "/uploads/3.png"
   name: vacature
 - path: "/uploads/wij-zoeken-theaterdocenten.jpg"
   name: wij-zoeken-theaterdocenten
