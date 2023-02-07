@@ -37,5 +37,5 @@ Op de eerste rij is op zoek naar administratieve ondersteuning voor min. 1 dag i
 Op de eerste rij is een bedrijf in Cultuureducatie werkzaam in het primair en voortgezet onderwijs. Op de eerste rij bestaat uit: [TheaterChallenge](https://www.opde1sterij.nl/theaterchallenge/), [Traject C](https://www.opde1sterij.nl/traject-c/) en [Theatergroep Zwerm](https://www.opde1sterij.nl/theatergroep-zwerm/). Bij ons vind je inspirerende workshops, prikkelende educatieve voorstellingen, spetterende lessenreeksen, interessante ouderavonden en ook docententrainingen.Allemaal vanuit de visie dat een mens meer, sneller en beter leert wanneer deze mede-eigenaar is. Wil hier meer over weten? Check dan dit [filmpje](https://youtu.be/XZq-SEY45gc).
 
 
-**Zie jij jezelf in het bovenstaande profiel?** Stuur dan **vóór 20 februari 2023** je CV naar: [esther@opde1sterij.nl](mailto:esther@opde1sterij.nl).
+**Zie jij jezelf in het bovenstaande profiel?** Stuur dan **vóór 6 maart 2023** je CV naar: [esther@opde1sterij.nl](mailto:esther@opde1sterij.nl).
 
