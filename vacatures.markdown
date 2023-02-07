@@ -32,13 +32,13 @@ Wat vragen wij?
 * in het bezit van een rijbewijs
 
 Wat bieden wij?
-veel spelen (elk jaar meer dan 375 voorstellingen)
-werken in een professioneel team bij een ambitieuze theatergroep
-werken in een prikkelende omgeving die elke keer helemaal anders is 
+* veel spelen (elk jaar meer dan 375 voorstellingen)
+* werken in een professioneel team bij een ambitieuze theatergroep
+* werken in een prikkelende omgeving die elke keer helemaal anders is 
 goede doorgroei mogelijkheden
-ruimte voor initiatief en zelfontwikkeling
-mogelijkheid tot gebruik van onze werkruimtes en studio in Broedplaats Bogotá
-factureren per opdracht
+* ruimte voor initiatief en zelfontwikkeling
+* mogelijkheid tot gebruik van onze werkruimtes en studio in Broedplaats Bogotá
+* factureren per opdracht
 * inspirerende trainingen en opleiding
 
 Wie zijn wij?
