@@ -27,6 +27,12 @@ Neal Jansen (acteur bij Tg Zwerm sinds aug. 2023)
 Rozemarijn van der Kaaij (acteur bij Tg Zwerm sinds aug. 2020)
 > “Acteur bij Zwerm zijn is fijn, omdat er veel vertrouwen in je is. Je werkt met een ontzettend leuk team dat je sneller als vrienden dan als collega's ziet, waardoor de voorstellingen altijd een feestje zijn om te spelen!”
 
+Karlijn van der Schaaf (acteur bij Tg Zwerm sinds dec 2016)
+> "Omdat het publiek het meest dankbare publiek is wat je je maar kunt wensen. Spelen voor kinderen in hun eigen klas is een feestje!"
+
+Fee Reynaert (acteur bij Tg Zwerm sinds aug 2020)
+> "Bij Zwerm krijg je de ruimte om te ontdekken welke uitvoeringsvorm het beste bij jou past, maar wel met de juiste tools en richtlijnen. Natuurlijk is het als acteur enorm fijn om zoveel te kunnen spelen en hierdoor financieel sterk te staan. Ik ben dankbaar voor dit werk en het heeft er voor gezorgd dat ik zowel binnen Zwerm als daarbuiten als maker erg gegroeid ben."
+
 En nee, niet allemaal stonden ze te springen om in educatieve voorstellingen te komen spelen. Ze wilden gewoon spelen, hadden werk en geld nodig of hadden even niets of deden gewoon auditie met het idee 'misschien is het wat'. Maar zoals je kunt lezen, doet iedereen zijn werk bij Tg Zwerm met veel plezier en 100% inzet. Volgens mij spreken de quotes voor zich. 
 
 Lijkt het je wat om ook bij dit geweldige team te horen? Wil jij als professionele acteur aan de slag bij een ambitieuze theatergroep? Wil jij werk met veel vrijheid, verantwoordelijkheid en ontwikkelmogelijkheden? Ben je niet bang voor pubers? En wil je graag een steentje bijdragen aan de ontwikkeling van jongvolwassenen? Dan ben jij onze acteur! Kom auditie doen en wordt onderdeel van ons vaste acteursteam.
