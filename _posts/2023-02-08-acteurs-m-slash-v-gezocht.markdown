@@ -33,4 +33,4 @@ Lijkt het je wat om ook bij dit geweldige team te horen? Wil jij als professione
 
 Leuk extraatje: alle teamleden mogen gebruikmaken van de faciliteiten van Op de eerste rij. Het kantoor en de studio in Broedplaats Bogota maar ook alle gezamenlijk kennis, kunde en netwerk. Kortom een warm bad met uitstekende ontwikkelmogelijkheden!
 
-Check [hier](https://www.opde1sterij.nl/vacatures/) de vacature!
+> Check [hier](https://www.opde1sterij.nl/vacatures/) de vacature!
