@@ -4,10 +4,10 @@ date: 2015-10-25 22:52:00 +01:00
 position: 7
 korte-beschrijving: Werken bij Op de eerste rij? Bekijk de vacatures.
 assets:
-- path: "/uploads/gezocht-administratieve-duizendpoot.jpg"
-  name: vacature administratieve duizendpoot
 - path: "/uploads/3.png"
   name: vacature
+- path: "/uploads/gezocht-administratieve-duizendpoot.jpg"
+  name: vacature administratieve duizendpoot
 - path: "/uploads/wij-zoeken-theaterdocenten.jpg"
   name: wij-zoeken-theaterdocenten
 author: info@opde1sterij.nl
