@@ -1,9 +1,10 @@
 ---
 title: Acteurs (m/v) gezocht!
 date: 2023-02-08 16:54:00 +01:00
+permalink: "/blog/8-2-2023-acteurs-m-slash-v-gezocht/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/3-18e7ee.png"
+- path: "/uploads/acteurs-m-slash-v-gezocht.jpg"
 ---
 
 *Esther Hulst*

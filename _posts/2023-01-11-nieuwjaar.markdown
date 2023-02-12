@@ -1,6 +1,7 @@
 ---
 title: Nieuwjaar
 date: 2023-01-11 08:15:00 +01:00
+permalink: "/blog/11-1-2023-nieuwjaar/"
 blogger: Esther Hulst
 assets:
 - path: "/uploads/nieuwjaar.jpg"

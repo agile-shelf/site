@@ -1,9 +1,10 @@
 ---
 title: Brainstormen
 date: 2023-01-25 15:14:00 +01:00
+permalink: "/blog/25-1-2023-brainstormen/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/brainstorm%20blog.png"
+- path: "/uploads/brainstormen.jpg"
 ---
 
 *Door: Esther Hulst*
@@ -14,7 +15,7 @@ Terwijl: mijn Brain is één grote storm aan ideeën. Ik dacht zelf dat het zo g
 
 [Naomi Samson](https://www.naomisamson.nl) die deze brainstorm leidde , hoorde mij geduldig aan en zei: “Dat komt goed. Deze brainstorm zal anders zijn dan alle voorgaande, dit komt echt goed.” Met nog een klein beetje ongeloof deed ik mee. En verdomd... het was enorm leuk en ik was er net zo goed in als iedere andere deelnemer. Ik had in al die jaren als theatermaker nooit een goed gestructureerde brainstorm meegemaakt. Meestal was er geen brainstormvraag. Daardoor werd niet duidelijk waar we naar zochten. We brainstormden dan bijvoorbeeld over een nieuw onderwerp voor een voorstelling, maar zonder kaders ging het alle kanten op. Zonder duidelijke brainstormvraag: Hoe zorgen we… en dan het “probleem” waar je een oplossing voor zoekt, wordt het lastig. Naomi had een heel gestructureerde manier van brainstormen.
 
-![brainstorm.png](/uploads/brainstorm.png)
+![brainstorm.jpg](/uploads/brainstorm.jpg)
 
 Al deze onderdelen, in combinatie met een goede brainstormvraag leidde tot een goede brainstorm. Vooral het convergeren, het kijken naar alle ideeën en ze selecteren op haalbaarheid en originaliteit, hielp mij enorm. Voor het eerst was er in een brainstorm die ik meemaakte een vaststaand moment waarop ideeën afgeschoten konden worden. Dat gaf zoveel lucht, dat mijn brein helemaal los kon gaan. Ik denk dat de misvatting bestaat, dat je om vrij te denken alles vrij moet laten. Mijn ervaring is juist dat ik veel vrijer kan denken als er duidelijke kaders zijn.
 
