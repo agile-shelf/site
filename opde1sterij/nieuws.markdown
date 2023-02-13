@@ -1,7 +1,6 @@
 ---
 title: Nieuws - Week van de liefde
 date: 2022-11-07 07:09:00 +01:00
-published: false
 position: 1
 trailer-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/5C9CC6vLBmA"
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
