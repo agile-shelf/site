@@ -3,7 +3,7 @@ title: Nieuws - Week van de liefde
 date: 2023-02-13 16:50:00 +01:00
 position: 1
 assets:
-- path: "/uploads/koritng%20wvdl.png"
+- path: "/uploads/nieuws-week-van-de-liefde.jpg"
 author: info@opde1sterij.nl
 ---
 

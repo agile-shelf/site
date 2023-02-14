@@ -246,24 +246,7 @@ $(function() {
 		}
 		instagramItemTijdGeleden = $(picukiData, virtueelDocument).find('.time span').first().text().trim();
 		if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
-			var itemTijdGeledenVertaling = {
-				ago: 'geleden',
-				second: 'seconde',
-				seconds: 'seconden',
-				minute: 'minuut',
-				minutes: 'minuten',
-				hour: 'uur',
-				hours: 'uur',
-				day: 'dag',
-				days: 'dagen',
-				month: 'maand',
-				months: 'maanden',
-				year: 'jaar',
-				years: 'jaar'
-			};
-			itemTijdGeleden = instagramItemTijdGeleden.replace(/ago|second |seconds|minute |minutes|hour |hours|day |days|month |months|year |years/gi, function(matched) {
-  				return itemTijdGeledenVertaling[matched];
-			});
+			vertaalTijd()
 		}
 		if (itemImgLink != '' && instagramProfiel == '@opde1sterij') {
 			plaatsInstagramPost();
@@ -327,17 +310,36 @@ $(function() {
 				if (instagramItemBericht != undefined && instagramItemBericht != '') {
 					itemBericht = instagramItemBericht;
 				}
-				instagramItemTijdGeleden = $(gramhirData, virtueelDocument).find('post-footer .time').first().text().trim();
+				instagramItemTijdGeleden = $(gramhirData, virtueelDocument).find('.post-footer .time').first().text().trim();
 				if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
-					var itemTijdGeledenInDelen = instagramItemTijdGeleden.split(' ');
-					var itemTijdGeledenDatum = itemTijdGeledenInDelen[0].split('.');
-					itemTijdGeleden = jQuery.timeago(new Date(itemTijdGeledenDatum[2].trim() + '-' + itemTijdGeledenDatum[1].trim() + '-' + itemTijdGeledenDatum[0].trim() + 'T' + itemTijdGeledenInDelen[1].trim()).setHours(parseInt(itemTijdGeledenInDelen[1]) - 1));
+					vertaalTijd()
 				}
 			}
 			plaatsInstagramPost();
 		})
 		.fail(function() {
 			plaatsInstagramPost();
+		});
+	}
+	
+	function vertaalTijd() {
+		var itemTijdGeledenVertaling = {
+			ago: 'geleden',
+			second: 'seconde',
+			seconds: 'seconden',
+			minute: 'minuut',
+			minutes: 'minuten',
+			hour: 'uur',
+			hours: 'uur',
+			day: 'dag',
+			days: 'dagen',
+			month: 'maand',
+			months: 'maanden',
+			year: 'jaar',
+			years: 'jaar'
+		};
+		itemTijdGeleden = instagramItemTijdGeleden.replace(/ago|second |seconds|minute |minutes|hour |hours|day |days|month |months|year |years/gi, function(matched) {
+			return itemTijdGeledenVertaling[matched];
 		});
 	}
 	
