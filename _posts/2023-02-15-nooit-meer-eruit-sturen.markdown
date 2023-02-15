@@ -1,9 +1,9 @@
 ---
-title: nooit meer eruit sturen?
-date: 2023-02-15 08:15:00 +01:00
+title: Nooit meer eruit sturen?
+date: 2023-02-15 09:15:00 +01:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blog%2015-2-23.png"
+- path: "/uploads/nooit-meer-eruit-sturen.jpg"
 ---
 
 **Door: Esther Hulst**

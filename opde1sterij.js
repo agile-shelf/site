@@ -338,7 +338,7 @@ $(function() {
 			year: 'jaar',
 			years: 'jaar'
 		};
-		itemTijdGeleden = instagramItemTijdGeleden.replace(/ago|second |seconds|minute |minutes|hour |hours|day |days|month |months|year |years/gi, function(matched) {
+		itemTijdGeleden = instagramItemTijdGeleden.replace(/ago|second|seconds|minute|minutes|hour|hours|day|days|month|months|year|years/gi, function(matched) {
 			return itemTijdGeledenVertaling[matched];
 		});
 	}
