@@ -8,14 +8,14 @@ assets:
 
 **Door: Esther Hulst**
 
-Vorige week nam ik deel aan de masterclass: ‘Weten wat je moet doen, als je niet weet wat je moet doen’ van Marcel van Herpen. Georganiseerd door KCOS als inspiratiesessie voor de cultuuraanbieders in de regio Haarlemmermeer. Ik ging er onbevangen heen en was heel benieuwd.
+Vorige week nam ik deel aan de masterclass: ‘Weten wat je moet doen, als je niet weet wat je moet doen’ van [Marcel van Herpen](https://www.marcelvanherpen.nl). Georganiseerd door [KCOS](https://www.kunstencultuuropschool.nl) als inspiratiesessie voor de cultuuraanbieders in de regio Haarlemmermeer. Ik ging er onbevangen heen en was heel benieuwd.
 
 Over het algemeen ben ik me heel bewust van wat ik in lessituaties doe, omdat ik de “Op de eerste rij-methode” wil kunnen overdragen aan de docenten en acteurs/gespreksleiders. Marcel begon met: “intuïtief doe je onbewust alles goed als het goed gaat.” Dat vond ik moeilijk. Ik doe bijna niets onbewust. Maar ik dacht ook: even doorzetten, er komt vast iets bruikbaars. En of dat kwam…. 
 
 Marcel vertelde veel, maar voor dit verhaal zijn drie dingen belangrijk. 
-Een Leerling eruit sturen is geen pedagogisch middel, maar een onderwijs traditie. 
-Als je het niet meer weet, als een situatie je overvalt, leg het dilemma dan voor aan de klas of de leerling. 
-Je intuïtie, als je het niet meer weet, laat je in de steek. Je intuïtie doet wat ie kent en wat je dus altijd doet. 
+* Een Leerling eruit sturen is geen pedagogisch middel, maar een onderwijs traditie. 
+* Als je het niet meer weet, als een situatie je overvalt, leg het dilemma dan voor aan de klas of de leerling. 
+* Je intuïtie, als je het niet meer weet, laat je in de steek. Je intuïtie doet wat ie kent en wat je dus altijd doet. 
 Houd deze drie dingen in gedachten terwijl je verder leest.
 
 Afgelopen donderdag was ik weer op basisschool De Kwikstaart, waar ik voor het tweede jaar als theaterdocent aan het werk ben. Het voelt telkens weer als een warm bad, maar dit terzijde. Ik gaf les aan groep 5. Nog steeds onder de indruk van de masterclass begon ik aan mijn les. Ik had me voorgenomen om er niemand uit te sturen. Zoals Marcel zegt: “geen pedagogisch middel maar een onderwijs traditie”, waar ik niet meer aan mee ging doen. 
