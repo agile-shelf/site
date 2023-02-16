@@ -324,21 +324,21 @@ $(function() {
 	
 	function vertaalTijd() {
 		var itemTijdGeledenVertaling = {
-			ago: 'geleden',
-			second: 'seconde',
 			seconds: 'seconden',
-			minute: 'minuut',
+			second: 'seconde',
 			minutes: 'minuten',
-			hour: 'uur',
+			minute: 'minuut',
 			hours: 'uur',
-			day: 'dag',
+			hour: 'uur',
 			days: 'dagen',
-			month: 'maand',
+			day: 'dag',
 			months: 'maanden',
+			month: 'maand',
+			years: 'jaar',
 			year: 'jaar',
-			years: 'jaar'
+			ago: 'geleden'
 		};
-		itemTijdGeleden = instagramItemTijdGeleden.replace(/ago|second|seconds|minute|minutes|hour|hours|day|days|month|months|year|years/gi, function(matched) {
+		itemTijdGeleden = instagramItemTijdGeleden.replace(/seconds|second|minutes|minute|hours|hour|days|day|months|month|years|year|ago/gi, function(matched) {
 			return itemTijdGeledenVertaling[matched];
 		});
 	}
