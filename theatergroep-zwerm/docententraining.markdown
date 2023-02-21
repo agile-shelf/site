@@ -1,7 +1,7 @@
 ---
 title: Docententraining
 date: 2018-11-21 15:40:00 +01:00
-position: 13
+position: 14
 author: info@opde1sterij.nl
 sectie: vo
 kenmerken: 'Soort project: training; Tijdsduur: minimaal 105 min; Max. aantal deelnemers:
