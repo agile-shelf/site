@@ -27,4 +27,4 @@ Philine en haar familie kunnen bijna niet wachten. Sam heeft wat minder zin in e
 
 Gelukkig zijn Philine en Sam ondanks alle verschillen vooral beste vrienden. Dus samen lossen ze ook dit probleem op. 
 
-*"Help, alles is hier anders!”* is een multimediale voorstelling over je thuis voelen, anders zijn en over hoe het erbij jouw thuis aan toe gaat. 
+*"Help, ik ga logeren...”* is een multimediale voorstelling over je thuis voelen, anders zijn en over hoe het erbij jouw thuis aan toe gaat. 
