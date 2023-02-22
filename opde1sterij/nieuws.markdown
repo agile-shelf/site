@@ -1,7 +1,6 @@
 ---
 title: Nieuws - de nieuwe Kinderboekenweek voorstelling staat online
 date: 2023-02-13 16:50:00 +01:00
-published: false
 position: 1
 assets:
 - path: "/uploads/3-5d7f89.png"
