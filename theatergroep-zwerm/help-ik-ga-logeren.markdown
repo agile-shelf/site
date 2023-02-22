@@ -25,6 +25,6 @@ Eindelijk is het zover Sam komt bij Philine logeren. Philine heeft al 100.000 ke
 
 Philine en haar familie kunnen bijna niet wachten. Sam heeft wat minder zin in eigenlijk ziet ie er beste tegenop. Zijn ouders hebben het echt beroerd gepland. Want hij moet ook nog oefenen voor zijn kookinsigne bij de scouting. Hoe gaat ie dat nou weer doen als de Oma van Philine de hele dag ingewikkelde Indische gerechten staat te bereiden en alleen Indonesisch spreekt? 
 
-Gelukkig zijn Philine en Sam ondanks alle verschillen vooral beste vrienden. Dus samen lossen ze samen ook dit probleem op. 
+Gelukkig zijn Philine en Sam ondanks alle verschillen vooral beste vrienden. Dus samen lossen ze ook dit probleem op. 
 
 *"Help, alles is hier anders!”* is een multimediale voorstelling over je thuis voelen, anders zijn en over hoe het erbij jouw thuis aan toe gaat. 
