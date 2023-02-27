@@ -3,7 +3,7 @@ title: Nieuws - de nieuwe Kinderboekenweek voorstelling staat online
 date: 2023-02-13 16:50:00 +01:00
 position: 1
 assets:
-- path: "/uploads/3-5d7f89.png"
+- path: "/uploads/de-nieuwe-kinderboekenweek-voorstelling-staat-online.jpg"
 author: info@opde1sterij.nl
 ---
 
