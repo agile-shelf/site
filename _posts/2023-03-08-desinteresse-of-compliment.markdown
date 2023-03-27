@@ -1,9 +1,10 @@
 ---
 title: Desinteresse of compliment?
 date: 2023-03-08 08:10:00 +01:00
+permalink: "/blog/8-3-2023-desinteresse-of-compliment/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/8.png"
+- path: "/uploads/desinteresse-of-compliment.jpg"
 ---
 
 *Door: Esther Hulst*

@@ -1,6 +1,7 @@
 ---
 title: Bij mij thuis
 date: 2023-02-22 10:17:00 +01:00
+permalink: "/blog/22-2-2023-bij-mij-thuis/"
 blogger: Esther Hulst
 assets:
 - path: "/uploads/bij-mij-thuis.jpg"

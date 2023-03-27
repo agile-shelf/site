@@ -1,6 +1,7 @@
 ---
 title: Nooit meer eruit sturen?
 date: 2023-02-15 08:15:00 +01:00
+permalink: "/blog/15-2-2023-nooit-meer-eruit-sturen/"
 blogger: Esther Hulst
 assets:
 - path: "/uploads/nooit-meer-eruit-sturen.jpg"
