@@ -4,7 +4,7 @@ date: 2023-04-05 08:15:00 +02:00
 published: false
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blog%20post%205%20april.mp4"
+- path: "/uploads/blog%20website%205%20april.png"
 ---
 
 *Door: Esther Hulst*
