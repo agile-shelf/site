@@ -2,6 +2,8 @@
 title: Brochure 23-24
 date: 2023-04-03 15:00:00 +02:00
 position: 1
+assets:
+- path: "/uploads/achtergrond.png"
 author: info@opde1sterij.nl
 ---
 
