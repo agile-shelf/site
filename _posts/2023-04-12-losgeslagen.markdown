@@ -4,7 +4,7 @@ date: 2023-04-12 08:15:00 +02:00
 published: false
 blogger: Esther Hulst
 assets:
-- path: "/uploads/2-e41ed1.png"
+- path: "/uploads/losgeslagen.jpg"
 ---
 
 *Door: Esther Hulst*

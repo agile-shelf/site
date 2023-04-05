@@ -3,7 +3,7 @@ title: Help, mijn kind wil TikTok
 date: 2023-04-05 08:15:00 +02:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blog%20website%205%20april.png"
+- path: "/uploads/help-mijn-kind-wil-tiktok.jpg"
 ---
 
 *Door: Esther Hulst*
