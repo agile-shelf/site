@@ -1,7 +1,7 @@
 ---
 title: Leerlijn muziek
 date: 2015-09-22 14:58:00 +02:00
-position: 4
+position: 6
 author: info@opde1sterij.nl
 leeftijd: groep 1 t/m 8
 sectie: bo

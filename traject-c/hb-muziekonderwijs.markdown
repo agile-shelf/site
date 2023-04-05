@@ -2,7 +2,7 @@
 title: HB muziekonderwijs
 date: 2015-09-22 15:12:00 +02:00
 published: false
-position: 11
+position: 8
 author: info@opde1sterij.nl
 leeftijd: groep 3 t/m 8
 sectie: bo

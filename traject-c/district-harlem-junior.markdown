@@ -1,7 +1,7 @@
 ---
 title: District Harlem Junior
 date: 2015-12-17 13:40:00 +01:00
-position: 12
+position: 9
 author: info@opde1sterij.nl
 zoektermen: muziekeducatie, muziekles, workshop, muziekonderwijs, muziek workshop,
   Martijn Huitema, muziek, vibes, op de eerste rij, lessenreeks, doorlopende leerlijn,

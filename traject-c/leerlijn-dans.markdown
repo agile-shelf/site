@@ -1,7 +1,7 @@
 ---
 title: Leerlijn dans
 date: 2018-11-06 17:55:00 +01:00
-position: 6
+position: 4
 author: info@opde1sterij.nl
 leeftijd: groep 1 t/m 8
 sectie: bo

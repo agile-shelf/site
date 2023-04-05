@@ -1,7 +1,7 @@
 ---
 title: Leerlijn acteren
 date: 2018-11-06 17:51:00 +01:00
-position: 5
+position: 3
 author: info@opde1sterij.nl
 leeftijd: groep 1 t/m 8
 sectie: bo
