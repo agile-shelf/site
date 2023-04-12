@@ -1,7 +1,6 @@
 ---
 title: Losgeslagen
 date: 2023-04-12 08:15:00 +02:00
-published: false
 blogger: Esther Hulst
 assets:
 - path: "/uploads/losgeslagen.jpg"
