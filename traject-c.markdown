@@ -10,7 +10,7 @@ zoektermen: muziekeducatie, leerlijn, leerlijnen, doorlopende leerlijn, basisond
 korte-beschrijving: Traject C helpt primair en voortgezet onderwijs bij het inrichten
   van het Cultuuronderwijs.
 assets:
-- path: "/uploads/Trajcet%20C%20foto.png"
+- path: "/uploads/traject-c.jpg"
   name: Traject C
 onderdeel: true
 author: info@opde1sterij.nl

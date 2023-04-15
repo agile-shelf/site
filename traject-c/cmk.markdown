@@ -16,7 +16,7 @@ actie:
 sleutelwoorden: 
 speciaal: 
 assets:
-- path: "/uploads/TheaterChallenge 2.jpg"
+- path: "/uploads/TheaterChallenge-2.jpg"
   name: TheaterChallenge 2
 ---
 
