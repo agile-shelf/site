@@ -3,8 +3,8 @@ title: Help, ik ga logeren
 date: 2023-02-21 08:12:00 +01:00
 position: 0
 zoektermen: Kinderboekenweek
-korte-beschrijving: "\"Help, alles is hier anders!” is een multimediale voorstelling
-  over je thuis voelen, anders zijn en over hoe het erbij jouw thuis aan toe gaat. "
+korte-beschrijving: "\"Help, ik ga logeren...” is een multimediale voorstelling over
+  je thuis voelen, anders zijn en over hoe het erbij jouw thuis aan toe gaat. "
 assets:
 - path: "/uploads/help-ik-ga-logeren-2023.jpg"
 kenmerken: 'Soort project: voorstelling op school; Doelgroep: groep 3 t/m 8 ook speciaal
