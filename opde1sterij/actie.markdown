@@ -3,33 +3,39 @@ title: Vroegboekkorting
 date: 2020-05-13 21:50:00 +02:00
 published: false
 position: 0
-trailer-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/EbkSxkjb4SI"
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 assets:
-- path: "/uploads/vroegboek-korting-22.jpg"
-  name: vroegboek-korting-22
+- path: "/uploads/vroegboekkorting%2023-24%20site.png"
+  name: vroegboek-korting-23
 - path: "/uploads/korting-week-van-de-liefde"
   name: korting-week-van-de-liefde
 author: info@opde1sterij.nl
 ---
 
-Dit wederom bizarre schooljaar loopt op z'n einde, tijd om het komende schooljaar in te gaan plannen. Onze agenda loopt al aardig vol en we houden graag een plekje voor je vrij. Voor de vroege boekers hebben we daarom:
+Seksualiteit, consent, pesten, social media, grenzen stellen en gameverslaving zijn de thema’s van deze tijd. De educatieve voorstellingen van [Theatergroep Zwerm](https://www.opde1sterij.nl/theatergroep-zwerm/) maken deze onderwerpen op een directe, verantwoordde, een toegankelijke manier bespreekbaar met de leerlingen.
+
+Zoals elk jaar hebben we ook nu weer **Vroegboekkorting**. Boek **vóór 15 juli 2023** een voorstelling van Theatergroep Zwerm voor komend schooljaar, en verzeker je van een plekje in onze agenda.
 
 **De Vroegboekkorting**
-
 * €100,- korting op 3 voorstellingen  
 * €50,- korting op 2 voorstellingen 
 * €20,- korting op 1 voorstelling
 
-Boek vóór 16 juli 2022 een voorstelling van **[Theatergroep Zwerm](https://www.opde1sterij.nl/theatergroep-zwerm/)**  voor schooljaar 2022/2023 en maak gebruik van de vroegboekkorting. Deze actie geldt voor alle voorstellingen van Theatergroep Zwerm voor zowel PO als VO (uitgezonderd de Kinderboekenweek-voorstelling). De voorstellingen vinden plaats op één dag. Uiteindelijke speeldata kunnen later vastgelegd worden. Er kan natuurlijk betaald worden met CJP.
+Deze actie geldt voor alle voorstellingen van Theatergroep Zwerm voor zowel PO als VO (uitgezonderd de Kinderboekenweek-voorstelling). De voorstellingen vinden plaats op één dag. 
+
+Weet je nog niet precies wat je wilt of is de jaarplanning nog niet helemaal duidelijk? Of ben je enorm druk met het afsluiten van het schooljaar? Geen probleem, dan prikken we de uiteindelijke datum later.
+
+Uiteraard is dit alles te betalen met CJP-budget. Trouwens, ook de npo-gelden kun je besteden aan cultuureducatie.
+
+Boek nu! Bel, stuur een mail of maak een [belafspraak](https://calendly.com/opde1sterij/een-telefoontje-i-v-m-de-vroegboekkorting) op een moment dat het ons beiden uitkomt. Dan spreken we elkaar snel.
 
 Wil je meerdere voorstellingen voor verschillende leerjaren boeken? Dan hebben we een extra voordelige aanbieding. Neem hiervoor contact met ons op. 
 
 **TheaterChallenge**
 
-* Boek vóór 16 juli 2022 een **[TheaterChallenge](https://www.opde1sterij.nl/theaterchallenge/)** voor schooljaar 2022-2023 en ontvang 10% korting op de gehele offerte!
+Wil jij volgend jaar culturele workshops voor jouw leerlingen? Of wil je dat we een voorstelling met ze maken waarbij ze alles zelf doen van acteren tot techniek en van dans tot film en video? 
 
-Voor komend schooljaar hebben we ook weer een mooie brochure met dit jaar ons gehele aanbod erin: [Interactieve digitale brochure schooljaar 22-23](https://indd.adobe.com/view/7f57be93-7ff3-4708-a07d-05f0129dbab7)
+Boek dan **vóór 15 juli 2023** een [TheaterChallenge](https://www.opde1sterij.nl/theaterchallenge/), en ontvang 10% vroegboekkorting op de gehele offerte!
 
-Wees dus verzekerd van een plekje in onze agenda en boek nu! Wij zijn enorm blij met je boeking. Hoe maak je gebruik van de **vroegboek-korting**? Neem contact met ons op via mail [boekingen@opde1sterij.nl](mailto:boekingen@opde1sterij.nl), bel <a href="tel:\+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a> of plan een [belafspraak](http://calendly.com/opde1sterij) met ons in. 
+Voor komend schooljaar hebben we ook weer een mooie brochure met dit jaar ons gehele aanbod erin: [Interactieve digitale brochure schooljaar 22-23]( https://indd.adobe.com/view/866b853d-c2ba-44f7-a6e5-62127d780a5c)
+
+Wees dus verzekerd van een plekje in onze agenda en boek nu! Neem contact met ons op via mail [boekingen@opde1sterij.nl](mailto:boekingen@opde1sterij.nl), bel <a href="tel:\+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a> of plan een [belafspraak](http://calendly.com/opde1sterij) met ons in. 
