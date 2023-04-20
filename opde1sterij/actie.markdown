@@ -4,9 +4,9 @@ date: 2020-05-13 21:50:00 +02:00
 published: false
 position: 0
 assets:
-- path: "/uploads/vroegboekkorting%2023-24%20site.png"
-  name: vroegboek-korting-23
-- path: "/uploads/korting-week-van-de-liefde"
+- path: "/uploads/vroegboekkorting-23-24.jpg"
+  name: vroegboek-korting-23-24
+- path: "/uploads/korting-week-van-de-liefde.jpg"
   name: korting-week-van-de-liefde
 author: info@opde1sterij.nl
 ---
