@@ -10,8 +10,6 @@ assets:
 author: info@opde1sterij.nl
 ---
 
-Seksualiteit, consent, pesten, Social media, grenzen stellen en gameverslaving zijn de thema’s van deze tijd. De educatieve voorstellingen van [Theatergroep Zwerm](https://www.opde1sterij.nl/theatergroep-zwerm/) maken deze onderwerpen op een directe, verantwoordde, een toegankelijke manier bespreekbaar met de leerlingen.
-
 Zoals elk jaar hebben we ook nu weer **Vroegboekkorting**. Boek **vóór 15 juli 2023** een voorstelling van Theatergroep Zwerm voor komend schooljaar, en verzeker je van een plekje in onze agenda.
 
 **De Vroegboekkorting**
