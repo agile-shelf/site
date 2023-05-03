@@ -11,7 +11,7 @@ assets:
 author: info@opde1sterij.nl
 ---
 
-Seksualiteit, consent, pesten, social media, grenzen stellen en gameverslaving zijn de thema’s van deze tijd. De educatieve voorstellingen van [Theatergroep Zwerm](https://www.opde1sterij.nl/theatergroep-zwerm/) maken deze onderwerpen op een directe, verantwoordde, een toegankelijke manier bespreekbaar met de leerlingen.
+Seksualiteit, consent, pesten, Social media, grenzen stellen en gameverslaving zijn de thema’s van deze tijd. De educatieve voorstellingen van [Theatergroep Zwerm](https://www.opde1sterij.nl/theatergroep-zwerm/) maken deze onderwerpen op een directe, verantwoordde, een toegankelijke manier bespreekbaar met de leerlingen.
 
 Zoals elk jaar hebben we ook nu weer **Vroegboekkorting**. Boek **vóór 15 juli 2023** een voorstelling van Theatergroep Zwerm voor komend schooljaar, en verzeker je van een plekje in onze agenda.
 
@@ -24,9 +24,9 @@ Deze actie geldt voor alle voorstellingen van Theatergroep Zwerm voor zowel PO a
 
 Weet je nog niet precies wat je wilt of is de jaarplanning nog niet helemaal duidelijk? Of ben je enorm druk met het afsluiten van het schooljaar? Geen probleem, dan prikken we de uiteindelijke datum later.
 
-Uiteraard is dit alles te betalen met CJP-budget. Trouwens, ook de npo-gelden kun je besteden aan cultuureducatie.
+Uiteraard is dit alles te betalen met CJP-budget. Trouwens, ook de NPO-gelden kun je besteden aan cultuureducatie.
 
-Boek nu! Bel, stuur een mail of maak een [belafspraak](https://calendly.com/opde1sterij/een-telefoontje-i-v-m-de-vroegboekkorting) op een moment dat het ons beiden uitkomt. Dan spreken we elkaar snel.
+Boek nu! Bel <a href="tel:+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a>  , stuur een [mail](mailto: boekingen@opde1sterij.nl) of maak een [belafspraak](https://calendly.com/opde1sterij/een-telefoontje-i-v-m-de-vroegboekkorting) op een moment dat het ons beiden uitkomt. Dan spreken we elkaar snel.
 
 Wil je meerdere voorstellingen voor verschillende leerjaren boeken? Dan hebben we een extra voordelige aanbieding. Neem hiervoor contact met ons op. 
 
