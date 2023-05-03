@@ -1,7 +1,6 @@
 ---
 title: Vroegboekkorting
-date: 2020-05-13 21:50:00 +02:00
-published: false
+date: 2022-05-03 00:00:00 +02:00
 position: 0
 assets:
 - path: "/uploads/vroegboekkorting-23-24.jpg"
