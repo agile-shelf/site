@@ -10,7 +10,7 @@ assets:
 author: info@opde1sterij.nl
 ---
 
-Zoals elk jaar hebben we ook nu weer **Vroegboekkorting**. Boek **vóór 15 juli 2023** een voorstelling van Theatergroep Zwerm voor komend schooljaar, en verzeker je van een plekje in onze agenda.
+De Mei vakantie is voorbij en dat betekend: **Vroegboekkorting**. Boek **vóór 15 juli 2023** een voorstelling van Theatergroep Zwerm voor komend schooljaar, en verzeker je van een plekje in onze agenda.
 
 **De Vroegboekkorting**
 * €100,- korting op 3 voorstellingen  
