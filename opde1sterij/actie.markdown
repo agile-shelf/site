@@ -33,6 +33,6 @@ Wil jij volgend jaar culturele workshops voor jouw leerlingen? Of wil je dat we 
 
 Boek dan **vóór 15 juli 2023** een [TheaterChallenge](https://www.opde1sterij.nl/theaterchallenge/), en ontvang 10% vroegboekkorting op de gehele offerte!
 
-Voor komend schooljaar hebben we ook weer een mooie brochure met dit jaar ons gehele aanbod erin: [Interactieve digitale brochure schooljaar 22-23]( https://indd.adobe.com/view/866b853d-c2ba-44f7-a6e5-62127d780a5c)
+Voor komend schooljaar hebben we ook weer een mooie brochure met dit jaar ons gehele aanbod erin: [Interactieve digitale brochure schooljaar 23-24]( https://indd.adobe.com/view/866b853d-c2ba-44f7-a6e5-62127d780a5c)
 
 Wees dus verzekerd van een plekje in onze agenda en boek nu! Neem contact met ons op via mail [boekingen@opde1sterij.nl](mailto:boekingen@opde1sterij.nl), bel <a href="tel:\+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a> of plan een [belafspraak](http://calendly.com/opde1sterij) met ons in. 
