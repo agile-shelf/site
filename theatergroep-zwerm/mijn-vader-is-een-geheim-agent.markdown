@@ -12,7 +12,7 @@ sectie: bo
 kenmerken: 'Soort project: voorstelling op school; Doelgroep: groep 3 t/m 8 ook speciaal
   onderwijs; Tijdsduur: 40 min (30 min voorstelling en 10 min meet + greet); Aangeboden
   in: heel Nederland; Aantal deelnemers: max. 90; Maakt gebruik van: digibord; Lesmateriaal:
-  digitale interactieve lesbrief; Prijs: 1 voorstelling per dag €545,- <br> 2 voorstellingen
+  digitale interactieve lesbrief; Prijs: 1 voorstelling per dag €575,- <br> 2 voorstellingen
   per dag €795,- <br> 3 voorstellingen per dag €995,- <br>  Prijzen zijn excl. btw
   en incl. reiskosten; Online aanbod: Live vanuit de studio, via Zoom of Teams. ;
   Coronaproof: De voorstellingen worden altijd gespeeld in overeenstemming met de
