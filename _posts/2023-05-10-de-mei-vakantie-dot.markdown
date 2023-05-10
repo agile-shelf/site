@@ -7,6 +7,7 @@ assets:
 ---
 
 *Door: Esther Hulst*
+
 De mei-vakantie is voorbij. De laatste echte vakantie van dit schooljaar zit erop. Natuurlijk komen er nog allemaal vrije dagen aan met Hemelvaart en Pinksteren, maar de volgende echte vakantie is de zomervakantie. Heerlijk vooruitzicht.
 
 De afgelopen 2 weken heb ik met het gezin, vrienden en familie gerelaxt. Allemaal andere dingen gedaan dan werken. We hebben over de vrijmarkt gestruind met de dochter, haar beste vriend en €5,-. Inclusief een lesje verstandig geld uitgeven, want als vijfjarige zie je een ietwat gehavende Mylittlepony, een lego-jaccuzi met poppetjes, een speelgoed fototoestel en nog meer tweede handsspulletjes allemaal als goede aankopen. De dochter heeft leren fietsen zonder zijwielen. We zijn bij vrienden en familie op bezoek geweest, die we al lang niet hadden gezien. Ik heb een seminar over powerliften gevolgd van Sebastian Oreb. Ja, zware dingen optillen is mijn hobby. En we hebben lekker geluierd in de zon. Kortom: genieten. Nu kan ik weer door tot het einde van het schooljaar. 
