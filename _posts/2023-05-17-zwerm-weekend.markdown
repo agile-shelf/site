@@ -3,7 +3,7 @@ title: Zwerm-weekend
 date: 2023-05-17 07:40:00 +02:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blog%2017%20mei%20swurm%20weekend.png"
+- path: "/uploads/blog%2017%20mei.png"
 ---
 
 *Door: Esther Hulst*
