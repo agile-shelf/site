@@ -251,66 +251,32 @@ $(function() {
 		if (itemImgLink != '' && instagramProfiel == '@opde1sterij') {
 			plaatsInstagramPost();
 		} else {
-// 			instagramPostViaHookgram()
-			instagramPostViaGramhir()
+			instagramPostViaGreatfon()
 		}
 	})
 	.fail(function() {
-// 		instagramPostViaHookgram()
-		instagramPostViaGramhir()
+		instagramPostViaGreatfon()
 	});
 	
-// 	function instagramPostViaHookgram() {
-// 		$.ajax({
-// 			url: 'https://corsproxy.io/?' + encodeURIComponent('https://hookgram.com/en/u/opde1sterij'),
-// 			dataType: 'text',
-// 			timeout: 10000
-// 		})
-// 		.done(function(hookgramData) {
-// 			virtueelDocument = document.implementation.createHTMLDocument('virtueel');
-// 			instagramProfiel = $(hookgramData, virtueelDocument).find('h2').first().text().trim();
-// 			instagramItemImgLink = $(hookgramData, virtueelDocument).find('.card-img-top').first().attr('src');
-// 			if (instagramProfiel == 'opde1sterij') {
-// 				if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
-// 					itemImgLink = 'https://corsproxy.io/?' + instagramItemImgLink;
-// 				}
-// 				instagramItemBericht = $(hookgramData, virtueelDocument).find('.card-body .small').first().text().trim();
-// 				if (instagramItemBericht != undefined && instagramItemBericht != '') {
-// 					itemBericht = instagramItemBericht;
-// 				}
-// 				instagramItemTijdGeleden = $(hookgramData, virtueelDocument).find('.card-flag-top-right').first().text().trim();
-// 				if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
-// 					var itemTijdGeledenInDelen = instagramItemTijdGeleden.split(' ');
-// 					var itemTijdGeledenDatum = itemTijdGeledenInDelen[0].split('.');
-// 					itemTijdGeleden = jQuery.timeago(new Date(itemTijdGeledenDatum[2].trim() + '-' + itemTijdGeledenDatum[1].trim() + '-' + itemTijdGeledenDatum[0].trim() + 'T' + itemTijdGeledenInDelen[1].trim()).setHours(parseInt(itemTijdGeledenInDelen[1]) - 1));
-// 				}
-// 			}
-// 			plaatsInstagramPost();
-// 		})
-// 		.fail(function() {
-// 			plaatsInstagramPost();
-// 		});
-// 	}
-
-	function instagramPostViaGramhir() {
+	function instagramPostViaGreatfon() {
 		$.ajax({
-			url: 'https://corsproxy.io/?' + encodeURIComponent('https://gramhir.com/profile/opde1sterij/645713864'),
+			url: 'https://corsproxy.io/?' + encodeURIComponent('https://greatfon.com/v/opde1sterij'),
 			dataType: 'text',
 			timeout: 10000
 		})
-		.done(function(gramhirData) {
+		.done(function(greatfonData) {
 			virtueelDocument = document.implementation.createHTMLDocument('virtueel');
-			instagramProfiel = $(gramhirData, virtueelDocument).find('.profile-name-top').first().text().trim();
-			instagramItemImgLink = $(gramhirData, virtueelDocument).find('.post-image').first().attr('src');
-			if (instagramProfiel == '@opde1sterij') {
-				if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
+			instagramProfiel = $(greatfonData, virtueelDocument).find('.user h4').first().text().trim();
+			instagramItemImgLink = $(greatfonData, virtueelDocument).find('.content__img-wrap a img').first().attr('src');
+			if (instagramProfiel == 'opde1sterij') {
+				if (instagramItemImgLink != undefined) {
 					itemImgLink = 'https://corsproxy.io/?' + instagramItemImgLink;
 				}
-				instagramItemBericht = $(gramhirData, virtueelDocument).find('.photo-description').first().text().trim();
+				instagramItemBericht = $(greatfonData, virtueelDocument).find('.content__text p').first().text().trim();
 				if (instagramItemBericht != undefined && instagramItemBericht != '') {
 					itemBericht = instagramItemBericht;
 				}
-				instagramItemTijdGeleden = $(gramhirData, virtueelDocument).find('.post-footer .time').first().text().trim();
+				instagramItemTijdGeleden = $(greatfonData, virtueelDocument).find('.content__time-text').first().text().trim();
 				if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
 					vertaalTijd()
 				}

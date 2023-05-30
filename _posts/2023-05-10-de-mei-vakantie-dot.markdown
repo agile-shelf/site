@@ -3,7 +3,7 @@ title: De mei-vakantie...
 date: 2023-05-10 08:00:00 +02:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/vroegboekkorting%2023-24%20site.png"
+- path: "/uploads//uploads/vroegboekkorting-23-24.jpg"
 ---
 
 *Door: Esther Hulst*
