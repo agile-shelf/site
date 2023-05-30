@@ -1,10 +1,12 @@
 ---
-title: De Hermannen – de recyclemachine
+title: De Hermannen – de Hermannosaurus rex
 date: 2019-12-09 16:15:00 +01:00
-published: false
 position: 1
 korte-beschrijving: 'De recyclemachine: een knotsgekke voorstelling over duurzaamheid,
   creativiteit en het betere knutselwerk'
+filmpje-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/r4RXjNTndq0"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 assets:
 - path: "/uploads/de-hermannen.jpg"
   name: de-hermannen
@@ -21,9 +23,6 @@ kenmerken: 'Soort project: voorstelling ; Doelgroep: groep 3 t/m 8 ook speciaal 
   gespeeld in overeenstemming met de recente corona-maatregelen en de richtlijnen
   van het RIVM.'
 leeftijd: groep 3 t/m 8 en brugklas
-filmpje-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/r4RXjNTndq0"
-  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen></iframe>
 actie: online aanbod
 speciaal: coronaproof
 ---
