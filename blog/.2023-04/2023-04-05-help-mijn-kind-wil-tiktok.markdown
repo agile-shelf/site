@@ -1,6 +1,7 @@
 ---
 title: Help, mijn kind wil TikTok
 date: 2023-04-05 08:15:00 +02:00
+permalink: "/blog/5-4-2023-help-mijn-kind-wil-tiktok/"
 blogger: Esther Hulst
 assets:
 - path: "/uploads/help-mijn-kind-wil-tiktok.jpg"
