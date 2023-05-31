@@ -1,7 +1,6 @@
 ---
 title: nieuwe acteurs
 date: 2023-05-31 07:45:00 +02:00
-published: false
 blogger: Esther Hulst
 assets:
 - path: "/uploads/blogpost%2031%20mei.png"
