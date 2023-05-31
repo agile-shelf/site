@@ -2,7 +2,7 @@
 title: De Hermannen – de Hermannosaurus rex
 date: 2019-12-09 16:15:00 +01:00
 position: 1
-korte-beschrijving: 'De recyclemachine: een knotsgekke voorstelling over duurzaamheid,
+korte-beschrijving: 'De Hermannosaurus rex: een knotsgekke voorstelling over duurzaamheid,
   creativiteit en het betere knutselwerk'
 filmpje-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/r4RXjNTndq0"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
@@ -17,9 +17,9 @@ sectie: bo, vo
 onderdeel: true
 kenmerken: 'Soort project: voorstelling ; Doelgroep: groep 3 t/m 8 ook speciaal onderwijs;
   Tijdsduur: 50 min; Aangeboden in: Heel Nederland; Max. aantal deelnemers: 100 ll
-  of 3 klassen; Lesmateriaal: youtube kanaal; Prijs: 1 voorstelling per dag €890,-
-  <br> 2 voorstellingen per dag €1250,- <br> 3 voorstellingen per dag €1610,- <br>  Prijzen
-  zijn excl. btw en incl. reiskosten; Coronaproof: De voorstellingen worden altijd
+  of 3 klassen; Lesmateriaal: youtube kanaal; Prijs: 1 voorstelling per dag €1000,-
+  <br> 2 voorstellingen per dag €1600,- <br> 3 voorstellingen per dag €2200,- <br>  Prijzen
+  zijn excl. btw en excl. reiskosten; Coronaproof: De voorstellingen worden altijd
   gespeeld in overeenstemming met de recente corona-maatregelen en de richtlijnen
   van het RIVM.'
 leeftijd: groep 3 t/m 8 en brugklas
