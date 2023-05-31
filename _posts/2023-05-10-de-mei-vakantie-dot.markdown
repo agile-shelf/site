@@ -4,7 +4,7 @@ date: 2023-05-10 08:00:00 +02:00
 permalink: "/blog/10-5-2023-de-mei-vakantie-dot/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads//uploads/vroegboekkorting-23-24.jpg"
+- path: "/uploads/vroegboekkorting-23-24.jpg"
 ---
 
 *Door: Esther Hulst*
