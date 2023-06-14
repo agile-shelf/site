@@ -1,6 +1,6 @@
 ---
 title: Waarom kies je voor educatief theater?
-date: 2023-06-14 08:15:00 +02:00
+date: 2023-06-14 07:55:00 +02:00
 blogger: Esther Hulst
 ---
 
