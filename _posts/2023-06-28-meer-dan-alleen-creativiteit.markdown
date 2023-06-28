@@ -11,7 +11,6 @@ assets:
 Wanneer wij langere tijd op een school aanwezig zijn, verandert er altijd meer dan alleen het cultuuronderwijs. Natuurlijk groeien de leerlingen in hun dans-, video-editing-, impro- of acteerskills, maar misschien nog wel belangrijker zijn de andere vaardigheden die ze ontwikkelen via cultuureducatie.
 
 **Creatieve zelfexpressie en emotionele ontwikkeling**
-
 Leerlingen leren zich creatief te uiten door middel van onze lessen. In mijn acteerlessen mogen leerlingen bijna altijd de  een scène maken. Het maken van zo'n scène dwingt de leerling om na te denken over verschillende aspecten. Welke personages zijn er? Welke emoties hebben die personages? Welke personages vind ik leuk om te spelen? Welke emoties kan of wil ik spelen? Door hier over na te denken, leren ze hun emoties, ideeën en persoonlijkheid door middel van acteren te uiten en vorm te geven. 
 
 Door zich in te leven in verschillende personages, situaties en emoties, worden leerlingen zich bewust van deze gevoelens en verschillende perspectieven. Het spelen van diverse emoties in verschillende situaties en personages zorgt dat leerlingen deze emoties sneller leren herkennen, ook in het echte leven. Daarnaast leren ze dat mensen emoties en situaties op verschillende manieren kunnen ervaren. Dit draagt bij aan het vergroten van hun emotionele intelligentie, empathie en begrip voor anderen.
