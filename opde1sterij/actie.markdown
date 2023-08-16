@@ -1,6 +1,7 @@
 ---
 title: Vroegboekkorting
 date: 2022-05-03 00:00:00 +02:00
+published: false
 position: 0
 assets:
 - path: "/uploads/vroegboekkorting-23-24.jpg"
