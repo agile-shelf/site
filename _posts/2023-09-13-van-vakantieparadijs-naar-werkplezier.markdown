@@ -6,6 +6,8 @@ assets:
 - path: "/uploads/blog%2013%20sept.png"
 ---
 
+*Door: Esther Hulst*
+
 De zomer is voorbij. Als die al überhaupt al echt begonnen was... De vakantie is in elk geval wel echt verleden tijd. Anderhalve week geleden liep ik door de gangen van ons kantoor. In de ene ruimte werden nieuwe acteurs ingewerkt, in de andere ruimte zat Julia, onze administratief medewerker, alles bij te werken, en ik legde samen met David (de compagnon, de man en regisseur) de laatste hand aan het script van de nieuwe Kinderboekenweekvoorstelling: "Help, ik ga logeren." Ondertussen stroomde mijn mailbox over en ook mijn telefoon bleef gaan.
 
 Terwijl ik dit zo typ, denk ik: een mega stressvolle situatie. Maar anderhalve week geleden, en eigenlijk nu nog, vind ik het geweldig. Alles is weer begonnen en hoe! Ik geniet ervan alles tegelijk te doen. Ik weet natuurlijk heus wel dat multitasken eigenlijk niet kan, dat onze hersenen dat niet goed aankunnen. Maar mijn agenda vult zich met leuke afspraken, een script tot leven brengen, nieuwe goede acteurs die enthousiast worden ingewerkt. Ervaringen delen tijdens de lunch. Het zijn allemaal dingen waar ik heerlijk van geniet.
