@@ -3,7 +3,7 @@ title: Vreugdedansjes
 date: 2023-06-21 18:27:00 +02:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blogpost%2021%20juni.png"
+- path: "/uploads/vreugdedansjes.jpg"
 ---
 
 *Door: Esther Hulst*

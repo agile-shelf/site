@@ -3,7 +3,7 @@ title: Van vakantieparadijs naar werkplezier
 date: 2023-09-13 20:09:00 +02:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blog%2013%20sept.png"
+- path: "/uploads/van-vakantieparadijs-naar-werkplezier.jpg"
 ---
 
 *Door: Esther Hulst*
