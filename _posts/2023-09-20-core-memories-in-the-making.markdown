@@ -1,5 +1,5 @@
 ---
-title: Core-memorie in the making
+title: Core-memories in the making
 date: 2023-09-20 14:23:00 +02:00
 blogger: Esther Hulst
 ---
