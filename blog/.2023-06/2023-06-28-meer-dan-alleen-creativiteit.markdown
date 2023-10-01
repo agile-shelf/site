@@ -1,6 +1,7 @@
 ---
 title: Meer dan alleen creativiteit
 date: 2023-06-28 11:18:00 +02:00
+permalink: "/blog/28-6-2023-meer-dan-alleen-creativiteit/"
 blogger: Esther Hulst
 assets:
 - path: "/uploads/meer-dan-alleen-creativiteit.jpg"

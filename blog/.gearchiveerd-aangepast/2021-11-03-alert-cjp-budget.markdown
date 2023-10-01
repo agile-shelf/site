@@ -6,6 +6,8 @@ blogger: Esther Hulst
 trailer-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/yBBwDjk-tAI?controls=0"
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+assets:
+- path: alert-cjp-budget.jpg
 ---
 
 Het is alweer 1 nov. het einde van het jaar komt al in zicht. St. Maarten, Sinterklaas, Kerst, oud & nieuw en dat betekend… Dat het CJP-cultuurkaartbudget opgemaakt moet worden. Ieder normaal mens zou denken: Kerstvakantie. Heerlijk 2 weken relaxen! 

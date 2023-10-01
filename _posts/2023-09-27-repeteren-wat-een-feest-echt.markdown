@@ -1,9 +1,10 @@
 ---
 title: Repeteren wat een feest (echt)
 date: 2023-09-27 10:52:00 +02:00
+permalink: "/blog/27-9-2023-repeteren-wat-een-feest-echt/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blogpost%2027%20sept.png"
+- path: "/uploads/repeteren-wat-een-feest-echt.jpg"
 ---
 
 *Door: Esther Hulst*

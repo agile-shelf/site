@@ -1,9 +1,10 @@
 ---
 title: Core-memories in the making
 date: 2023-09-20 14:23:00 +02:00
+permalink: "/blog/20-9-2023-core-memories-in-the-making/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blogpost%2020-9.png"
+- path: "/uploads/core-memories-in-the-making.jpg"
 ---
 
 *Door: Esther Hulst*

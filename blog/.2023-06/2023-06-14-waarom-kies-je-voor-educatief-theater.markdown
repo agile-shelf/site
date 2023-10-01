@@ -1,6 +1,7 @@
 ---
 title: Waarom kies je voor educatief theater?
 date: 2023-06-14 07:55:00 +02:00
+permalink: "/blog/14-6-2023-waarom-kies-je-voor-educatief-theater/"
 blogger: Esther Hulst
 assets:
 - path: "/uploads/waarom-kies-je-voor-educatief-theater.jpg"
