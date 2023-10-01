@@ -4,7 +4,7 @@ date: 2023-09-27 10:52:00 +02:00
 permalink: "/blog/27-9-2023-repeteren-wat-een-feest-echt/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/repeteren-wat-een-feest-echt.jpg"
+- path: "/uploads/repeteren-wat-een-feest-echt-nieuw.jpg"
 ---
 
 *Door: Esther Hulst*

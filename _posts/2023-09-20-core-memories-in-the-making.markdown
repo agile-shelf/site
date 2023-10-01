@@ -4,7 +4,7 @@ date: 2023-09-20 14:23:00 +02:00
 permalink: "/blog/20-9-2023-core-memories-in-the-making/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/core-memories-in-the-making.jpg"
+- path: "/uploads/core-memories-in-the-making-nieuw.jpg"
 ---
 
 *Door: Esther Hulst*
