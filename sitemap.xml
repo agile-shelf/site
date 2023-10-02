@@ -14,9 +14,6 @@ layout:
 <!-- 
 		<lastmod>{{site.time | date_to_xmlschema}}</lastmod>
  -->
-<!-- 
-		<changefreq>weekly</changefreq>
- -->
 	</url>
 	{% else %}<url>
 		<loc>https://www.opde1sterij.nl{{page.url}}</loc>
