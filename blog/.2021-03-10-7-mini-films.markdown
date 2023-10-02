@@ -3,11 +3,11 @@ title: 7 mini-films
 date: 2021-03-10 09:00:00 +01:00
 permalink: "/blog/7-mini-films/"
 blogger: Esther Hulst
+assets:
+- path: "/uploads/7-mini-films.jpg"
 trailer-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/cQnG0H9BCRg"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen></iframe>
-assets:
-- path: "/uploads/7-mini-films.jpg"
 ---
 
 *Door: Esther Hulst*

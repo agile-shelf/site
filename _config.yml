@@ -62,7 +62,6 @@ markdown: kramdown
 auteur: Op de eerste rij
 include:
 - ".gearchiveerd"
-- ".gearchiveerd-aangepast"
 - ".2022-03"
 - ".2022-04"
 - ".2022-05"

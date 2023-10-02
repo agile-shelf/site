@@ -4,11 +4,12 @@ layout:
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	{% for page in site.pages %}{% if page.url == '/admin/' %}{% elsif page.url == '/agenda/' %}{% elsif page.url == '/e-mailhandtekeningen/' %}{% elsif page.url == '/assets/css/style.css' %}{% elsif page.url == '/redirects.json' %}{% elsif page.url == '/sitemap.xml' %}
+	{% for page in site.pages %}{% if page.url == '/admin/' %}{% elsif page.url == '/agenda/' %}{% elsif page.url == '/e-mailhandtekeningen/' %}{% elsif page.url == '/assets/css/style.css' %}{% elsif page.url == '/redirects.json' %}{% elsif page.url == '/sitemap.xml' %}<url>
 		<loc>https://www.opde1sterij.nl/sitemap.xml</loc>
 <!-- 
 		<lastmod>{{site.time | date_to_xmlschema}}</lastmod>
  -->
+ 	</url>
 	{% elsif page.url == '/' %}<url>
 		<loc>https://www.opde1sterij.nl/</loc>
 <!-- 
