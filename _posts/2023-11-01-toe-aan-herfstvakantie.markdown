@@ -1,6 +1,6 @@
 ---
 title: Toe aan Herfstvakantie
-date: 2023-11-01 20:15:00 +01:00
+date: 2023-11-01 13:00:00 +01:00
 blogger: Esther Hulst
 assets:
 - path: "/uploads/2.png"
