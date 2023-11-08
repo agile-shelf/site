@@ -7,6 +7,7 @@ assets:
 ---
 
 *Laat geen euro onbenut voor Cultuureducatie*
+
 *Door: Esther Hulst*
 
 Het einde van het jaar komt er snel aan. Met nog iets meer dan zes weken te gaan tot de kerstvakantie, is het hoog tijd om te denken aan het CJP-cultuurkaartbudget. Op dit moment ligt er nog bijna 7 miljoen euro op de plank, en voor veel scholen is dat bijna de helft hun CJP-budget. Misschien geldt dit ook wel voor jouw school! 
