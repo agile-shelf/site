@@ -1,7 +1,7 @@
 ---
 title: Nieuws - Maak het CJP-budget op!
 date: 2023-11-08 01:50:00 +01:00
-position: 2
+position: 1
 filmpje-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/5C9CC6vLBmA?si=jWH5d0chF8XAQqDc"
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
