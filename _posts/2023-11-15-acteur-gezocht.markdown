@@ -1,7 +1,6 @@
 ---
 title: Acteur gezocht
 date: 2023-11-15 08:15:00 +01:00
-published: false
 blogger: Esther Hulst
 assets:
 - path: "/uploads/1.png"
