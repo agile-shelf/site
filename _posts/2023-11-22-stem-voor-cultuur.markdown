@@ -3,7 +3,7 @@ title: Stem voor cultuur
 date: 2023-11-22 07:52:00 +01:00
 blogger: David Meijer
 assets:
-- path: "/uploads/Investeren_versus_bezuinigen-960x540.webp"
+- path: "/uploads/stem%20voor%20cultuur.png"
 ---
 
 *Door: David Meijer*
