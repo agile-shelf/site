@@ -1,7 +1,7 @@
 ---
 title: Coronaproof
 date: 2020-05-22 10:12:00 +02:00
-position: 5
+position: 6
 home-page: nee
 assets:
 - path: "/uploads/coronaproof.jpg"
