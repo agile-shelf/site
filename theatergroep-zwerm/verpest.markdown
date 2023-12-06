@@ -27,7 +27,7 @@ kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: 12+ alle niveaus 
 leeftijd: 12+
 actie: 
 sleutelwoorden: 
-speciaal: coronaproof
+speciaal: 
 ---
 
 **VerPest** Een veilige leeromgeving is voor leerlingen een vereiste om zich optimaal te kunnen ontwikkelen. Daar past pesten natuurlijk niet bij. Maar pesten is helaas van alle tijden. 
