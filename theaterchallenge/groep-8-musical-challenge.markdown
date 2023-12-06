@@ -2,26 +2,25 @@
 title: Groep 8 musical challenge
 date: 2015-09-22 15:16:00 +02:00
 position: 5
+zoektermen: groep 8 musical, afscheid, basisschool, groep 8, workshops, musical, theater
+korte-beschrijving: De groep 8 musical, een jaarlijks terugkerend fenomeen. TheaterChallenge
+  biedt verschillende pakketten om van de groep 8 musical een onvergetelijk afscheid
+  te maken.
+assets:
+- path: "/uploads/groep-8-musical-challenge.jpg"
+  name: groep-8-musical-challenge
+- path: "/uploads/groep-8-musical-challenge-2.jpg"
+  name: groep-8-musical-challenge-2
 author: info@opde1sterij.nl
 sectie: bo
 kenmerken: 'Soort project: workshops; Doelgroep: groep 8; Tijdsduur: verschilt per
   pakket.; vanaf 2,5 uur - enkele dagen; Aangeboden in: heel Nederland; Max. aantal
   deelnemers: per groep; Prijs: offerte op aanvraag; online aanbod: vanwege de Coronamaatregelen
   is er in overleg online een boel mogelijk.'
-korte-beschrijving: De groep 8 musical, een jaarlijks terugkerend fenomeen. TheaterChallenge
-  biedt verschillende pakketten om van de groep 8 musical een onvergetelijk afscheid
-  te maken.
 leeftijd: groep 8
-zoektermen: groep 8 musical, afscheid, basisschool, groep 8, workshops, musical, theater
-filmpje-embed-code: 
 actie: 
 sleutelwoorden: 
-speciaal: coronaproof
-assets:
-- path: "/uploads/groep-8-musical-challenge.jpg"
-  name: groep-8-musical-challenge
-- path: "/uploads/groep-8-musical-challenge-2.jpg"
-  name: groep-8-musical-challenge-2
+speciaal: 
 ---
 
 De **groep 8 musical**, een jaarlijks terugkerend fenomeen. Om de leerlingen en ouders een onvergetelijk afscheid te laten beleven wil je een musical waar de vonken vanaf vliegen. Omdat elke school een andere vraag en ander budget heeft, biedt TheaterChallenge de volgende producten.
