@@ -31,7 +31,7 @@ kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: 12+ alle niveaus 
   Afhankelijk daarvan kan de voorstelling plaatsvinden in een aula, gymzaal of speellokaal.'
 leeftijd: 12+
 sleutelwoorden: 
-speciaal: coronaproof
+speciaal: 
 actie: 
 ---
 
