@@ -33,7 +33,7 @@ kenmerken: "Soort project: voorstelling in de klas; Doelgroep: groep 5 t/m 8 ook
 leeftijd: groep 5, 6, 7 en 8
 actie: 
 sleutelwoorden: 
-speciaal: coronaproof
+speciaal: 
 ---
 
 **iSocial** Het leven van kinderen speelt zich ook voor een steeds groter deel online af. Deze steeds veranderende online wereld is voor de gemiddelde volwassene nauwelijks bij te benen. Maar hoe worden basisscholieren hier wegwijs in?
