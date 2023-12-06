@@ -11,9 +11,7 @@ assets:
 author: info@opde1sterij.nl
 sectie: vo
 kenmerken: 'Soort project: training; Tijdsduur: minimaal 105 min; Max. aantal deelnemers:
-  100 docenten; Maakt gebruik van: digibord; Prijs: €1490,- : coronaproof: De trainingen
-  worden altijd gegeven in overeenstemming met de recente corona-maatregelen en de
-  richtlijnen van het RIVM.'
+  100 docenten; Maakt gebruik van: digibord; Prijs: €1490,- '
 leeftijd: 18+
 actie: 
 sleutelwoorden: 
