@@ -25,9 +25,9 @@ kenmerken: 'Soort project: voorstelling; Doelgroep: ouders, verzorgers, docenten
   De voorstellingen worden altijd gespeeld in overeenstemming met de recente corona-maatregelen
   en de richtlijnen van het RIVM.'
 leeftijd: ouders, verzorgers, docenten, hulpverleners
-actie: online aanbod
+actie: 
 sleutelwoorden: 
-speciaal: coronaproof
+speciaal: 
 ---
 
 **Theatergroep Zwerm** speelt ook op ouderavonden voor ouders, verzorgers en docenten. Tg Zwerm geeft op unieke wijze een inkijkje in de wereld van het kind. Dit doet zij in het basis- en voortgezet onderwijs, maar ook in andere omgevingen zoals buurthuizen, gemeenten en bedrijven.
