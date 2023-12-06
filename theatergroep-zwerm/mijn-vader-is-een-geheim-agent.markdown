@@ -20,7 +20,7 @@ kenmerken: 'Soort project: voorstelling op school; Doelgroep: groep 3 t/m 8 ook 
 leeftijd: groep 3, 4, 5, 6, 7, 8
 actie: 
 sleutelwoorden: 
-speciaal: coronaproof
+speciaal: 
 ---
 
 Een voorstelling voor groep 3 t/m 8 in het kader van de Kinderboekenweek.
