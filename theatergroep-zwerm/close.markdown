@@ -32,7 +32,7 @@ kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: 12+ alle niveaus 
 leeftijd: 12+
 actie: 
 sleutelwoorden: 
-speciaal: coronaproof
+speciaal: 
 ---
 
 **CLOSE** Op alle scholen in Nederland wordt seksuele vorming gegeven. Over het algemeen is dit vooral gericht op voorlichting. Laten we zeggen: het technische gedeelte. De voorstelling Close gaat vooral over het sociaal-emotionele deel.
