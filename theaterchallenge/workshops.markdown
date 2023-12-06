@@ -2,22 +2,12 @@
 title: Workshops
 date: 2015-09-22 15:19:00 +02:00
 position: 6
-author: info@opde1sterij.nl
-sectie: bo, vo
-kenmerken: 'Soort project: workshops; Doelgroep: 4 t/m 18 jaar; Tijdsduur: vanaf 1,5
-  uur; Aangeboden in: Heel Nederland; Max. aantal deelnemers: de hele school; Prijs:
-  offerte op aanvraag'
-korte-beschrijving: 'Bij TheaterChallenge kunnen scholen ook terecht voor producten
-  op maat en losse workshops. Dit kan in verschillende disciplines zoals: muziek,
-  dans, acteren, multimedia en slapstick.'
-leeftijd: alle leeftijden
 zoektermen: theaterworkshops, workshops, acteren, muziek, musical, zang, dans, slapstick,
   film & video, objecttheater, improtheater, basisonderwijs, basisschool, de hele
   school, middelbare school, middelbaar onderwijs, voorgezet onderwijs
-filmpje-embed-code: 
-actie: 
-sleutelwoorden: 
-speciaal: coronaproof
+korte-beschrijving: 'Bij TheaterChallenge kunnen scholen ook terecht voor producten
+  op maat en losse workshops. Dit kan in verschillende disciplines zoals: muziek,
+  dans, acteren, multimedia en slapstick.'
 assets:
 - path: "/uploads/workshops1.jpg"
   name: workshops1
@@ -25,6 +15,15 @@ assets:
   name: workshops2
 - path: "/uploads/losse-workshops.jpg"
   name: losse-workshops
+author: info@opde1sterij.nl
+sectie: bo, vo
+kenmerken: 'Soort project: workshops; Doelgroep: 4 t/m 18 jaar; Tijdsduur: vanaf 1,5
+  uur; Aangeboden in: Heel Nederland; Max. aantal deelnemers: de hele school; Prijs:
+  offerte op aanvraag'
+leeftijd: alle leeftijden
+actie: 
+sleutelwoorden: 
+speciaal: 
 ---
 
 Een workshop dans, acteren, muziek, multimedia, improtheater, objecttheater, physical theatre, licht- en geluidstechniek, film en video of soundtrack? TheaterChallenge organiseert workshops in het gehele culturele spectrum. Onder leiding van een vakkundige docent wordt deze workshop een succes!
