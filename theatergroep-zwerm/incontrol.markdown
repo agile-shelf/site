@@ -32,7 +32,7 @@ kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: 12+ alle niveaus 
 leeftijd: 12+
 actie: 
 sleutelwoorden: 
-speciaal: coronaproof
+speciaal: 
 ---
 
 **InControl** In een wereld waarin NIX de afspraak is, is een pil goedkoper en voor jongeren makkelijker verkrijgbaar dan een sixpack. Op de laptop, waarop jongeren hun huiswerk maken, zijn ze één klik verwijderd van duizenden games, die ze onbeperkt, met mensen over de hele wereld, dag en nacht kunnen spelen. InControl is een voorstelling over genotmiddelen en gameverslaving, in de wereld van nu.
