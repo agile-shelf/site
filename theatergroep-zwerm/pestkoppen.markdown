@@ -25,7 +25,7 @@ kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: groep 6 t/m 8 ook
 leeftijd: groep 6, 7 & 8
 actie: 
 sleutelwoorden: 
-speciaal: coronaproof
+speciaal: 
 ---
 
 **PestKoppen** Een veilige leeromgeving is voor leerlingen een vereiste om zich optimaal te kunnen ontwikkelen. Daar past pesten natuurlijk niet bij. Maar pesten is helaas van alle tijden. De voorstelling PestKoppen, met interactieve nabespreking, onderzoekt samen met de leerlingen waar plagen ophoudt en pesten begint. 
