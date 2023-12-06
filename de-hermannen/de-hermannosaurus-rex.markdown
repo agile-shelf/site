@@ -23,8 +23,8 @@ kenmerken: 'Soort project: voorstelling ; Doelgroep: groep 3 t/m 8 ook speciaal 
   gespeeld in overeenstemming met de recente corona-maatregelen en de richtlijnen
   van het RIVM.'
 leeftijd: groep 3 t/m 8 en brugklas
-actie: online aanbod
-speciaal: coronaproof
+actie: 
+speciaal: 
 ---
 
 De broertjes Herman en Herman hebben dé oplossing voor al het afval in de wereld: de recyclemachine. Je gooit je troep erin en de machine maakt er prachtige nieuwe spullen van: een leeg eierdoosje, drie bananenschillen en een oude paperclip, en voilà: een nieuw skateboard!
