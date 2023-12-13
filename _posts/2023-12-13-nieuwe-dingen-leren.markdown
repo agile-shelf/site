@@ -2,6 +2,8 @@
 title: Nieuwe dingen leren
 date: 2023-12-13 15:40:00 +01:00
 blogger: Esther Hulst
+assets:
+- path: "/uploads/blog%2013%20dec.png"
 ---
 
 *Door: Esther Hulst*
