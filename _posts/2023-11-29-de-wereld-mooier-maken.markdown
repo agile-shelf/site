@@ -1,6 +1,7 @@
 ---
 title: De wereld mooier maken
 date: 2023-11-29 10:41:00 +01:00
+permalink: "/blog/29-11-2023-de-wereld-mooier-maken/"
 blogger: Esther Hulst
 assets:
 - path: "/uploads/blog%2029%20nov.png"
