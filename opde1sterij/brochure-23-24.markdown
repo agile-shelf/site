@@ -7,7 +7,7 @@ assets:
 author: info@opde1sterij.nl
 ---
 
-Hij is er weer onze interactieve digitale brochure voor schooljaar 2023-24. Ons volledige aanbod staat er in: 8 voorstellingen, 4 voor VO, 4 voor PO, waarvan 1 speciaal voor de Kinderboekenweek, TheaterChallenge en Traject C.
+De interactieve digitale brochure voor schooljaar 2023-24. Ons volledige aanbod staat er in: 8 voorstellingen, 4 voor VO, 4 voor PO, waarvan 1 speciaal voor de Kinderboekenweek, TheaterChallenge en Traject C.
 
 Wist je bijvoorbeeld dat we met Traject C ook de inhoud van de lessen kunnen afstemmen op specifieke secundaire doelen zoals weerbaarheid, sociale cohesie, veerkracht. Ik wens iedereen veel lees- en kijkplezier. 
 <br><br>
