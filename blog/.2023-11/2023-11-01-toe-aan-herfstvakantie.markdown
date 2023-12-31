@@ -4,7 +4,7 @@ date: 2023-11-01 13:00:00 +01:00
 permalink: "/blog/1-11-2023-toe-aan-herfstvakantie/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/2.png"
+- path: "/uploads/toe-aan-herfstvakantie.jpg"
 ---
 
 **Door: Esther Hulst**

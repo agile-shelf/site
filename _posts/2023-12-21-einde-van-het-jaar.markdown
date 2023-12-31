@@ -3,7 +3,7 @@ title: einde van het jaar
 date: 2023-12-21 15:04:00 +01:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/Gezond,%20cultureel%20en%20educatief%20(Presentatie)%201.png"
+- path: "/uploads/einde-van-het-jaar.jpg"
 ---
 
 *Door: Esther Hulst*

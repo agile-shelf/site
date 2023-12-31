@@ -4,7 +4,7 @@ date: 2023-11-08 10:55:00 +01:00
 permalink: "/blog/8-11-2023-maak-het-cjp-cultuurkaartbudget-op-voor-31-dec-2023/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/cjp%20budget%202023.png"
+- path: "/uploads/cjp-budget-2023.jpg"
 ---
 
 *Laat geen euro onbenut voor Cultuureducatie*

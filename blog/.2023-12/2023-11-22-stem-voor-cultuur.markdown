@@ -4,7 +4,7 @@ date: 2023-11-22 07:52:00 +01:00
 permalink: "/blog/22-11-2023-stem-voor-cultuur/"
 blogger: David Meijer
 assets:
-- path: "/uploads/stem%20voor%20cultuur.png"
+- path: "/uploads/stem-voor-cultuur.jpg"
 ---
 
 *Door: David Meijer*

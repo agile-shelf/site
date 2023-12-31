@@ -4,7 +4,7 @@ date: 2023-11-15 14:07:00 +01:00
 permalink: "/blog/15-11-2023-acteur-gezocht/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/1-f144e7.png"
+- path: "/uploads/acteur-gezocht.jpg"
 ---
 
 *Door: Esther Hulst*
