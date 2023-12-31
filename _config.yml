@@ -80,6 +80,7 @@ include:
 - ".2023-06"
 - ".2023-09"
 - ".2023-11"
+- ".2023-12"
 plugins:
 - jekyll-redirect-from
 whitelist:
