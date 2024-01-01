@@ -1,6 +1,7 @@
 ---
 title: einde van het jaar
 date: 2023-12-21 15:04:00 +01:00
+permalink: "/blog/21-12-2023-einde-van-het-jaar/"
 blogger: Esther Hulst
 assets:
 - path: "/uploads/einde-van-het-jaar.jpg"
