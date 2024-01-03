@@ -1,21 +1,22 @@
 ---
-title: Nieuws - Maak het CJP-budget op!
-date: 2023-11-08 01:50:00 +01:00
+title: Nieuws - Nieuwjaars wens
+date: 2024-01-03 01:50:00 +01:00
 position: 2
 filmpje-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/5C9CC6vLBmA?si=jWH5d0chF8XAQqDc"
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 assets:
-- path: "/uploads/cjp-budget-2023.jpg"
+- path: "/uploads/Gezond,%20cultureel%20en%20educatief%20(Presentatie)%201.png"
 author: info@opde1sterij.nl
 ---
 
-Het einde van het jaar komt al in zicht en dat betekend dat het CJP-cultuurkaartbudget opgemaakt moet worden. Er ligt nog bijna **7 miljoen euro** op de plank. Dit moet uitgegeven worden **vóór 31 december 2023**. Op veel scholen gaat het om meer dan dan de helft van het beschikbare budget en er is nog maar weinig tijd om te besteden.
+Het is nog even Kerstvakantie. Ik hoop dat jij daar net zo van geniet als ik: feestdagen met familie en vrienden, tijd voor het gezin en terugblikken op 2023. 
 
-Gelukkig is hier een oplossing voor. Het budget mag namelijk ook besteed worden aan cultuureducatie die pas **ná 31 december** wordt uitgevoerd. Reserveer nu een voorstelling, workshopdag of lesprogramma en wij komen deze in de tweede helft van het schooljaar uitvoeren. Maar dat is niet de enige mogelijkheid... 
+Op de eerste rij verzorgde in 2023 14 TheaterChallenges waarbij 36 basisschoolklassen en bijna 1000 middelbare scholieren voorstellingen maakten en uitvoerden. Met Traject C gaven we meer dan 360 uur theater-, dans- en muzieklessen aan ruim 900 leerlingen van 4-18 jaar. En Theatergroep Zwerm speelde in 397 voorstellingen in 2023 voor ruim 27.000 leerlingen. Niet normaal veel toch?
 
-Je kunt het overgebleven budget ook bij ons besteden als je nog niet precies weet wat je wilt of wanneer je iets wilt. Wij houden het voor je apart en zodra je weet waaraan je het wilt uitgeven, plannen we het in. Zo kun je het CJP-budget toch nog besteden aan cultuur. Precies waar het voor bedoeld is.
+De jaarwisseling biedt ook een uitgelezen kans om vooruit te blikken en nieuwe doelen te stellen of in ieder geval te bedenken wat je anders wilt. Bij ons borrelen er heel wat ideeën, voor en achter de schermen. Daarover de komende maanden meer! Wat we in ieder geval willen is nog meer Cultuureducatie verzorgen voor nog veel meer leerlingen en daarbij scholen ontzorgen! Je bent al druk zat, toch? Voor nu:
 
-Meer weten? Neem dan contact met ons op via telefoon <a href="tel:+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a> , [mail](mailto:boekingen@opde1sterij.nl) of plan een [belafspraak](https://calendly.com/opde1sterij/bellen-over-het-cjp-cultuurkaart-budget) in. Wij denken graag mee.
+**Wensen mijn team en ik je een gezond, gelukkig, educatief en vooral cultureel 2024.**
 
-*Meer weten over het CJP-cultuurkaart budget? Lees de [blog](https://www.opde1sterij.nl/blog/8-11-2023-maak-het-cjp-cultuurkaartbudget-op-voor-31-dec-2023/).*
+Groet,
+Esther Hulst
