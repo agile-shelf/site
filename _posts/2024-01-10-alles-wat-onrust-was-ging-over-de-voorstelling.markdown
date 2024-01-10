@@ -2,6 +2,8 @@
 title: Alles wat onrust was ging over de voorstelling
 date: 2024-01-10 07:45:00 +01:00
 blogger: Esther Hulst
+assets:
+- path: "/uploads/blog%20post%20website.png"
 ---
 
 *Door: Esther Hulst*
