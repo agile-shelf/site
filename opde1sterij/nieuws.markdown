@@ -3,7 +3,7 @@ title: Nieuws - Nieuwjaars wens
 date: 2024-01-03 01:50:00 +01:00
 position: 2
 assets:
-- path: "/uploads/Gezond,%20cultureel%20en%20educatief%20(Presentatie)%201.png"
+- path: "/uploads/gezond-cultureel-en-educatief.jpg"
 author: info@opde1sterij.nl
 ---
 

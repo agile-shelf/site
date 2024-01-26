@@ -1,9 +1,10 @@
 ---
 title: Alles dat onrust was, ging over de voorstelling
 date: 2024-01-10 08:04:00 +01:00
+permalink: "/blog/10-1-2024-alles-dat-onrust-was-ging-over-de-voorstelling/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blog%20post%20website-c7bace.png"
+- path: "/uploads/alles-dat-onrust-was-ging-over-de-voorstelling.jpg"
 ---
 
 *Door: Esther Hulst*

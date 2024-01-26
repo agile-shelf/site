@@ -290,7 +290,7 @@
 					<a class="link" href="{{post.url}}" title="Blog post: {{post.title}}&nbsp;&nbsp;|&nbsp;&nbsp;{{post.date | date: '%-d-%-m-%Y'}}"><span>{{post.title}}&nbsp;&nbsp;|&nbsp;&nbsp;{{post.date | date: '%-d-%-m-%Y'}}</span><div class="blokje"></div></a>{% endfor %}
 				</article>
 				{% elsif page.blogger %}<article>
-					<h1>{{page.title}}&nbsp;&nbsp;|&nbsp;&nbsp;{{page.date | date: '%d-%m-%Y'}}</h1>
+					<h1>{{page.title}}&nbsp;&nbsp;|&nbsp;&nbsp;{{page.date | date: '%-d-%-m-%Y'}}</h1>
 					<div class="tekst">
 						{{content | markdownify | replace: '<img', '<img class="lazyload"' | replace: '<iframe', '<div class="filmpje"><div class="video-wikkel normale-ratio"><iframe' | replace: 'src=', 'data-src=' | replace: 'youtube.com', 'youtube-nocookie.com' | replace: '></iframe>', ' class="lazyload"></iframe></div></div>'}}
 					</div>

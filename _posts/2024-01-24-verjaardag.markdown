@@ -1,9 +1,10 @@
 ---
 title: Verjaardag
 date: 2024-01-24 06:17:00 +01:00
+permalink: "/blog/24-1-2024-verjaardag/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blog%20post%2023%20jan%2024-4d24ce.png"
+- path: "/uploads/verjaardag.jpg"
 ---
 
 *Door: Esther Hulst*

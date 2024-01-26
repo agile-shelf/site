@@ -312,7 +312,7 @@ $(function() {
 	}
 	
 	function plaatsInstagramPost() {
-		var itemAfbeelding = '<a href="' + itemLink + '" title="Klik!" rel="noopener noreferrer"><div class="instagram-post-cirkel lazyload" data-bg="/instagram_nieuw.jpg"><div class="instagram-post-foto lazyload" data-bg="' + itemImgLink + '" referrerpolicy="no-referrer"></div></div></a>';
+		var itemAfbeelding = '<a href="' + itemLink + '" title="Bekijk op Instagram" rel="noopener noreferrer"><div class="instagram-post-cirkel lazyload" data-bg="/instagram_nieuw.jpg"><div class="instagram-post-foto lazyload" data-bg="' + itemImgLink + '" referrerpolicy="no-referrer"></div></div></a>';
 		$('.laatste-instagram-post').html('<div class="instagram-post-linker-kolom"><div class="instagram-post-plaatje">' + itemAfbeelding + '</div><p class="instagram-post-tijd">' + itemTijdGeleden + '</p></div><div class="instagram-post-rechter-kolom"><p>' + itemBericht + '</p></div>');
 		$('.instagram-post-rechter-kolom p')
 			.shave(106, {classname: 'onzichtbaar', character: '\u2026'})
