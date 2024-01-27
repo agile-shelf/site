@@ -272,7 +272,7 @@ $(function() {
 				if (instagramItemImgLink != undefined) {
 					itemImgLink = 'https://corsproxy.io/?' + instagramItemImgLink;
 				}
-				instagramItemBericht = $(greatfonData, virtueelDocument).find('.content__text p').first().text().trim();
+				instagramItemBericht = $(greatfonData, virtueelDocument).find('.content__text p').first().html().replace(/<br\s*\/?>/gi,' ').trim();
 				if (instagramItemBericht != undefined && instagramItemBericht != '') {
 					itemBericht = instagramItemBericht;
 				}
