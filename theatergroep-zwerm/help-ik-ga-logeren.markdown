@@ -19,9 +19,9 @@ sectie: bo
 
 Een voorstelling voor groep 3 t/m 8 in het kader van de Kinderboekenweek.
 
-Eindelijk is het zover: Sam komt bij Philine logeren. Philine heeft al 100.000 keer bij hem gelogeerd, maar hij nog nooit bij haar. Hij heeft last van heimwee. En nu slaapt ie een hele week in een vreemd huis, met andere gewoontes én Lena’s Molukse Oma die in het tuinhuis woont en bijna geen Nederlands spreekt. Hij moet wel, want zijn ouders zijn op zakenreis.
+Eindelijk is het zover: Sam komt bij Philine logeren. Philine heeft al 100.000 keer bij hem gelogeerd, maar hij nog nooit bij haar. Hij heeft last van heimwee. En nu slaapt ie een hele week in een vreemd huis, met andere gewoontes én Philine's Molukse Oma die in het tuinhuis woont en bijna geen Nederlands spreekt. Hij moet wel, want zijn ouders zijn op zakenreis.
 
-Philine en haar familie kunnen bijna niet wachten. Sam heeft wat minder zin in. Eigenlijk ziet ie er best tegenop. Zijn ouders hebben het echt beroerd gepland, want hij moet ook nog oefenen voor zijn kookinsigne bij de scouting. Hoe gaat ie dat nou weer doen als de Oma van Philine de hele dag ingewikkelde Indische gerechten staat te bereiden en alleen Indonesisch spreekt? 
+Philine en haar familie kunnen bijna niet wachten. Sam heeft er wat minder zin in. Eigenlijk ziet ie er best tegenop. Zijn ouders hebben het echt beroerd gepland, want hij moet ook nog oefenen voor zijn kookinsigne bij de scouting. Hoe gaat ie dat nou weer doen als de Oma van Philine de hele dag ingewikkelde Indische gerechten staat te bereiden en alleen Indonesisch spreekt? 
 
 Gelukkig zijn Philine en Sam ondanks alle verschillen vooral beste vrienden. Dus samen lossen ze ook dit probleem op. 
 
