@@ -59,7 +59,7 @@
 		<div class="wikkel">
 			<header>
 				<div class="gecentreerd">
-					{% if page.url contains '/theatergroep-zwerm/' %}<h1 title="Theatergroep Zwerm" style="background-image: url('/logo_nieuw_theatergroep-zwerm@3x.png')">Theatergroep Zwerm</h1>{% elsif page.url contains '/traject-c/' %}<h1 title="Traject C Cultuuronderwijs" style="background-image: url('/logo_nieuw_traject-c-cultuuronderwijs@3x.png');">Traject C</h1>{% elsif page.url contains '/theaterchallenge/' %}<h1 title="TheaterChallenge" style="background-image: url('/logo_nieuw_theaterchallenge@3x.png')">TheaterChallenge</h1>{% elsif page.url contains '/monkeyspoom/' %}<h1 title="MonkeySpoom" style="background-image: url('/logo_nieuw_opde1sterij_blauw@3x.png')">MonkeySpoom</h1>{% else %}<h1 title="Op de eerste rij" style="background-image: url('/logo_nieuw_opde1sterij@3x.png')">Op de eerste rij</h1>{% endif %}
+					{% if page.url contains '/theatergroep-zwerm/' %}<h1 title="Theatergroep Zwerm" style="background-image: url('/logo_nieuw_theatergroep-zwerm@3x.png')"><span class="visueel-verborgen">Theatergroep Zwerm</span></h1>{% elsif page.url contains '/traject-c/' %}<h1 title="Traject C" style="background-image: url('/logo_nieuw_traject-c-cultuuronderwijs@3x.png');"><span class="visueel-verborgen">Traject C</span></h1>{% elsif page.url contains '/theaterchallenge/' %}<h1 title="TheaterChallenge" style="background-image: url('/logo_nieuw_theaterchallenge@3x.png')"><span class="visueel-verborgen">TheaterChallenge</span></h1>{% elsif page.url contains '/monkeyspoom/' %}<h1 title="MonkeySpoom" style="background-image: url('/logo_nieuw_opde1sterij_blauw@3x.png')"><span class="visueel-verborgen">MonkeySpoom</span></h1>{% else %}<h1 title="Op de eerste rij" style="background-image: url('/logo_nieuw_opde1sterij@3x.png')"><span class="visueel-verborgen">{{site.title}}</span></h1>{% endif %}
 					<nav class="menu">
 						<div class="menu-knop" title="Open Menu">
 							<div class="menu-titel">Menu</div>
@@ -380,7 +380,9 @@
 			window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
 			ga('create', '{{home-page.analytics}}', 'auto'); ga('set', 'forceSSL', true); ga('set', 'anonymizeIp', true); ga('send', 'pageview')
 		</script>
+<!-- 
 		<script src="https://google-analytics.com/analytics.js" async defer></script>
+ -->
 	</body>
 
 </html>
