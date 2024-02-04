@@ -118,7 +118,7 @@
 			<main>
 				{% if page.url == '/' %}<article>
 					<div class="wie-zijn-wij">
-						<h1><a href="/" title="Home">{{page.kopje}}</a></h1>
+						<h1>{{page.kopje}}</h1>
 						<div class="wie-zijn-wij-tekst">
 							{{content | strip_newlines | replace: '<iframe', '<div class="filmpje"><div class="video-wikkel normale-ratio"><iframe' | replace: 'src=', 'data-src=' | replace: 'youtube.com', 'youtube-nocookie.com' | replace: '></iframe>', ' class="lazyload"></iframe></div></div>'}}
 						</div>
