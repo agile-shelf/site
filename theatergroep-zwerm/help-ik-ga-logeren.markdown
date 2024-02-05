@@ -3,7 +3,7 @@ title: Help, ik ga logeren
 date: 2023-02-21 08:12:00 +01:00
 position: 0
 zoektermen: Kinderboekenweek; culturele achtergrond; koloniaal verleden, gedeelde
-  geschiedenis
+  geschiedenis, gebruiken en rituelen
 korte-beschrijving: "\"Help, ik ga logeren...” is een multimediale voorstelling over
   je thuis voelen, anders zijn en over hoe het erbij jou thuis aan toe gaat. "
 assets:
