@@ -24,9 +24,7 @@ Philine kan bijna niet wachten en heeft een heel programma in elkaar gedraaid. S
 
 Gelukkig zijn Philine en Sam ondanks alle verschillen vooral beste vrienden. Dus samen lossen ze ook dit probleem op. 
 
-*"Help, ik ga logeren...”* is een multimediale voorstelling over je thuis voelen, anders zijn en over hoe het erbij jou thuis aan toe gaat. 
-
-*"Help, ik ga logeren...”* is een multimediale voorstelling over verschillende culturen en je ergens thuis voelen.
+*"Help, ik ga logeren...”* is een multimediale voorstelling over je ergens thuis voelen, verschillende culturen en hoe het erbij jou thuis aan toe gaat.
 
 “Help, ik ga logeren…” is al meer dan 50x gespeeld en is door de scholen beoordeeld met een 8,5 gemiddeld.
 
