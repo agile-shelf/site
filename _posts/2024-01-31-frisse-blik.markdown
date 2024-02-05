@@ -5,6 +5,7 @@ permalink: "/blog/31-1-2024-frisse-blik/"
 blogger: Esther Hulst
 assets:
 - path: "/uploads/blog%2031%20jan.png"
+  name: Esther Theater docent
 ---
 
 *Door: Esther Hulst*
