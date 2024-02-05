@@ -26,6 +26,14 @@ Gelukkig zijn Philine en Sam ondanks alle verschillen vooral beste vrienden. Dus
 
 *"Help, ik ga logeren...”* is een multimediale voorstelling over je thuis voelen, anders zijn en over hoe het erbij jou thuis aan toe gaat. 
 
+*"Help, ik ga logeren...”* is een multimediale voorstelling over verschillende culturen en je ergens thuis voelen.
+
+“Help, ik ga logeren…” is al meer dan 50x gespeeld en is door de scholen beoordeeld met een 8,5 gemiddeld.
+
+Enkele reacties:
+“Iedereen zou dit moeten zien!” Docent van de Kwikstaart.
+“Wat een goede aanleiding om het over verschillende culturen en afkomsten in de klas te hebben, bedankt” Docent in Barneveld.
+
 De voorstelling in combinatie met de lesbrief vormen een fijne start om onderwerpen als culturele verschillen, gebruiken, rituele en gewoontes op een prettige en toegankelijke manier bespeekbaar te maken. Wie weet blijken er juist heel veel overeenkomsten te zijn. Ook al heeft men verschillende achtergronden en thuis situaties.
 
 Daarnaast biedt de voorstelling een mogelijkheid om te verdiepen in de gedeelde geschiedenis van Nederland en andere landen, zoals bijvoorbeeld Indonesië, Suriname en de Antillen.
