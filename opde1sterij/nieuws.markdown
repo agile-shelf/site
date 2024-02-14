@@ -1,20 +1,14 @@
 ---
-title: Nieuws - Nieuwjaars wens
+title: Nieuws - 10% korting
 date: 2024-01-03 01:50:00 +01:00
-published: false
 position: 2
 assets:
-- path: "/uploads/gezond-cultureel-en-educatief.jpg"
+- path: "/uploads/1-5064e9.png"
 author: info@opde1sterij.nl
 ---
 
-Het is nog even Kerstvakantie. Ik hoop dat jij daar net zo van geniet als ik: feestdagen met familie en vrienden, tijd voor het gezin en terugblikken op 2023. 
+Het is Valentijnsdag en dat betekent dat ook de Week van de liefde in volle gang is. Een week waarin scholen in het voortgezet onderwijs, praktijkonderwijs, voortgezet speciaal onderwijs en mbo aandacht besteden aan het thema seksuele vorming. Het thema is dit jaar: Let’s talk about love and sex. En daar past de voorstelling Close van Tg Zwerm natuurlijk uitstekend bij.
 
-Op de eerste rij verzorgde in 2023 14 TheaterChallenges waarbij 36 basisschoolklassen en bijna 1000 middelbare scholieren voorstellingen maakten en uitvoerden. Met Traject C gaven we meer dan 360 uur theater-, dans- en muzieklessen aan ruim 900 leerlingen van 4-18 jaar. En Theatergroep Zwerm speelde in 397 voorstellingen in 2023 voor ruim 27.000 leerlingen. Niet normaal veel toch?
+Daarom hebben we een kortingsactie! Je krijgt in de week van de liefde 10% korting op de educatieve voorstelling Close. De speeldatum mag later dit jaar zijn, en is dus niet beperkt tot deze ene week. Vanwege Carnaval en de voorjaarsvakantie in regio Zuid duurt deze week dit jaar extra lang.
 
-De jaarwisseling biedt ook een uitgelezen kans om vooruit te blikken en nieuwe doelen te stellen of in ieder geval te bedenken wat je anders wilt. Bij ons borrelen er heel wat ideeën, voor en achter de schermen. Daarover de komende maanden meer! Wat we in ieder geval willen is nog meer Cultuureducatie verzorgen voor nog veel meer leerlingen en daarbij scholen ontzorgen! Je bent al druk zat, toch? Voor nu:
-
-**Wensen mijn team en ik je een gezond, gelukkig, educatief en vooral cultureel 2024.**
-
-Groet,
-Esther Hulst
+Boek vanaf nu tot 23 februari de voorstelling Close en ontvang 10% korting. de voorstelling(en) mag later in het jaar plaats vinden.
