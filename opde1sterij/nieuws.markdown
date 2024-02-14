@@ -1,6 +1,6 @@
 ---
 title: Nieuws - 10% korting
-date: 2024-01-03 01:50:00 +01:00
+date: 2024-02-14 04:41:00 +01:00
 position: 2
 assets:
 - path: "/uploads/1-5064e9.png"
