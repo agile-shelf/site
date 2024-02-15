@@ -22,7 +22,7 @@ leeftijd: '12+ '
 **Bullsh*t** volgt drie leerlingen die te maken krijgen met fake news, desinformatie, AI en de gevolgen daarvan. Een misverstand binnen een vriendengroep krijgt een heel nare wending als er informatie opduikt die niet van echt te onderscheiden is. De complete school wordt meegezogen in een nachtmerrie waarin niemand meer zeker weet wie de waarheid spreekt. De digitale wereld wordt zo een bron van onwetendheid, pestgedrag, uitsluiting en eenzaamheid.  
 
 De leerlingen worden door de voorstelling en het interactieve nagesprek aangemoedigd om kritisch na te denken, vragen te stellen en hun eigen conclusies te trekken. **Bullsh*t** biedt niet alleen inzicht in de wereld van AI en fake news, maar bevordert ook een gezonde dosis scepsis en nieuwsgierigheid die essentieel zijn voor een goed begrip van de moderne digitale samenleving. Tijdens de nabespreking zullen de acteurs samen met de leerlingen de tools verkennen die nodig zijn om betrouwbare informatie te onderscheiden van misleidende content.
- 
+
 De voorstelling **Bullsh*t** inclusief nabespreking en lesbrief vormen een goede basis om de digitale vaardigheden van de volgende generatie te versterken en hen voor te bereiden op een toekomst waarin kennis, wijsheid en kritisch denken centraal staan. 
 
 *Deze tekst is gemaakt met behulp van Chat GPT *
