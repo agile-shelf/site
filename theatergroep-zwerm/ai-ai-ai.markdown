@@ -1,7 +1,6 @@
 ---
 title: Ai, ai, ai
 date: 2024-02-15 06:31:00 +01:00
-published: false
 position: 5
 korte-beschrijving: De voorstelling volgt drie leerlingen in groep 8 die worden geconfronteerd
   met nepnieuws, misleidende informatie, kunstmatige intelligentie en de impact ervan.
