@@ -9,9 +9,9 @@ assets:
 kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: groep 6 t/m 8 ook speciaal
   onderwijs; Tijdsduur: 1,5 uur (45 min voorstelling en 45 min nabespreking); Aangeboden
   in: heel Nederland; Aantal deelnemers: max. 64 leerlingen of 2 klassen; Maakt gebruik
-  van: digibord; Nieuw lesmateriaal: vanaf schooljaar 21-22; Prijs: 1 voorstelling
-  per dag €690,- <br> 2 voorstellingen per dag €1150,- <br> 3 voorstellingen per dag
-  €1545,- <br>  Prijzen zijn excl. btw en incl. reiskosten; '
+  van: digibord; Lesmateriaal: digitale educatiekit; Prijs: 1 voorstelling per dag
+  €690,- <br> 2 voorstellingen per dag €1150,- <br> 3 voorstellingen per dag €1545,-
+  <br>  Prijzen zijn excl. btw en incl. reiskosten; '
 sectie: bo
 leeftijd: groep 6 t/m 8
 ---
