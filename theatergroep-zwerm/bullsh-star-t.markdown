@@ -25,4 +25,4 @@ De leerlingen worden door de voorstelling en het interactieve nagesprek aangemoe
 
 De voorstelling **Bullsh*t** inclusief nabespreking en lesbrief vormen een goede basis om de digitale vaardigheden van de volgende generatie te versterken en hen voor te bereiden op een toekomst waarin kennis, wijsheid en kritisch denken centraal staan. 
 
-*Deze tekst is gemaakt met behulp van Chat GPT *
+*Deze tekst is gemaakt met behulp van Chat GPT*
