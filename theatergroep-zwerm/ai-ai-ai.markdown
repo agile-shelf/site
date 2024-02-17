@@ -2,11 +2,11 @@
 title: Ai, ai, ai
 date: 2024-02-15 06:31:00 +01:00
 published: false
-position: 5
+position: 1
 korte-beschrijving: De voorstelling volgt drie leerlingen in groep 8 die worden geconfronteerd
   met nepnieuws, misleidende informatie, kunstmatige intelligentie en de impact ervan.
 assets:
-- path: "/uploads/meijer90_a_bright_image_of_3_kids_with_different_ethnicities_at_54399dfb-18fb-4180-bb00-f6a3e0a7438c.png"
+- path: "/uploads/ai-ai-ai.jpg"
 kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: groep 6 t/m 8 ook speciaal
   onderwijs; Tijdsduur: 1,5 uur (45 min voorstelling en 45 min nabespreking); Aangeboden
   in: heel Nederland; Aantal deelnemers: max. 64 leerlingen of 2 klassen; Maakt gebruik

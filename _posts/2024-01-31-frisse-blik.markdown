@@ -4,7 +4,7 @@ date: 2024-01-31 06:45:00 +01:00
 permalink: "/blog/31-1-2024-frisse-blik/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blog%2031%20jan.png"
+- path: "/uploads/frisse-blik-nieuw.jpg"
   name: Esther Theater docent
 ---
 

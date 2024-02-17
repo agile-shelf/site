@@ -1,9 +1,10 @@
 ---
 title: Valentijnsdag (10% korting)
 date: 2024-02-14 13:10:00 +01:00
+permalink: "/blog/14-2-2024-valentijnsdag-10-percent-korting/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/1.png"
+- path: "/uploads/valentijnsdag-10-percent-korting.jpg"
 ---
 
 *Door: Esther Hulst*

@@ -1,7 +1,7 @@
 ---
 title: Help, ik ga logeren
 date: 2023-02-21 08:12:00 +01:00
-position: 1
+position: 2
 zoektermen: culturele achtergrond; koloniaal verleden, gedeelde geschiedenis, gebruiken
   en rituelen
 korte-beschrijving: "\"Help, ik ga logeren...” is een multimediale voorstelling over
