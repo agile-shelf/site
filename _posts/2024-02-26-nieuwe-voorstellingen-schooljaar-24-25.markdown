@@ -2,6 +2,8 @@
 title: Nieuwe voorstellingen schooljaar 24-25
 date: 2024-02-26 11:52:00 +01:00
 blogger: Esther Hulst
+assets:
+- path: "/uploads/5.png"
 ---
 
 *Door: Esther Hulst*
