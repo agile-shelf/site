@@ -24,4 +24,4 @@ Beide voorstellingen zijn een mooie aanvulling op ons huidige aanbod. We gaan in
 
 We hebben zo'n zin om te beginnen. Want als theatermaker is er naast spelen niets leuker dan iets nieuws creëren. De komende tijd gaan we brainstormen, treatments maken, scripts schrijven en natuurlijk repeteren. Zodat we in het nieuwe schooljaar op alle scholen van Nederland deze nieuwe educatieve voorstellingen kunnen gaan spelen.
 
-Wil jij meer weten? Klik op de links of neem contact met ons op via [mail](mailto:boekingen@opde1sterij.nl) of bel <a href="tel:+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a>. Of plan een [belafspraak](https://calendly.com/opde1sterij/info-over-nieuwe-voorstellingen) in op een moment dat ons beiden uitkomt.
+Wil jij meer weten? Klik op de links of neem contact met ons op bel <a href="tel:+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a>. Of plan een [belafspraak](https://calendly.com/opde1sterij/info-over-nieuwe-voorstellingen) in op een moment dat ons beiden uitkomt.
