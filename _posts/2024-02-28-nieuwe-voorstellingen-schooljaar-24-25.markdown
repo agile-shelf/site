@@ -12,7 +12,7 @@ Het is tijd voor nieuwe voorstellingen. In coronatijd waren we druk met aanpasse
 
 Nu hebben we eindelijk weer tijd om vooruit te kijken en te denken. Want dat heb je nodig om nieuwe voorstellingen te maken. Tijd en ruimte, vooral in het hoofd. Want welk thema is urgent en prikkelend genoeg om een voorstelling over te maken? En in ons geval een voorstelling die lang meegaat. Tg Zwerm speelt voorstellingen jaren achter elkaar. Dit heeft meerdere redenen: de groepen waarvoor we spelen veranderen natuurlijk elk jaar, elk jaar heb je op scholen een nieuwe groep 8 of een nieuwe eerste en tweede klas. En we houden de voorstellingen door de jaren heen up-to-date. Een goed thema is dus erg belangrijk.
 
-We kregen steeds vaker de vraag of we iets gingen maken met AI en fake news. Dat werd gevraagd na afloop van iSocial maar ook na afloop van andere voorstellingen. We hielden tijdens onze jaarlijkse bbq en trainingsmoment met de acteurs een brainstorm over nieuwe voorstellingen. Daar kwamen mooie en leuke dingen uit. En nu, een half jaar later en nog veel meer gesprekjes, nieuwsberichten, verzoeken en vragen van scholen later, zijn we eruit!
+We kregen steeds vaker de vraag of we iets gingen maken met AI en fake news. Dat werd gevraagd na afloop van iSocial maar ook na afloop van andere voorstellingen. We hielden tijdens onze jaarlijkse bbq en trainingsmoment met de acteurs een brainstorm over nieuwe voorstellingen. Daar kwamen mooie en leuke dingen uit. En nu, een half jaar en nog veel meer gesprekjes, nieuwsberichten, verzoeken en vragen van scholen later, zijn we eruit!
 
 Vanaf het nieuwe schooljaar speelt Theatergroep Zwerm twee nieuwe voorstellingen:
 
