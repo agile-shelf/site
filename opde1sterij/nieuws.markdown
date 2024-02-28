@@ -3,7 +3,7 @@ title: Nieuws
 date: 2024-02-28 06:41:00 +01:00
 position: 2
 assets:
-- path: "/uploads/valentijnsdag-10-percent-korting.jpg"
+- path: "/uploads/5-10d00f.png"
 author: info@opde1sterij.nl
 ---
 
