@@ -1,9 +1,10 @@
 ---
 title: Nieuwe voorstellingen schooljaar 24-25
 date: 2024-02-28 06:30:00 +01:00
+permalink: "/blog/2024-02-28-nieuwe-voorstellingen-schooljaar-24-25/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/5.png"
+- path: "/uploads/nieuwe-voorstellingen-schooljaar-24-25.jpg"
 ---
 
 *Door: Esther Hulst*

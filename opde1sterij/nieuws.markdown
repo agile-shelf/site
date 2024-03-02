@@ -3,7 +3,7 @@ title: Nieuws
 date: 2024-02-28 06:41:00 +01:00
 position: 2
 assets:
-- path: "/uploads/5-10d00f.png"
+- path: "/uploads/nieuwe-voorstellingen-schooljaar-24-25.jpg"
 author: info@opde1sterij.nl
 ---
 
