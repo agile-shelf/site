@@ -1,12 +1,12 @@
 ---
 title: Stagiaire
-date: 2024-03-12 07:45:00 +01:00
-permalink: "/blog/28-2-2024-stagiaire/"
-published: false
+date: 2024-03-13 08:35:00 +01:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/13.png"
+- path: "/uploads/5.png"
 ---
+
+*Door: Esther Hulst*
 
 We hebben een stagiaire. We hadden een aantal jaar geleden al een stagiaire die de opleiding docent muziek volgde en bij ons haar liefde voor het docentenvak terugvond. Super mooi, maar ik begeleidde haar niet, muziek is niet mijn expertise. Nu hebben we een stagiaire van de opleiding theaterdocent. Dat is wel mijn expertise.
 
