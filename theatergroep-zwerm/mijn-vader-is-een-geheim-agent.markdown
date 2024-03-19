@@ -14,7 +14,7 @@ kenmerken: 'Soort project: voorstelling op school; Doelgroep: groep 3 t/m 8 ook 
   in: heel Nederland; Aantal deelnemers: max. 90; Maakt gebruik van: digibord; Lesmateriaal:
   digitale interactieve lesbrief; Prijs: 1 voorstelling per dag €575,- <br> 2 voorstellingen
   per dag €795,- <br> 3 voorstellingen per dag €995,- <br>  Prijzen zijn excl. btw
-  en incl. reiskosten; '
+  en excl. reiskosten; '
 leeftijd: groep 3, 4, 5, 6, 7, 8
 actie: 
 sleutelwoorden: 

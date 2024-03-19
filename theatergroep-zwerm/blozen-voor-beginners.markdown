@@ -24,7 +24,7 @@ kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: groep 7 & 8 ook s
   in: heel Nederland; Max. aantal deelnemers: 64 leerlingen of 2 klassen; Nieuw lesmateriaal:
   vanaf schooljaar 21-22; Prijs: 1 voorstelling per dag €690,- <br> 2 voorstellingen
   per dag €1150,- <br> 3 voorstellingen per dag €1545,- <br> Prijzen zijn excl. btw
-  en incl. reiskosten; '
+  en excl. reiskosten; '
 leeftijd: groep 7 & 8
 actie: 
 sleutelwoorden: 

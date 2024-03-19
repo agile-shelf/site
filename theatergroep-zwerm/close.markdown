@@ -22,9 +22,9 @@ sectie: vo
 kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: 12+ alle niveaus ook
   speciaal onderwijs; Tijdsduur: 1,5 uur (45 min voorstelling 45 min nabespreking);
   Aangeboden in: heel Nederland; Max aantal deelnemers: 64 leerlingen of 2 klassen;
-  Nieuw lesmateriaal: vanaf schooljaar 21-22; Prijs: 1 voorstelling per dag €840,-
-  <br> 2 voorstellingen per dag €1365,- <br> 3 voorstellingen per dag €1795,- <br>
-  De prijzen zijn excl. btw en incl. reiskosten; '
+  Nieuw lesmateriaal: vanaf schooljaar 21-22; Prijs: 1 voorstelling per dag €865,-
+  <br> 2 voorstellingen per dag €1395,- <br> 3 voorstellingen per dag €1840,- <br>
+  De prijzen zijn excl. btw en excl. reiskosten; '
 leeftijd: 12+
 actie: 
 sleutelwoorden: 
