@@ -19,8 +19,8 @@ sectie: bo, vo
 kenmerken: 'Soort project: voorstelling; Doelgroep: ouders, verzorgers, docenten,
   hulpverleners; Tijdsduur: in overleg (45 min voorstelling 30 min nabespreking);
   Aangeboden in: heel Nederland; Max aantal deelnemers: in overleg; Maakt gebruik
-  van: digibord; Prijs: 1 voorstelling per dag €935,- <br> De prijzen zijn excl. btw
-  en excl. reiskosten ; '
+  van: digibord; Prijs: 1 voorstelling per dag €1025,- <br> De prijzen zijn excl.
+  btw en excl. reiskosten ; '
 leeftijd: ouders, verzorgers, docenten, hulpverleners
 actie: 
 sleutelwoorden: 
