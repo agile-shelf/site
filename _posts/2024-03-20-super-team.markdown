@@ -1,7 +1,6 @@
 ---
 title: Super team
 date: 2024-03-20 07:08:00 +01:00
-published: false
 blogger: Esther Hulst
 assets:
 - path: "/uploads/10.png"
