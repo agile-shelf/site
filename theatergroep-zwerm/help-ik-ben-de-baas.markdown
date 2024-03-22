@@ -12,7 +12,7 @@ kenmerken: 'Soort project: voorstelling op school; Doelgroep: groep 3 t/m 8 ook 
   in: heel Nederland; Aantal deelnemers: max. 90; Lesmateriaal: digitale interactieve
   lesbrief; Prijs op school: 1 voorstelling per dag €575,- <br> 2 voorstellingen per
   dag €835,- <br> 3 voorstellingen per dag €995,- <br> 4 voorstellingen per dag €1295,-
-  <br>  Prijs in theater: 1 voorstelling per dag €775,- <br> 2 voorstellingen per
+  <br> ; Prijs in theater: 1 voorstelling per dag €775,- <br> 2 voorstellingen per
   dag €995,- <br> 3 voorstellingen per dag €1245,- <br>  4 voorstellingen per dag
   €1595,- <br>  Prijzen zijn excl. btw en excl. reiskosten; '
 sectie: bo
