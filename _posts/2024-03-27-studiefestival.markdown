@@ -1,7 +1,6 @@
 ---
 title: Studiefestival
 date: 2024-03-27 07:15:00 +01:00
-published: false
 blogger: Esther Hulst
 assets:
 - path: "/uploads/blog%2027%20maart.png"
