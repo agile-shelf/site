@@ -3,7 +3,7 @@ title: Stagiaire
 date: 2024-03-13 08:35:00 +01:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/13-eb658a.png"
+- path: "/uploads/stagiaire-blog.jpg"
 ---
 
 *Door: Esther Hulst*
