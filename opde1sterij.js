@@ -229,64 +229,63 @@ $(function() {
 	var itemTijdGeleden = '';
 	var virtueelDocument, instagramProfiel, instagramItemImgLink, instagramItemBericht, instagramTijdGeleden;
 	$.ajax({
-		url: 'https://corsproxy.io/?' + encodeURIComponent('https://www.picuki.com/profile/opde1sterij'),
-		dataType: 'text',
+		url: 'https://everyorigin.jwvbremen.nl/api/get?url=' + encodeURIComponent('https://www.picuki.com/profile/opde1sterij'),
 		timeout: 10000
 	})
 	.done(function(picukiData) {
 		virtueelDocument = document.implementation.createHTMLDocument('virtueel');
-		instagramProfiel = $(picukiData, virtueelDocument).find('.profile-name-top').first().text().trim();
-		instagramItemImgLink = $(picukiData, virtueelDocument).find('.post-image').first().attr('src');
+		instagramProfiel = $(picukiData['html'], virtueelDocument).find('.profile-name-top').first().text().trim();
+		instagramItemImgLink = $(picukiData['html'], virtueelDocument).find('.post-image').first().attr('src');
 		if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
-			itemImgLink = 'https://corsproxy.io/?' + instagramItemImgLink;
+			itemImgLink = 'https://wsrv.nl/?url=' + encodeURIComponent(instagramItemImgLink) + '&w=112&q=76&output=jpg'
 		}
-		var instagramItemBericht = $(picukiData, virtueelDocument).find('.photo-description').first().text().trim();
+		var instagramItemBericht = $(picukiData['html'], virtueelDocument).find('.photo-description').first().text().trim();
 		if (instagramItemBericht != undefined && instagramItemBericht != '') {
 			itemBericht = instagramItemBericht;
 		}
-		instagramItemTijdGeleden = $(picukiData, virtueelDocument).find('.time span').first().text().trim();
+		instagramItemTijdGeleden = $(picukiData['html'], virtueelDocument).find('.time span').first().text().trim();
 		if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
 			vertaalTijd()
 		}
 		if (itemImgLink != '' && instagramProfiel == '@opde1sterij') {
 			plaatsInstagramPost();
-		} else {
-			instagramPostViaGreatfon()
-		}
+		} // else {
+// 			instagramPostViaGreatfon()
+// 		}
 	})
 	.fail(function() {
-		instagramPostViaGreatfon()
+		plaatsInstagramPost();
+// 		instagramPostViaGreatfon()
 	});
 	
-	function instagramPostViaGreatfon() {
-		$.ajax({
-			url: 'https://corsproxy.io/?' + encodeURIComponent('https://greatfon.com/v/opde1sterij'),
-			dataType: 'text',
-			timeout: 10000
-		})
-		.done(function(greatfonData) {
-			virtueelDocument = document.implementation.createHTMLDocument('virtueel');
-			instagramProfiel = $(greatfonData, virtueelDocument).find('.user h4').first().text().trim();
-			instagramItemImgLink = $(greatfonData, virtueelDocument).find('.content__img-wrap a img').first().attr('src');
-			if (instagramProfiel == 'opde1sterij') {
-				if (instagramItemImgLink != undefined) {
-					itemImgLink = 'https://corsproxy.io/?' + instagramItemImgLink;
-				}
-				instagramItemBericht = $(greatfonData, virtueelDocument).find('.content__text p').first().html().replace(/<br\s*\/?>/gi,' ').trim();
-				if (instagramItemBericht != undefined && instagramItemBericht != '') {
-					itemBericht = instagramItemBericht;
-				}
-				instagramItemTijdGeleden = $(greatfonData, virtueelDocument).find('.content__time-text').first().text().trim();
-				if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
-					vertaalTijd()
-				}
-			}
-			plaatsInstagramPost();
-		})
-		.fail(function() {
-			plaatsInstagramPost();
-		});
-	}
+// 	function instagramPostViaGreatfon() {
+// 		$.ajax({
+// 		url: 'https://everyorigin.jwvbremen.nl/api/get?url=' + encodeURIComponent('https://greatfon.com/v/opde1sterij'),
+// 			timeout: 10000
+// 		})
+// 		.done(function(greatfonData) {
+// 			virtueelDocument = document.implementation.createHTMLDocument('virtueel');
+// 			instagramProfiel = $(greatfonData['html'], virtueelDocument).find('.user h4').first().text().trim();
+// 			instagramItemImgLink = $(greatfonData['html'], virtueelDocument).find('.content__img-wrap a img').first().attr('src');
+// 			if (instagramProfiel == 'opde1sterij') {
+// 				if (instagramItemImgLink != undefined) {
+// 					itemImgLink = 'https://wsrv.nl/?url=' + encodeURIComponent('instagramItemImgLink') + '&w=112&q=76&output=jpg'
+// 				}
+// 				instagramItemBericht = $(greatfonData['html'], virtueelDocument).find('.content__text p').first().html().replace(/<br\s*\/?>/gi,' ').trim();
+// 				if (instagramItemBericht != undefined && instagramItemBericht != '') {
+// 					itemBericht = instagramItemBericht;
+// 				}
+// 				instagramItemTijdGeleden = $(greatfonData['html'], virtueelDocument).find('.content__time-text').first().text().trim();
+// 				if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
+// 					vertaalTijd()
+// 				}
+// 			}
+// 			plaatsInstagramPost();
+// 		})
+// 		.fail(function() {
+// 			plaatsInstagramPost();
+// 		});
+// 	}
 	
 	function vertaalTijd() {
 		var itemTijdGeledenVertaling = {

@@ -3,7 +3,7 @@ title: Het leven van een klassenmoeder
 date: 2024-04-03 09:22:00 +02:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blogpost%203-4.png"
+- path: "/uploads/het-leven-van-een-klassenmoeder.jpg"
 ---
 
 *Door: Esther Hulst*
