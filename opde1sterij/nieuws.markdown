@@ -7,9 +7,7 @@ assets:
 author: info@opde1sterij.nl
 ---
 
-Schooljaar 24-25 klinkt nog heel ver weg maar wij zijn al druk bezig met het aanbod voor komend jaar. Daarom hier alvast een sneak peak...
-
-Komend schooljaar komen er (in ieder geval) drie nieuwe voorstellingen.
+Onze [digitale brochure 2024-2025](https://indd.adobe.com/view/36d75da6-311a-4cec-9452-b5e0d31ce5e3) is er! Er staan drie nieuwe voorstellingen in. Check de [brochure](https://indd.adobe.com/view/36d75da6-311a-4cec-9452-b5e0d31ce5e3) hier: en klik op de [link](https://indd.adobe.com/view/36d75da6-311a-4cec-9452-b5e0d31ce5e3).  
 
 * [Help, ik ben de baas](https://www.opde1sterij.nl/theatergroep-zwerm/help-ik-ben-de-baas/), speciaal voor de Kinderboekenweek
 
