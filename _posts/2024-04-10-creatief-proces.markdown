@@ -1,7 +1,6 @@
 ---
 title: Creatief proces
 date: 2024-04-10 07:15:00 +02:00
-published: false
 blogger: Esther Hulst
 assets:
 - path: "/uploads/blog%2010%20april.png"
