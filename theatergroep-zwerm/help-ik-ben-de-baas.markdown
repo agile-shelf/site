@@ -6,7 +6,7 @@ zoektermen: 'Kinderboekenweek, lekker eigenwijs, '
 korte-beschrijving: Help, ik ben de baas is een multimediale voorstelling over eigenwijs
   zijn, verantwoordelijkheid krijgen en kleine veranderingen met grootse gevolgen.
 assets:
-- path: "/uploads/help-ik-ben-de-baas.jpg"
+- path: "/uploads/Poster%20liggend%20zonder%20titel.jpg"
 kenmerken: 'Soort project: voorstelling op school; Doelgroep: groep 3 t/m 8 ook speciaal
   onderwijs; Tijdsduur: 40 min (30 min voorstelling en 10 min meet + greet); Aangeboden
   in: heel Nederland; Aantal deelnemers: max. 90 op school, max. 150 in theater; Lesmateriaal:
