@@ -1,5 +1,5 @@
 ---
-title: Brochure 23-24
+title: Brochure 24-25
 date: 2024-04-20 08:00:00 +02:00
 position: 3
 assets:
