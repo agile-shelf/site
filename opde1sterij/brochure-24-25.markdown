@@ -13,5 +13,3 @@ Wist je bijvoorbeeld dat we met Traject C ook de inhoud van de lessen kunnen afs
 
 <br><br>
 <iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/36d75da6-311a-4cec-9452-b5e0d31ce5e3?startpage=1&allowFullscreen=false" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
-
-<a href="https://indd.adobe.com/view/866b853d-c2ba-44f7-a6e5-62127d780a5c" title="Lees nu de Brochure 23-24"><img src="/uploads/brochure-23-24-nieuw.jpg" class="lazyload" style="width: 100%; margin: 16px 0 0"></a>
