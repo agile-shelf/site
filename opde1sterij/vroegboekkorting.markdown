@@ -6,7 +6,7 @@ date: 2024-04-23 10:13:00 +02:00
 Het is weer tijd voor vroegboekkorting. 
 
 * €100,- korting op 3 voorstellingen 
-* €50,-   korting op 2 voorstellingen 
+* €50,-   korting op 2 voorstellingen
 * €20,-   korting op 1 voorstelling 
 * 10% korting op TheaterChallenge
 
