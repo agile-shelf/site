@@ -1,5 +1,5 @@
 ---
-title: actie
+title: Vroegboekkorting
 date: 2024-04-23 13:13:00 +02:00
 position: 1
 assets:
