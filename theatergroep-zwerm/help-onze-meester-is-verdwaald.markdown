@@ -1,7 +1,7 @@
 ---
 title: Help, onze meester is verdwaald!
 date: 2022-02-17 12:29:00 +01:00
-position: 7
+position: 6
 korte-beschrijving: Een interactieve multimediale voorstelling over de natuur, survivallen
   en wat wij met z'n allen voor de natuur kunnen doen.
 assets:

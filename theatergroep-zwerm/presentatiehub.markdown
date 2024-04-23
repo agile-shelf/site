@@ -1,6 +1,7 @@
 ---
 title: De Presentatiehub
 date: 2021-02-22 12:32:00 +01:00
+published: false
 position: 16
 assets:
 - path: "/uploads/de-presentatiehub.jpg"
@@ -11,7 +12,6 @@ author: info@opde1sterij.nl
 sectie: 
 kenmerken: 
 leeftijd: 
-filmpje-embed-code: 
 actie: 
 sleutelwoorden: 
 speciaal: 

@@ -7,7 +7,7 @@ assets:
 author: info@opde1sterij.nl
 ---
 
-De interactieve digitale brochure voor schooljaar 2024-25. Ons volledige aanbod staat er in: 12 voorstellingen, 5 voor VO, 6 voor PO, waarvan 1 speciaal voor de Kinderboekenweek, TheaterChallenge en Traject C.
+De interactieve digitale brochure voor schooljaar 2024-2025 is er. Ons volledige aanbod staat er in: 12 voorstellingen, 5 voor VO, 6 voor PO, waarvan 1 speciaal voor de Kinderboekenweek, TheaterChallenge en Traject C.
 
 Wist je bijvoorbeeld dat we met Traject C ook de inhoud van de lessen kunnen afstemmen op specifieke secundaire doelen zoals weerbaarheid, sociale cohesie, veerkracht. Ik wens iedereen veel lees- en kijkplezier. 
 
