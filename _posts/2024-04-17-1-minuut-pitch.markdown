@@ -1,9 +1,10 @@
 ---
 title: 1 minuut pitch
 date: 2024-04-17 07:34:00 +02:00
+permalink: "/blog/17-4-2024-1-minuut-pitch/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blog%20post%2017%20april.png"
+- path: "/uploads/1-minuut-pitch.jpg"
 ---
 
 *Door: Esther Hulst*

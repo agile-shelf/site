@@ -1,9 +1,10 @@
 ---
 title: Creatief proces
 date: 2024-04-10 07:15:00 +02:00
+permalink: "/blog/10-4-2024-creatief-proces/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blog%2010%20april.png"
+- path: "/uploads/creatief-proces.jpg"
 ---
 
 Theatergroep Zwerm gaat drie nieuwe voorstellingen maken. Ja, je leest het goed: 3. Ik heb daar zo’n zin in. Als theatermaker vind ik nieuwe dingen creëren toch wel echt het leukste dat er is. Vroeger bedacht ik veel in mijn eentje of samen met David. Uren konden we met z’n tweeën ploeteren. Maar sinds een tijdje ben ik ervan overtuigd dat het met meer mensen alleen maar beter wordt. Begrijp me goed, schrijven vind ik nog steeds een solistische activiteit die je hooguit met mensen kunt delen waarna je weer in je eentje achter je computer kruipt. En heel soms heb je het geluk dat je iemand tegenkomt met wie je super goed samen kunt schrijven of eigenlijk samen teksten kunt verbeteren. Gelukkig heb ik David met wie dat enorm goed gaat. Maar de brainstormfase kun je wat mij betreft heel goed met een groep doen. 
