@@ -7,7 +7,7 @@ assets:
 author: info@opde1sterij.nl
 ---
 
-Het is weer tijd voor vroegboekkorting.
+Het is weer tijd voor onze jaarlijkse vroegboekkorting omdat onze agenda elk jaar rond deze tijd al aardig vol begint te lopen en we graag een plekje voor je vrij houden. 
 
 * €100,- korting op 3 voorstellingen
 * €50,-  korting op 2 voorstellingen
