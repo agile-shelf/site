@@ -1,6 +1,8 @@
 ---
 title: actie
 date: 2024-04-23 10:13:00 +02:00
+assets:
+- path: "/uploads/3.png"
 ---
 
 Het is weer tijd voor vroegboekkorting. 
