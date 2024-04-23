@@ -14,6 +14,7 @@ kenmerken: 'Vanaf: januari 2025; Soort project: voorstelling in de klas; Doelgro
   3 voorstellingen per dag €1545,- <br>  Prijzen zijn excl. btw en excl. reiskosten; '
 sectie: bo
 leeftijd: groep 6 t/m 8
+actie: Vroegboekkorting
 ---
 
 **In de snel veranderende digitale wereld en met de komst van AI, wordt het steeds moeilijker waarheid van onzin te onderscheiden. De educatieve voorstelling Ai, ai, ai onderzoekt dit gegeven.**
