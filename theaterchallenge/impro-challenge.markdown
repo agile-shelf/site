@@ -13,7 +13,7 @@ sectie: vo
 kenmerken: 'Soort project: workshop en voorstelling; Tijdsduur: 3 lesuren; Max. aantal
   deelnemers: in overleg; Maakt gebruik van: licht en geluidstechniek'
 leeftijd: 12+
-actie: 
+actie: 'Vroegboekkorting '
 sleutelwoorden: 
 speciaal: 
 ---

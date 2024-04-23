@@ -21,7 +21,7 @@ kenmerken: 'Soort project: workshops; Doelgroep: groep 1 t/m 8; Tijdsduur: de he
   de hele school; Lesmateriaal: voor elke bouw 2 lessen en een lied; Prijs: offerte
   op aanvraag'
 leeftijd: groep 1 t/m 8
-actie: 
+actie: 'Vroegboekkorting '
 sleutelwoorden: 
 speciaal: 
 ---
