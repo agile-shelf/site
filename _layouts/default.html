@@ -310,7 +310,7 @@
 				</article>
 				{% else %}<article class="{% if page.actie %}actie{% endif %} {% if page.speciaal %}speciaal{% endif %}">
 					<h1>{{page.title}}{% if page.leeftijd %} <span class="leeftijd-doelgroep">({{page.leeftijd}})</span>{% endif %}</h1>
-					{% if page.actie %}<a class="actie-knop" href='/opde1sterij/{{page.actie | replace: ' ', '-' | replace: '!', '' | downcase}}'>{{page.actie | replace: 'vroegboekkorting', 'vroegboek korting' | replace: 'onlineaanbod', 'online aanbod' | replace: '!', ''}}➔</a>{% endif %}
+					{% if page.actie %}<a class="actie-knop" href='/opde1sterij/{{page.actie | replace: ' ', '-' | replace: '!', '' | downcase}}/'>{{page.actie | downcase | replace: 'vroegboekkorting', 'vroegboek korting' | replace: 'onlineaanbod', 'online aanbod' | replace: '!', ''}}➔</a>{% endif %}
 					{% if page.speciaal %}<a class="speciaal-knop" href='/opde1sterij/{{page.speciaal | replace: ' ', '-' | replace: '!', '' | downcase}}'>{{page.speciaal | replace: 'coronaproof', 'corona proof' | replace: '!', ''}}➔</a>{% endif %}
 					<div class="tekst">
 						{{content | replace: '<iframe', '<div class="video-wikkel normale-ratio"><iframe' | replace: 'src=', 'data-src=' | replace: 'youtube.com', 'youtube-nocookie.com' | replace: '></iframe>', ' class="lazyload"></iframe></div>'}}
