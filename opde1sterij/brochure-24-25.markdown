@@ -12,4 +12,4 @@ De interactieve digitale brochure voor schooljaar 2024-2025 is er. Ons volledige
 Wist je bijvoorbeeld dat we met Traject C ook de inhoud van de lessen kunnen afstemmen op specifieke secundaire doelen zoals weerbaarheid, sociale cohesie, veerkracht. Ik wens iedereen veel lees- en kijkplezier. 
 
 <br><br>
-<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/36d75da6-311a-4cec-9452-b5e0d31ce5e3?startpage=1&allowFullscreen=false" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
+<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/36d75da6-311a-4cec-9452-b5e0d31ce5e3?startpage=1&allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe> 
