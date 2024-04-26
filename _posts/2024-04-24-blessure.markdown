@@ -3,7 +3,7 @@ title: blessure
 date: 2024-04-24 06:15:00 +02:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/2.png"
+- path: "/uploads/blessure.jpg"
 ---
 
 *Door: Esther Hulst*
