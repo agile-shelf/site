@@ -1,9 +1,9 @@
 ---
 title: Willemijn Bosman
 date: 2015-09-27 02:18:00 +02:00
-position: 10
-author: info@opde1sterij.nl
+position: 4
 onderdeel: theaterchallenge
+author: info@opde1sterij.nl
 ---
 
-Objecttheater docent bij TheaterChallenge
+Objecttheater docent bij TheaterChallenge.

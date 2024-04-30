@@ -1,14 +1,13 @@
 ---
 title: Rozemarijn van der Kaaij
 date: 2020-09-09 16:12:00 +02:00
-position: 19
-author: info@opde1sterij.nl
-onderdeel: theatergroep zwerm
-blogger-bio: 
+position: 12
+onderdeel: theatergroep zwerm, theaterchallenge
 assets:
 - path: "/uploads/Rozemarijn.jpeg"
   name: Rozemarijn
+author: info@opde1sterij.nl
 ---
 
-Actrice en gespreksleider bij Tg Zwerm in Close, iSocial, VerPest en InControl.
-Docent bij TheaterChallenge
+Actrice en gespreksleider bij Tg Zwerm in iSocial, Close, InControl en VerPest voor Voortgezet Onderwijs.
+Docent bij TheaterChallenge.

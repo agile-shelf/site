@@ -2,7 +2,7 @@
 title: Karlijn van der Schaaf
 date: 2017-02-23 17:03:00 +01:00
 published: false
-position: 7
+position: 2
 onderdeel: theatergroep zwerm
 assets:
 - path: "/uploads/karlijn-van-der-schaaf.jpg"
