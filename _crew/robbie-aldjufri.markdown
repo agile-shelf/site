@@ -1,7 +1,7 @@
 ---
 title: Robbie Aldjufri
 date: 2017-12-12 19:48:00 +01:00
-position: 8
+position: 3
 onderdeel: theatergroep zwerm, theaterchallenge
 blogger-bio: Robbie Aldjufri speelt al 2,5 jaar bij Tg Zwerm. Daarnaast maakt en speelt
   hij eigen voorstellingen en geeft hij les. Heeft hij een verloofde en twee kinderen.
