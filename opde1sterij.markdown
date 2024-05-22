@@ -1,12 +1,12 @@
 ---
 title: Home
-date: 2015-09-05 20:47:00 +02:00
+date: 2024-05-22 07:00:00 +02:00
 permalink: "/"
 position: 0
-zoektermen: opde1sterij, op de eerste rij, op de 1ste rij, @opde1sterij, cultuureducatie,
-  schoolvoorstellingen, voorstelling in de klas, theaterlessen, workshops, theaterworkshops,
-  lessen, muzieklessen, muziekeducatie, kinderfeestjes, bedrijfstrainingen, theatergroep
-  Zwerm, Zwerm, TheaterChallenge, Vibes, Monkeyspoom, Esther Hulst, Martijn Huitema
+zoektermen: cultuureducatie, theater, klas, school, educatieve, voorstellingen, voorstelling
+  in de klas, lessen, theaterlessen, workshops, theaterworkshops, muzieklessen, muziekeducatie,
+  ouderavonden, docententrainingen, theatergroep Zwerm, TheaterChallenge, Traject
+  C, Esther Hulst
 korte-beschrijving: 'Een ervaren vernieuwer in Cultuureducatie. Op de eerste rij bestaat
   uit: TheaterChallenge, Traject C en Theatergroep Zwerm. Allemaal werkend vanuit
   de visie dat een mens meer, sneller en beter leert wanneer deze mede-eigenaar is.'
