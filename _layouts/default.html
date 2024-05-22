@@ -79,7 +79,7 @@
 								<li class="monkeyspoom{% if page.url == '/monkeyspoom' %} geselecteerd{% endif %}"><a href="/monkeyspoom/" title="Aanbod Monkeyspoom"><div class="menu-driehoekje"></div>Monkeyspoom</a></li>
 								{% if portal-page %}<li class="portals{% if page.url == '/portals' %} geselecteerd{% endif %}"><div class="menu-driehoekje"></div><a href="/portals/" title="Portals">Portals</a></li>{% endif %}
 							</ul>
-							<ul class="secties-mobiel" hidden="true">
+							<ul class="secties-mobiel" hidden>
 								<li class="basisonderwijs{% if page.url == '/basisonderwijs' %} geselecteerd{% endif %}"><div class="menu-driehoekje"></div><a href="/basisonderwijs/" title="Aanbod Basisonderwijs">Basisonderwijs</a></li>
 								<li class="voortgezet-onderwijs{% if page.url == '/voortgezet-onderwijs' %} geselecteerd{% endif %}"><div class="menu-driehoekje"></div><a href="/voortgezet-onderwijs/" title="Aanbod Voortgezet Onderwijs">Voortgezet Onderwijs</a></li>
 								<li class="bedrijven{% if page.url == '/bedrijven' %} geselecteerd{% endif %}"><div class="menu-driehoekje"></div><a href="/bedrijven/" title="Aanbod Bedrijven">Bedrijven</a></li>
@@ -135,7 +135,7 @@
 					<div class="tekst">
 						{{page.content | markdownify | replace: '<iframe', '<div class="filmpje"><div class="video-wikkel normale-ratio"><iframe' | replace: 'src=', 'data-src=' | replace: 'youtube.com', 'youtube-nocookie.com' | replace: '></iframe>', ' class="lazyload"></iframe></div></div>'}}
 						{% assign trailer = page.trailer-embed-code | default: 'geen trailer' %}{% if trailer != 'geen trailer' %}{{page.trailer-embed-code | replace: '<iframe', '<div class="filmpje"><div class="video-wikkel normale-ratio"><iframe' | replace: 'src=', 'data-src=' | replace: 'youtube.com', 'youtube-nocookie.com' | replace: '></iframe>', ' class="lazyload"></iframe></div></div>'}}{% endif %}
-						{% if page.assets[0].path != '' %}<noscript><img src="{{page.assets[0].path | prepend: 'https://wsrv.nl/?url=https://www.opde1sterij.nl' | append: '&w=1920&q=75&output=jpg'}}" style="width: 100%; margin: 16px 0 0;" /></noscript><img class="lazyload" data-src="{{page.assets[0].path | prepend: 'https://wsrv.nl/?url=https://www.opde1sterij.nl' | append: '&w=1920&q=75&output=jpg'}}" style="width: 100%; margin: 16px 0 0;" />{% endif %}
+						{% if page.assets[0].path != '' %}<noscript><img src="{{page.assets[0].path | prepend: 'https://wsrv.nl/?url=https://www.opde1sterij.nl' | append: '&w=1920&q=75&output=jpg'}}" style="width: 100%; margin: 16px 0 0;"></noscript><img class="lazyload" data-src="{{page.assets[0].path | prepend: 'https://wsrv.nl/?url=https://www.opde1sterij.nl' | append: '&w=1920&q=75&output=jpg'}}" style="width: 100%; margin: 16px 0 0;">{% endif %}
 					</div>{% endif %}{% endfor %}
 					{% assign vacatures-page = site.pages | where_exp: 'sub-page', 'sub-page.url == "/vacatures/"' | first %}{% if vacatures-page %}<a class="link link-vacatures" href="/vacatures/" title="Bekijk de vacatures">
 						<span>Werken bij op de eerste rij? Bekijk de vacatures</span>

@@ -3,7 +3,7 @@ title: Aanvulling
 date: 2024-05-22 10:03:00 +02:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/Blog%20post%2022%20mei%20site.png"
+- path: "/uploads/aanvulling.jpg"
 ---
 
 *Door: Esther Hulst*
