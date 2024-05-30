@@ -5,7 +5,9 @@
 		<title>{% if page.url != '/' %}{{page.title}}{% if page.leeftijd %} ({{page.leeftijd}}){% endif %} -{% endif %}{% assign parent = page.url | split: '/' %}{% if parent[2] %} {{parent[1] | replace: '/', '' | replace: '-', ' ' | replace: 'opde1sterij', 'Home' | replace: 'theaterchallenge', 'TheaterChallenge' | capitalize}} -{% endif %} {{site.title}}</title>
 		{% assign home-page = site.pages | where_exp: 'sub-page', 'sub-page.url == "/"' | first %}{% if page.url == '/blog/' %}{% assign blog-page = site.collections | where: 'title', 'Posts' | first %}{% assign description = blog-page.korte-beschrijving %}{% else %}{% assign description = page.korte-beschrijving | default: home-page.korte-beschrijving %}{% endif %}<meta name="description" content="{% if page.blogger %}{{page.content | replace: '</em>', ' • ' | strip_html | strip_newlines | truncate: 160, "…"}}{% else %}{{description}}{% endif %}">
 		<meta name="keywords" content="{{home-page.zoektermen}}">
+<!-- 
 		<meta name="referrer" content="no-referrer">
+ -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="format-detection" content="telephone=no">
 		<link rel="canonical" href="{{page.url | prepend: 'https://www.opde1sterij.nl'}}">
@@ -45,8 +47,8 @@
 		<meta property="article:author" content="{{home-page.facebook}}">
 		<meta property="article:published_time" content="{{page.date}}">{% endif %}
 		<meta name="twitter:card" content="summary_large_image">
-		<meta name="twitter:site" content="{{home-page.twitter | replace: 'https://twitter.com/', ''}}">
-		<meta name="twitter:creator" content="{{home-page.twitter | replace: 'https://twitter.com/', ''}}">
+		<meta name="twitter:site" content="{{home-page.twitter | replace: 'https://x.com/', ''}}">
+		<meta name="twitter:creator" content="{{home-page.twitter | replace: 'https://x.com/', ''}}">
 		<meta property="og:locale" content="nl_NL">
 		<meta property="og:site_name" content="{{site.title}}">
 		<meta property="og:title" content="{% if page.url == '/' %}{% else %}{{page.title}}{% if page.leeftijd %} ({{page.leeftijd}}){% endif %} -{% endif %}{% assign parent = page.url | split: '/' %}{% if parent[2] %} {{parent[1] | replace: '/', '' | replace: '-', ' ' | replace: 'opde1sterij', 'Home' | replace: 'theaterchallenge', 'TheaterChallenge' | capitalize}} -{% endif %} {{site.title}}">
@@ -60,7 +62,7 @@
 		<div class="wikkel">
 			<header>
 				<div class="gecentreerd">
-					{% if page.url contains '/theatergroep-zwerm/' %}<h1 title="Theatergroep Zwerm" style="background-image: url('/logo_nieuw_theatergroep-zwerm@3x.png')"><span class="visueel-verborgen">Theatergroep Zwerm</span></h1>{% elsif page.url contains '/traject-c/' %}<h1 title="Traject C" style="background-image: url('/logo_nieuw_traject-c-cultuuronderwijs@3x.png');"><span class="visueel-verborgen">Traject C</span></h1>{% elsif page.url contains '/theaterchallenge/' %}<h1 title="TheaterChallenge" style="background-image: url('/logo_nieuw_theaterchallenge@3x.png')"><span class="visueel-verborgen">TheaterChallenge</span></h1>{% elsif page.url contains '/monkeyspoom/' %}<h1 title="MonkeySpoom" style="background-image: url('/logo_nieuw_opde1sterij_blauw@3x.png')"><span class="visueel-verborgen">MonkeySpoom</span></h1>{% else %}<h1 title="Op de eerste rij" style="background-image: url('/logo_nieuw_opde1sterij@3x.png')"><span class="visueel-verborgen">Op de eerste rij</span></h1>{% endif %}
+					{% if page.url contains '/theatergroep-zwerm/' %}<h1 title="Theatergroep Zwerm" style="background-image: url('/logo_nieuw_theatergroep-zwerm@3x.png')"><span class="visueel-verborgen">Theatergroep Zwerm</span></h1>{% elsif page.url contains '/traject-c/' %}<h1 title="Traject C" style="background-image: url('/logo_nieuw_traject-c-cultuuronderwijs@3x.png');"><span class="visueel-verborgen">Traject C</span></h1>{% elsif page.url contains '/theaterchallenge/' %}<h1 title="TheaterChallenge" style="background-image: url('/logo_nieuw_theaterchallenge@3x.png')"><span class="visueel-verborgen">TheaterChallenge</span></h1>{% elsif page.url contains '/monkeyspoom/' %}<h1 title="MonkeySpoom" style="background-image: url('/logo_nieuw_opde1sterij_blauw@3x.png')"><span class="visueel-verborgen">MonkeySpoom</span></h1>{% else %}<h1 title="{{site.title}}" style="background-image: url('/logo_nieuw_opde1sterij@3x.png')"><span class="visueel-verborgen">{{site.title}}</span></h1>{% endif %}
 					<nav class="menu">
 						<div class="menu-knop" title="Open Menu">
 							<div class="menu-titel">Menu</div>
@@ -96,10 +98,10 @@
 					<aside class="rechter-header-blok">
 						<div class="randje"></div>
 						<div class="sociaal">
-							<a class="facebook-knop" href="{{home-page.facebook}}" title="Op de eerste rij op Facebook" rel="noopener noreferrer"></a>
-							<a class="youtube-knop" href="{{home-page.youtube}}" title="Op de eerste rij op YouTube" rel="noopener noreferrer"></a>
-							<a class="twitter-knop" href="{{home-page.twitter}}" title="Op de eerste rij op X" rel="noopener noreferrer"></a>
-							<a class="instagram-knop" href="{{home-page.instagram}}" title="Op de eerste rij op Instagram" rel="noopener noreferrer"></a>
+							<a class="facebook-knop" href="{{home-page.facebook}}" title="Ga naar onze Facebook" rel="noopener noreferrer"></a>
+							<a class="youtube-knop" href="{{home-page.youtube}}" title="Ga naar onze YouTube" rel="noopener noreferrer"></a>
+							<a class="twitter-knop" href="{{home-page.twitter}}" title="Ga naar onze X/Twitter" rel="noopener noreferrer"></a>
+							<a class="instagram-knop" href="{{home-page.instagram}}" title="Ga naar onze Instagram" rel="noopener noreferrer"></a>
 						</div>
 						<div class="contact-box">
 							<p class="contact-box-straat">{{home-page.straat}} {{home-page.huisnummer}}</p>
@@ -260,10 +262,10 @@
 						{{page.content | markdownify | replace: '<img', '<img class="lazyload"' | replace: '<iframe', '<div class="filmpje"><div class="video-wikkel normale-ratio"><iframe' | replace: 'src=', 'data-src=' | replace: 'youtube.com', 'youtube-nocookie.com' | replace: '></iframe>', ' class="lazyload"></iframe></div></div>'}}
 					</div>
 					<div class="contact-pagina-sociaal">
-						<a class="contact-pagina-sociaal-facebook" href="{{home-page.facebook}}" title="Op de eerste rij op Facebook" rel="noopener noreferrer"></a>
-						<a class="contact-pagina-sociaal-youtube" href="{{home-page.youtube}}" title="Op de eerste rij op Youtube" rel="noopener noreferrer"></a>
-						<a class="contact-pagina-sociaal-twitter" href="{{home-page.twitter}}" title="Op de eerste rij op X" rel="noopener noreferrer"></a>
-						<a class="contact-pagina-sociaal-instagram" href="{{home-page.instagram}}" title="Op de eerste rij op Instagram" rel="noopener noreferrer"></a>
+						<a class="contact-pagina-sociaal-facebook" href="{{home-page.facebook}}" title="Ga naar onze Facebook" rel="noopener noreferrer"></a>
+						<a class="contact-pagina-sociaal-youtube" href="{{home-page.youtube}}" title="Ga naar onze YouTube" rel="noopener noreferrer"></a>
+						<a class="contact-pagina-sociaal-twitter" href="{{home-page.twitter}}" title="Ga naar onze X/Twitter" rel="noopener noreferrer"></a>
+						<a class="contact-pagina-sociaal-instagram" href="{{home-page.instagram}}" title="Ga naar onze Instagram" rel="noopener noreferrer"></a>
 					</div>
 					<a class="boek-ticket link" href="/boekingen/" title="Boekingen">
 						<div class="ticket"></div>
@@ -343,7 +345,7 @@
 						<input type="text" name="EMAIL" placeholder="e-mailadres" class="nieuwsbrief-e-mailadres">
 						<input type="text" name="FNAME" placeholder="voornaam" class="nieuwsbrief-voornaam">
 						<div class="nieuwsbrief-inschrijven">
-							<input type="submit" value="Inschrijven" title="Schrijf je in voor de nieuwsbrief van Op de eerste rij" id="nieuwsbrief-inschrijven-knop">
+							<input type="submit" value="Inschrijven" title="Schrijf je in voor de nieuwsbrief" id="nieuwsbrief-inschrijven-knop">
 							<div class="nieuwsbrief-driehoekje"></div>
 						</div>
 					</form>
@@ -361,12 +363,12 @@
 						<ol></ol>
 					</div>
 					<div class="instagram">
-						<h3><a href="https://www.instagram.com/opde1sterij" title="Op de eerste rij op Instagram" rel="noopener noreferrer">Instagram</a></h3>
+						<h3><a href="https://www.instagram.com/opde1sterij" title="Ga naar onze Instagram" rel="noopener noreferrer">Instagram</a></h3>
 						<noscript><h3>Zet JavaScript aan en hier zal een post verschijnen.</h3></noscript>
 						<div class="laatste-instagram-post"></div>
 					</div>
 					<div class="extra-info-regel"><span class="extra-info-regel-één">{{home-page.straat}} {{home-page.huisnummer}}&nbsp;&nbsp;|&nbsp;&nbsp;{{home-page.postcode}} {{home-page.plaats}}<span class="extra-info-regel-extra-scheiding">&nbsp;&nbsp;|&nbsp;&nbsp;</span></span><span class="extra-info-regel-twee">KvK: {{home-page.kvk-nummer}}&nbsp;&nbsp;|&nbsp;&nbsp;btw-nummer: {{home-page.btw-nummer}}</span><span class="extra-info-regel-drie"><span class="extra-info-regel-extra-scheiding">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="/privacy/" title="Over privacy en cookies op deze site">Over privacy en cookies</a></span></div>
-					<div class="cjp-info" title="Op de eerste rij is CJP acceptant">
+					<div class="cjp-info">
 						<p><a href="/cjp/" title="Meer info over betalen met de CJP-cultuurkaart"><span class="cjp-logo"></span>Op de eerste rij is CJP acceptant</a></p>
 					</div>
 				</div>

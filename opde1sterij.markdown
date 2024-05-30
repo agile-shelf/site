@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2024-05-22 07:00:00 +02:00
+date: 2024-05-30 07:00:00 +02:00
 permalink: "/"
 position: 0
 zoektermen: cultuureducatie, theater, klas, school, educatieve, voorstellingen, voorstelling
@@ -27,7 +27,7 @@ telefoonnummer: 023 - 205 2482
 esther-telefoonnummer: "+31232052482"
 facebook: https://facebook.com/de1sterij
 youtube: https://youtube.com/channel/UC7fMOjJuMH4-oYb2MqjHvig
-twitter: https://twitter.com/opde1sterij
+twitter: https://x.com/opde1sterij
 instagram: https://instagram.com/opde1sterij
 ---
 
