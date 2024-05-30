@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>{% if page.url != '/' %}{{page.title}}{% if page.leeftijd %} ({{page.leeftijd}}){% endif %} -{% endif %}{% assign parent = page.url | split: '/' %}{% if parent[2] %} {{parent[1] | replace: '/', '' | replace: '-', ' ' | replace: 'opde1sterij', 'Home' | replace: 'theaterchallenge', 'TheaterChallenge' | capitalize}} -{% endif %} {{site.title}}</title>
-		{% assign home-page = site.pages | where_exp: 'sub-page', 'sub-page.url == "/"' | first %}{% if page.url == '/blog/' %}{% assign blog-page = site.collections | where: 'title', 'Posts' | first %}{% assign description = blog-page.korte-beschrijving %}{% else %}{% assign description = page.korte-beschrijving | default: home-page.korte-beschrijving %}{% endif %}<meta name="description" content="{% if page.blogger %}{{page.content | replace: '</em>', ' • ' | strip_html | strip_newlines | truncate: 160}}{% else %}{{description}}{% endif %}">
+		{% assign home-page = site.pages | where_exp: 'sub-page', 'sub-page.url == "/"' | first %}{% if page.url == '/blog/' %}{% assign blog-page = site.collections | where: 'title', 'Posts' | first %}{% assign description = blog-page.korte-beschrijving %}{% else %}{% assign description = page.korte-beschrijving | default: home-page.korte-beschrijving %}{% endif %}<meta name="description" content="{% if page.blogger %}{{page.content | replace: '</em>', ' • ' | strip_html | strip_newlines | truncate: 160, "…"}}{% else %}{{description}}{% endif %}">
 		<meta name="keywords" content="{{home-page.zoektermen}}">
 		<meta name="referrer" content="no-referrer">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -20,7 +20,6 @@
 				h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
 			})(document);
 		</script>
-<!-- 
 		<script type="application/ld+json">
 			{
 				"@context": "https://schema.org",
@@ -40,8 +39,7 @@
 					"contactType": "customer service"
 				}]
 			}
-		</script>
- -->{% if page.blogger %}
+		</script>{% if page.blogger %}
 		<meta property="article:publisher" content="{{home-page.facebook}}">
 		<meta property="author" content="{{page.blogger | default: 'Op de eerste rij'}}">
 		<meta property="article:author" content="{{home-page.facebook}}">
@@ -50,7 +48,7 @@
 		<meta name="twitter:site" content="{{home-page.twitter | replace: 'https://twitter.com/', ''}}">
 		<meta name="twitter:creator" content="{{home-page.twitter | replace: 'https://twitter.com/', ''}}">
 		<meta property="og:locale" content="nl_NL">
-		<meta property="og:site_name" content="Op de eerste rij">
+		<meta property="og:site_name" content="{{site.title}}">
 		<meta property="og:title" content="{% if page.url == '/' %}{% else %}{{page.title}}{% if page.leeftijd %} ({{page.leeftijd}}){% endif %} -{% endif %}{% assign parent = page.url | split: '/' %}{% if parent[2] %} {{parent[1] | replace: '/', '' | replace: '-', ' ' | replace: 'opde1sterij', 'Home' | replace: 'theaterchallenge', 'TheaterChallenge' | capitalize}} -{% endif %} {{site.title}}">
 		<meta property="og:type" content="{% if page.blogger %}article{% elsif page.sectie %}product{% else %}website{% endif %}">
 		<meta property="og:url" content="{{page.url | prepend: 'https://www.opde1sterij.nl'}}">
@@ -100,7 +98,7 @@
 						<div class="sociaal">
 							<a class="facebook-knop" href="{{home-page.facebook}}" title="Op de eerste rij op Facebook" rel="noopener noreferrer"></a>
 							<a class="youtube-knop" href="{{home-page.youtube}}" title="Op de eerste rij op YouTube" rel="noopener noreferrer"></a>
-							<a class="twitter-knop" href="{{home-page.twitter}}" title="Op de eerste rij op Twitter" rel="noopener noreferrer"></a>
+							<a class="twitter-knop" href="{{home-page.twitter}}" title="Op de eerste rij op X" rel="noopener noreferrer"></a>
 							<a class="instagram-knop" href="{{home-page.instagram}}" title="Op de eerste rij op Instagram" rel="noopener noreferrer"></a>
 						</div>
 						<div class="contact-box">
@@ -138,7 +136,7 @@
 						{% if page.assets[0].path != '' %}<noscript><img src="{{page.assets[0].path | prepend: 'https://wsrv.nl/?url=https://www.opde1sterij.nl' | append: '&w=1920&q=75&output=jpg'}}" style="width: 100%; margin: 16px 0 0;"></noscript><img class="lazyload" data-src="{{page.assets[0].path | prepend: 'https://wsrv.nl/?url=https://www.opde1sterij.nl' | append: '&w=1920&q=75&output=jpg'}}" style="width: 100%; margin: 16px 0 0;">{% endif %}
 					</div>{% endif %}{% endfor %}
 					{% assign vacatures-page = site.pages | where_exp: 'sub-page', 'sub-page.url == "/vacatures/"' | first %}{% if vacatures-page %}<a class="link link-vacatures" href="/vacatures/" title="Bekijk de vacatures">
-						<span>Werken bij op de eerste rij? Bekijk de vacatures</span>
+						<span>Werken bij Op de eerste rij? Bekijk de vacatures</span>
 						<div class="blokje"></div>
 					</a>{% endif %}
 				</article>
@@ -264,7 +262,7 @@
 					<div class="contact-pagina-sociaal">
 						<a class="contact-pagina-sociaal-facebook" href="{{home-page.facebook}}" title="Op de eerste rij op Facebook" rel="noopener noreferrer"></a>
 						<a class="contact-pagina-sociaal-youtube" href="{{home-page.youtube}}" title="Op de eerste rij op Youtube" rel="noopener noreferrer"></a>
-						<a class="contact-pagina-sociaal-twitter" href="{{home-page.twitter}}" title="Op de eerste rij op Twitter" rel="noopener noreferrer"></a>
+						<a class="contact-pagina-sociaal-twitter" href="{{home-page.twitter}}" title="Op de eerste rij op X" rel="noopener noreferrer"></a>
 						<a class="contact-pagina-sociaal-instagram" href="{{home-page.instagram}}" title="Op de eerste rij op Instagram" rel="noopener noreferrer"></a>
 					</div>
 					<a class="boek-ticket link" href="/boekingen/" title="Boekingen">
