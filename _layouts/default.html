@@ -55,7 +55,7 @@
 		{% if page.url == '/blog/' %}{% assign blog-page = site.collections | where: 'title', 'Posts' | first %}{% assign description = blog-page.korte-beschrijving %}{% else %}{% assign description = page.korte-beschrijving | default: home-page.korte-beschrijving %}{% endif %}<meta property="og:description" content="{% if page.blogger %}{{page.content | replace: '</em>', ' • ' | strip_html | strip_newlines | truncate: 160, "…"}}{% else %}{{description}}{% endif %}">
 	</head>
 
-	<body class="pagina {% assign parent = page.url | split: '/' %}{% if parent[2] %} {{parent[1] | replace: '/', ''}} kind{% else %}{% if page.url == '/' %}{% else %} {{page.url | replace: '/', ''}}{% endif %}{% endif %}{% if page.url == '/crew/' %} hele-crew{% elsif page.url contains 'crew' %} crew{% endif %}{% if page.actie %} actie{% endif %}">
+	<body class="pagina{% assign parent = page.url | split: '/' %}{% if parent[2] %} {{parent[1] | replace: '/', ''}} kind{% else %}{% if page.url == '/' %}{% else %} {{page.url | replace: '/', ''}}{% endif %}{% endif %}{% if page.url == '/crew/' %} hele-crew{% elsif page.url contains 'crew' %} crew{% endif %}{% if page.actie %} actie{% endif %}">
 		<div class="wikkel">
 			<header>
 				<div class="gecentreerd">
