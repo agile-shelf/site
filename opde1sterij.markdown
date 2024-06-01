@@ -29,6 +29,7 @@ facebook: https://facebook.com/de1sterij
 youtube: https://youtube.com/channel/UC7fMOjJuMH4-oYb2MqjHvig
 twitter: https://x.com/opde1sterij
 instagram: https://instagram.com/opde1sterij
+linkedin: https://nl.linkedin.com/company/op-de-eerste-rij
 ---
 
 Een ervaren vernieuwer in Cultuureducatie. **Op de eerste rij** bestaat uit: **TheaterChallenge, Traject C en Theatergroep Zwerm**. Bij ons vind je inspirerende workshops, prikkelende educatieve voorstellingen, spetterende lessenreeksen, interessante ouderavonden en ook docententrainingen. Allemaal vanuit de visie dat **een mens meer, sneller en beter leert wanneer deze mede-eigenaar is**. Meer weten? Neem [contact](https://www.opde1sterij.nl/contact/) met ons op.
