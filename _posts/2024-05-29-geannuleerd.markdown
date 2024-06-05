@@ -1,9 +1,10 @@
 ---
 title: geannuleerd
 date: 2024-05-29 11:56:00 +02:00
+permalink: "/blog/29-5-2024-geannuleerd/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blog%20post%2029%20mei.png"
+- path: "/uploads/geannuleerd.jpg"
 ---
 
 *Door: Esther Hulst*

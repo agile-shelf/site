@@ -4,24 +4,25 @@ layout:
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	{% for page in site.pages %}{% if page.url == '/admin/' %}{% elsif page.url == '/agenda/' %}{% elsif page.url == '/e-mailhandtekeningen/' %}{% elsif page.url == '/assets/css/style.css' %}{% elsif page.url == '/redirects.json' %}{% elsif page.url == '/sitemap.xml' %}<url>
-		<loc>https://www.opde1sterij.nl/sitemap.xml</loc>
-		<lastmod>{{site.time | date_to_xmlschema}}</lastmod>
- 	</url>
-	{% elsif page.url == '/' %}<url>
+	<url>
 		<loc>https://www.opde1sterij.nl/</loc>
 		<lastmod>{{site.time | date_to_xmlschema}}</lastmod>
 	</url>
-	{% else %}<url>
-		<loc>https://www.opde1sterij.nl{{page.url}}</loc>
-		<lastmod>{{page.date | date_to_xmlschema}}</lastmod>
+	<url>
+		<loc>https://www.opde1sterij.nl/sitemap.xml</loc>
+		<lastmod>{{site.time | date_to_xmlschema}}</lastmod>
 	</url>
-	{% for subpage in page.pages %}<url>
-		<loc>https://www.opde1sterij.nl{{subpage.url}}</loc>
-		<lastmod>{{subpage.date | date_to_xmlschema}}</lastmod>
-	</url>{% endfor %}{% endif %}{% endfor %}
 	{% for post in site.posts %}<url>
 		<loc>https://www.opde1sterij.nl{{post.url}}</loc>
 		<lastmod>{{post.date | date_to_xmlschema}}</lastmod>
 	</url>{% endfor %}
+	{% for page in site.pages reversed %}{% if page.url == '/' %}{% elsif page.url == '/admin/' %}{% elsif page.url == '/agenda/' %}{% elsif page.url == '/e-mailhandtekeningen/' %}{% elsif page.url == '/assets/css/style.css' %}{% elsif page.url == '/redirects.json' %}{% elsif page.url == '/sitemap.xml' %}
+	{% else %}<url>
+		<loc>https://www.opde1sterij.nl{{page.url}}</loc>
+		<lastmod>{% if page.url contains '/blog/' %}{{page.date | date_to_xmlschema}}{% else %}{{site.time | date_to_xmlschema}}{% endif %}</lastmod>
+	</url>
+	{% for subpage in page.pages reversed %}<url>
+		<loc>https://www.opde1sterij.nl{{subpage.url}}</loc>
+		<lastmod>{{site.time | date_to_xmlschema}}</lastmod>
+	</url>{% endfor %}{% endif %}{% endfor %}
 </urlset>

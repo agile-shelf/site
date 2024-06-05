@@ -1,10 +1,10 @@
 ---
 title: drie dagen TheaterChallenge
-date: 2024-06-05 08:00:00 +02:00
-published: false
+date: 2024-06-05 06:27:00 +02:00
+permalink: "/blog/5-6-2024-drie-dagen-theaterchallenge/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blogpost%2019%20mei%2024.png"
+- path: "/uploads/drie-dagen-theaterchallenge.jpg"
 ---
 
 *Door: Esther Hulst*

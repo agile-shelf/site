@@ -1,5 +1,5 @@
 ---
-title: Cultuureducatie - Op de eerste rij
+title: Op de eerste rij - Cultuureducatie
 timezone: Europe/Amsterdam
 collections:
   crew:
@@ -87,6 +87,7 @@ include:
 - ".2024-03"
 - ".2024-04"
 - ".2024-april"
+- ".2024-06"
 plugins:
 - jekyll-redirect-from
 whitelist:

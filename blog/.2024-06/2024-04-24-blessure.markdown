@@ -1,6 +1,7 @@
 ---
 title: blessure
 date: 2024-04-24 06:15:00 +02:00
+permalink: "/blog/24-4-2024-blessure/"
 blogger: Esther Hulst
 assets:
 - path: "/uploads/blessure.jpg"
