@@ -64,7 +64,7 @@
 		<meta property="og:type" content="{% if page.blogger %}article{% elsif page.sectie %}product{% else %}website{% endif %}">
 		<meta property="og:url" content="{{page.url | prepend: 'https://www.opde1sterij.nl'}}">
 		<meta property="og:image" content="{% if page.url == '/boekingen/' %}{% assign contact-page = site.pages | where_exp: 'sub-page', 'sub-page.url == "/contact/"' | first %}{% assign selected-page = contact-page %}{% else %}{% assign selected-page = page %}{% endif %}{{selected-page.assets[0].path | default: '/leeg_nieuw.png' | prepend: 'https://www.opde1sterij.nl'}}">
-		<meta property="og:description" content="{% if page.blogger %}{{page.content | replace: '**', ''  | replace: '*', ' - '  | replace: '</em>', ' - ' | strip_html | strip_newlines | truncate: 160, "…"}}{% else %}{{description}}">{% endif %}">
+		<meta property="og:description" content="{% if page.blogger %}{{page.content | replace: '**', ''  | replace: '*', ' - '  | replace: '</em>', ' - ' | strip_html | strip_newlines | truncate: 160, "…"}}{% else %}{{description}}{% endif %}">
 	</head>
 
 	<body class="pagina{% assign parent = page.url | split: '/' %}{% if parent[2] %} {{parent[1] | replace: '/', ''}} kind{% else %}{% if page.url == '/' %}{% else %} {{page.url | replace: '/', ''}}{% endif %}{% endif %}{% if page.url == '/crew/' %} hele-crew{% elsif page.url contains 'crew' %} crew{% endif %}{% if page.actie %} actie{% endif %}">
@@ -217,7 +217,7 @@
 						<p class="boekingsuitleg">Selecteer wat je wilt boeken:</p>
 						<div class="product-selectie">{% assign onderdelen = site.pages | where_exp: 'onderdeel-page', 'onderdeel-page.onderdeel == true' | sort: 'position' %}{% for onderdeel in onderdelen %}{% assign pages = site.pages | where_exp: 'sub-page', 'sub-page.dir contains onderdeel.dir' | where_exp: 'sub-page', 'sub-page.sectie' | sort: 'position' %}
 							{% for page in pages %}<div id="{{page.title | slugify}}">
-								<input type="checkbox" name="product" value="{{page.title}} ({{page.leeftijd}})" class="{{onderdeel.dir | replace: '/de-hermannen/de-hermannosaurus-rex/', 'opde1sterij' | replace: '/', ''}}"> <span class="boek-product {{onderdeel.dir | replace: '/de-hermannen/de-hermannosaurus-rex/', 'opde1sterij' | replace: '/', ''}}">{{page.title | replace: ' – de Hermannosaurus rex', ''}}{% if page.leeftijd %}&nbsp;&nbsp;<span class="boek-product-leeftijd">({{page.leeftijd}})</span>{% endif %}</span>&nbsp;&nbsp;&nbsp;<span class="product-meer-info"><a href="{{page.url}}" title="Over ‘{{page.title}}’">info</a></span>
+								<input type="checkbox" name="product" value="{{page.title}} ({{page.leeftijd}})" class="{{onderdeel.dir | replace: '/de-hermannosaurus-rex/', 'opde1sterij' | replace: '/', ''}}"> <span class="boek-product {{onderdeel.dir | replace: '/de-hermannosaurus-rex/', 'opde1sterij' | replace: '/', ''}}">{{page.title | replace: ' – de Hermannosaurus rex', ''}}{% if page.leeftijd %}&nbsp;&nbsp;<span class="boek-product-leeftijd">({{page.leeftijd}})</span>{% endif %}</span>&nbsp;&nbsp;&nbsp;<span class="product-meer-info"><a href="{{page.url}}" title="Over ‘{{page.title}}’">info</a></span>
 							</div>
 							{% endfor %}{% if forloop.last == false %}<br>{% endif %}{% endfor %}
 						</div>
@@ -335,7 +335,7 @@
 						<span>Klik hier om te boeken</span>
 						<div class="blokje"></div>
 					</a>
-					{% if page.url != '/de-hermannen/de-hermannosaurus-rex/' %}<a class="naar-crew link" href="{% assign parent = page.url | split: '/' %}{% if parent[2] %}{% if parent[1] != 'opde1sterij' %}/{{parent[1]}}{% endif %}{% endif %}/crew/" title="Over de Crew">
+					{% if page.url != '/de-hermannosaurus-rex/' %}<a class="naar-crew link" href="{% assign parent = page.url | split: '/' %}{% if parent[2] %}{% if parent[1] != 'opde1sterij' %}/{{parent[1]}}{% endif %}{% endif %}/crew/" title="Over de Crew">
 						<span>Over de Crew</span>
 						<div class="blokje"></div>
 					</a>
