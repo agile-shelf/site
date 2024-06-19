@@ -1,9 +1,11 @@
 ---
 title: Eerste lezing Bullsh*t
 date: 2024-06-12 06:44:00 +02:00
+permalink: "/blog/12-6-2024-eerste-lezing-bullsh-t/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/2.png"
+- path: "/uploads/eerste-lezing-bullsh-t.jpg"
+redirect_from: "/blog/12-6-2024-eerste-lezing-bullsh-star-t/"
 ---
 
 *Door: Esther Hulst*

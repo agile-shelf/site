@@ -5,8 +5,8 @@ permalink: "/"
 position: 0
 zoektermen: cultuureducatie, theater, klas, school, educatieve, voorstellingen, voorstelling
   in de klas, lessen, theaterlessen, workshops, theaterworkshops, muzieklessen, muziekeducatie,
-  ouderavonden, docententrainingen, theatergroep Zwerm, TheaterChallenge, Traject
-  C, Esther Hulst
+  ouderavonden, docententrainingen, basisonderwijs, voortgezet onderwijs, theatergroep
+  Zwerm, TheaterChallenge, Traject C, Esther Hulst
 korte-beschrijving: 'Een ervaren vernieuwer in Cultuureducatie. Op de eerste rij bestaat
   uit: TheaterChallenge, Traject C en Theatergroep Zwerm. Allemaal werkend vanuit
   de visie dat een mens meer, sneller en beter leert wanneer deze mede-eigenaar is.'

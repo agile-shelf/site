@@ -3,8 +3,8 @@
 	<head>
 		<meta charset="utf-8">
 		<title>{% if page.url != '/' %}{{page.title}}{% if page.leeftijd %} ({{page.leeftijd}}){% endif %} - {% endif %}{% assign parent = page.url | split: '/' %}{% if parent[2] %}{{parent[1] | replace: '/', '' | replace: '-', ' ' | replace: 'opde1sterij', 'Home' | replace: 'theaterchallenge', 'TheaterChallenge' | capitalize | trim}} - {% endif %}{{site.title}}</title>
-		{% assign home-page = site.pages | where_exp: 'sub-page', 'sub-page.url == "/"' | first %}{% if page.url == '/blog/' %}{% assign blog-page = site.collections | where: 'title', 'Posts' | first %}{% assign description = blog-page.korte-beschrijving %}{% else %}{% assign description = page.korte-beschrijving | default: home-page.korte-beschrijving %}{% endif %}<meta name="description" content="{% if page.blogger %}{{page.content | replace: '**', ''  | replace: '*', ' - '  | replace: '</em>', ' - ' | strip_html | strip_newlines | truncate: 160, "…"}}{% else %}{{description}}{% endif %}">
-		<meta name="keywords" content="{{home-page.zoektermen}}">
+		{% assign home-page = site.pages | where_exp: 'sub-page', 'sub-page.url == "/"' | first %}{% if page.url == '/blog/' %}{% assign blog-page = site.collections | where: 'title', 'Posts' | first %}{% endif %}<meta name="description" content="{% if page.blogger %}{{page.content | replace: '**', ''  | replace: '*', ' - '  | replace: '</em>', ' - ' | strip_html | strip_newlines | truncate: 160, "…"}}{% else %}{{page.korte-beschrijving}}{% if page.url != '/' %} {{home-page.korte-beschrijving}}{% endif %}{% endif %}">
+		<meta name="keywords" content="{% if page.zoektermen %}{{page.zoektermen}}{% else %}{{home-page.zoektermen}}{% endif %}">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="format-detection" content="telephone=no">
 		<link rel="canonical" href="{{page.url | prepend: 'https://www.opde1sterij.nl'}}">
@@ -18,8 +18,8 @@
 				},
 				h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
 			})(document);
-		</script>
-		{% if page.url == '/' %}<script type="application/ld+json">
+		</script>{% if page.url == '/' %}
+		<script type="application/ld+json">
 			{
 				"@context": "https://schema.org",
 				"@type": "Organization",

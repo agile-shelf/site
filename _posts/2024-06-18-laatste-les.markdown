@@ -1,9 +1,10 @@
 ---
 title: laatste les
 date: 2024-06-18 06:32:00 +02:00
+permalink: "/blog/18-6-2024-laatste-les/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/tot%20volgend%20jaar.pdf"
+- path: "/uploads/laatste-les.jpg"
 ---
 
 *Door: Esther Hulst*
