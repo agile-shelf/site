@@ -186,7 +186,7 @@ $(function() {
 	
 	var onderdeel;
 	$.ajax({
-		url: 'https://square-violet-42a7.dplyd.workers.dev',
+		url: 'https://opde1sterij-agenda.dplyd.workers.dev',
 		timeout: 3000
 	})
 	.done(function(agendaData) {
