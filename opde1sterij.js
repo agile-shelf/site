@@ -185,9 +185,8 @@ $(function() {
 	});
 	
 	var onderdeel;
-	var laatsteAgenda = 'https://df16q22jjvdd7.cloudfront.net';
 	$.ajax({
-		url: laatsteAgenda,
+		url: 'https://square-violet-42a7.dplyd.workers.dev',
 		timeout: 3000
 	})
 	.done(function(agendaData) {
