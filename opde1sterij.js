@@ -228,12 +228,12 @@ $(function() {
 	var itemTijdGeleden = '';
 	var virtueelDocument, instagramProfiel, instagramItemImgLink, instagramItemBericht, instagramTijdGeleden;
 	$.ajax({
-		url: 'https://everyorigin.jwvbremen.nl/api/get?url=' + encodeURIComponent('https://www.picuki.com/profile/opde1sterij'),
+		url: 'https://everyorigin.dplyd.workers.dev/' + encodeURIComponent('https://www.picuki.com/profile/opde1sterij'),
 		timeout: 10000
 	})
 	.done(function(picukiData) {
 		virtueelDocument = document.implementation.createHTMLDocument('virtueel');
-		instagramProfiel = $(picukiData['html'], virtueelDocument).find('.profile-name-top').first().text().trim();
+		instagramProfiel = $(picukiData, virtueelDocument).find('.profile-name-top').first().text().trim();
 		instagramItemImgLink = $(picukiData['html'], virtueelDocument).find('.post-image').first().attr('src');
 		if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
 			itemImgLink = 'https://wsrv.nl/?url=' + encodeURIComponent(instagramItemImgLink) + '&w=112&q=76&output=jpg'
@@ -259,13 +259,13 @@ $(function() {
 	
 // 	function instagramPostViaGreatfon() {
 // 		$.ajax({
-// 		url: 'https://everyorigin.jwvbremen.nl/api/get?url=' + encodeURIComponent('https://greatfon.com/v/opde1sterij'),
+// 		url: 'https://everyorigin.dplyd.workers.dev/' + encodeURIComponent('https://greatfon.com/v/opde1sterij'),
 // 			timeout: 10000
 // 		})
 // 		.done(function(greatfonData) {
 // 			virtueelDocument = document.implementation.createHTMLDocument('virtueel');
-// 			instagramProfiel = $(greatfonData['html'], virtueelDocument).find('.user h4').first().text().trim();
-// 			instagramItemImgLink = $(greatfonData['html'], virtueelDocument).find('.content__img-wrap a img').first().attr('src');
+// 			instagramProfiel = $(greatfonData, virtueelDocument).find('.user h4').first().text().trim();
+// 			instagramItemImgLink = $(greatfonData, virtueelDocument).find('.content__img-wrap a img').first().attr('src');
 // 			if (instagramProfiel == 'opde1sterij') {
 // 				if (instagramItemImgLink != undefined) {
 // 					itemImgLink = 'https://wsrv.nl/?url=' + encodeURIComponent('instagramItemImgLink') + '&w=112&q=76&output=jpg'
