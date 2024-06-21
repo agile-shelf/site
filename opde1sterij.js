@@ -226,23 +226,24 @@ $(function() {
 	var itemImgLink = '';
 	var itemBericht = 'Klik hier om de meest recente posts op onze Instagram pagina te bekijken. @opde1sterij';
 	var itemTijdGeleden = '';
-	var virtueelDocument, instagramProfiel, instagramItemImgLink, instagramItemBericht, instagramTijdGeleden;
+	var htmlDocument, irtueelDocument, instagramProfiel, instagramItemImgLink, instagramItemBericht, instagramTijdGeleden;
 	$.ajax({
-		url: 'https://everyorigin.dplyd.workers.dev/' + encodeURIComponent('https://www.picuki.com/profile/opde1sterij'),
+		url: 'https://opde1sterij-origin.dplyd.workers.dev/' + encodeURIComponent('https://www.picuki.com/profile/opde1sterij'),
 		timeout: 10000
 	})
 	.done(function(picukiData) {
-		virtueelDocument = document.implementation.createHTMLDocument('virtueel');
-		instagramProfiel = $(picukiData, virtueelDocument).find('.profile-name-top').first().text().trim();
-		instagramItemImgLink = $(picukiData, virtueelDocument).find('.post-image').first().attr('src');
+		htmlDocument = document.implementation.createHTMLDocument('virtueel');
+		virtueelDocument = $(picukiData, htmlDocument);
+		instagramProfiel = virtueelDocument.find('.profile-name-top').first().text().trim();
+		instagramItemImgLink = virtueelDocument.find('.post-image').first().attr('src');
 		if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
 			itemImgLink = 'https://wsrv.nl/?url=' + encodeURIComponent(instagramItemImgLink) + '&w=112&q=76&output=jpg'
 		}
-		var instagramItemBericht = $(picukiData, virtueelDocument).find('.photo-description').first().text().trim();
+		var instagramItemBericht = virtueelDocument.find('.photo-description').first().text().trim();
 		if (instagramItemBericht != undefined && instagramItemBericht != '') {
 			itemBericht = instagramItemBericht;
 		}
-		instagramItemTijdGeleden = $(picukiData, virtueelDocument).find('.time span').first().text().trim();
+		instagramItemTijdGeleden = virtueelDocument.find('.time span').first().text().trim();
 		if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
 			vertaalTijd()
 		}
@@ -259,22 +260,23 @@ $(function() {
 	
 // 	function instagramPostViaGreatfon() {
 // 		$.ajax({
-// 		url: 'https://everyorigin.dplyd.workers.dev/' + encodeURIComponent('https://greatfon.com/v/opde1sterij'),
+// 		url: 'https://opde1sterij-origin.dplyd.workers.dev/' + encodeURIComponent('https://greatfon.com/v/opde1sterij'),
 // 			timeout: 10000
 // 		})
 // 		.done(function(greatfonData) {
-// 			virtueelDocument = document.implementation.createHTMLDocument('virtueel');
-// 			instagramProfiel = $(greatfonData, virtueelDocument).find('.user h4').first().text().trim();
-// 			instagramItemImgLink = $(greatfonData, virtueelDocument).find('.content__img-wrap a img').first().attr('src');
+// 			htmlDocument = document.implementation.createHTMLDocument('virtueel');
+// 			virtueelDocument = $(greatfonData, htmlDocument);
+// 			instagramProfiel = virtueelDocument.find('.user h4').first().text().trim();
+// 			instagramItemImgLink = virtueelDocument.find('.content__img-wrap a img').first().attr('src');
 // 			if (instagramProfiel == 'opde1sterij') {
 // 				if (instagramItemImgLink != undefined) {
 // 					itemImgLink = 'https://wsrv.nl/?url=' + encodeURIComponent('instagramItemImgLink') + '&w=112&q=76&output=jpg'
 // 				}
-// 				instagramItemBericht = $(greatfonData, virtueelDocument).find('.content__text p').first().html().replace(/<br\s*\/?>/gi,' ').trim();
+// 				instagramItemBericht = virtueelDocument.find('.content__text p').first().html().replace(/<br\s*\/?>/gi,' ').trim();
 // 				if (instagramItemBericht != undefined && instagramItemBericht != '') {
 // 					itemBericht = instagramItemBericht;
 // 				}
-// 				instagramItemTijdGeleden = $(greatfonData, virtueelDocument).find('.content__time-text').first().text().trim();
+// 				instagramItemTijdGeleden = virtueelDocument.find('.content__time-text').first().text().trim();
 // 				if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
 // 					vertaalTijd()
 // 				}
