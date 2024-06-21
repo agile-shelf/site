@@ -234,15 +234,15 @@ $(function() {
 	.done(function(picukiData) {
 		virtueelDocument = document.implementation.createHTMLDocument('virtueel');
 		instagramProfiel = $(picukiData, virtueelDocument).find('.profile-name-top').first().text().trim();
-		instagramItemImgLink = $(picukiData['html'], virtueelDocument).find('.post-image').first().attr('src');
+		instagramItemImgLink = $(picukiData, virtueelDocument).find('.post-image').first().attr('src');
 		if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
 			itemImgLink = 'https://wsrv.nl/?url=' + encodeURIComponent(instagramItemImgLink) + '&w=112&q=76&output=jpg'
 		}
-		var instagramItemBericht = $(picukiData['html'], virtueelDocument).find('.photo-description').first().text().trim();
+		var instagramItemBericht = $(picukiData, virtueelDocument).find('.photo-description').first().text().trim();
 		if (instagramItemBericht != undefined && instagramItemBericht != '') {
 			itemBericht = instagramItemBericht;
 		}
-		instagramItemTijdGeleden = $(picukiData['html'], virtueelDocument).find('.time span').first().text().trim();
+		instagramItemTijdGeleden = $(picukiData, virtueelDocument).find('.time span').first().text().trim();
 		if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
 			vertaalTijd()
 		}
@@ -270,11 +270,11 @@ $(function() {
 // 				if (instagramItemImgLink != undefined) {
 // 					itemImgLink = 'https://wsrv.nl/?url=' + encodeURIComponent('instagramItemImgLink') + '&w=112&q=76&output=jpg'
 // 				}
-// 				instagramItemBericht = $(greatfonData['html'], virtueelDocument).find('.content__text p').first().html().replace(/<br\s*\/?>/gi,' ').trim();
+// 				instagramItemBericht = $(greatfonData, virtueelDocument).find('.content__text p').first().html().replace(/<br\s*\/?>/gi,' ').trim();
 // 				if (instagramItemBericht != undefined && instagramItemBericht != '') {
 // 					itemBericht = instagramItemBericht;
 // 				}
-// 				instagramItemTijdGeleden = $(greatfonData['html'], virtueelDocument).find('.content__time-text').first().text().trim();
+// 				instagramItemTijdGeleden = $(greatfonData, virtueelDocument).find('.content__time-text').first().text().trim();
 // 				if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
 // 					vertaalTijd()
 // 				}
