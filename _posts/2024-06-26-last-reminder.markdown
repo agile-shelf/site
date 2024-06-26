@@ -12,7 +12,7 @@ assets:
 
 *Door: Esther Hulst*
 
-De schoolvakantie staat nu echt voor de deur, maar bij Op de eerste rij zijn we nog lang niet klaar. Of zo voelt dat… Want ook voor ons begint op zaterdag 20 juli de zomervakantie. Voor veel scholen begint de vakantie nog eerder. Heerlijk.
+De zomervakantie staat nu echt voor de deur, maar bij Op de eerste rij zijn we nog lang niet klaar. Of zo voelt dat… Want ook voor ons begint op zaterdag 20 juli de zomervakantie. Voor veel scholen begint de vakantie nog eerder. Heerlijk.
 
 Iedereen in onderwijsland is druk met de laatste loodjes. Wat zijn de laatste loodjes dan voor ons? Het repeteren van de gloednieuwe voorstelling [Bullsh*t](https://www.opde1sterij.nl/theatergroep-zwerm/bullsh-t/), over AI en nepnieuws. Het schrijven van de nieuwe Kinderboekenweekvoorstelling: [Help, ik ben de baas](https://www.opde1sterij.nl/theatergroep-zwerm/help-ik-ben-de-baas/). Het produceren van deze voorstellingen. Dat betekent decors bedenken, laten maken, rekwisieten aanschaffen, maar ook broodjes halen voor de lunch, repetitieruimtes reserveren en nog veel meer dingen die allemaal in een to-do-lijstje staan omdat ze anders vergeten worden. Daarnaast zijn er traditiegetrouw ook altijd een boel TheaterChallenges geboekt voor de afsluiting van het schooljaar. Die verzorgen de verschillende TheaterChallenge-teams ook nog even. Ook staat volgend jaar natuurlijk voor de deur, dus moeten er roosters gemaakt en gecheckt worden. En één van de belangrijkste laatste loodjes is natuurlijk: de vroegboekkorting, zoals elk jaar.
 
