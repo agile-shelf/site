@@ -33,8 +33,8 @@ speciaal:
 
 **InControl** In een wereld waarin NIX de afspraak is, is een pil goedkoper en voor jongeren makkelijker verkrijgbaar dan een sixpack. Op de laptop, waarop jongeren hun huiswerk maken, zijn ze één klik verwijderd van duizenden games, die ze onbeperkt, met mensen over de hele wereld, dag en nacht kunnen spelen. InControl is een voorstelling over genotmiddelen en gameverslaving, in de wereld van nu.
 
-InControl volgt een schooljaar lang Luuk, Julia en Denise, 3 jongeren die worstelen met de vraag ‘hoe om te gaan met alcohol, drugs en gamen’. Als iedereen alcohol drinkt, moet ik dat dan ook doen? En hoeveel uur per dag gamen is nog gezond? Of heb ik toch een probleem? Ga ik zo nog wel over?
+InControl volgt een schooljaar lang Luuk, Julia en Denise, 3 jongeren die worstelen met de vraag ‘hoe om te gaan met alcohol, vapes, drugs en gamen’. Als iedereen alcohol drinkt, moet ik dat dan ook doen? En hoeveel uur per dag gamen is nog gezond? Of heb ik toch een probleem? Ga ik zo nog wel over?
 
-Na de voorstelling is er een interactief nagesprek met de acteurs als gespreksleiders. Zij worden hier intensief in getraind.  Daardoor zijn ze goed in het creëren van een veilige sfeer, waarin iedereen de ruimte krijgt om deel te nemen aan een eerlijk en open gesprek over wat de jongeren net gezien hebben en over de manier waarop ze met drugs, alcohol, gamen en hun eigen grenzen willen omgaan.
+Na de voorstelling is er een interactief nagesprek met de acteurs als gespreksleiders. Zij worden hier intensief in getraind.  Daardoor zijn ze goed in het creëren van een veilige sfeer, waarin iedereen de ruimte krijgt om deel te nemen aan een eerlijk en open gesprek over wat de jongeren net gezien hebben en over de manier waarop ze met vapen, drugs, alcohol, gamen en hun eigen grenzen willen omgaan.
 
 De voorstelling InControl en het interactieve nagesprek zijn een fijne basis om aan te kunnen refereren in de lessen.
