@@ -1,6 +1,6 @@
 ---
 title: De eerste klas
-date: 2024-07-03 18:07:00 +02:00
+date: 2024-07-03 07:07:00 +02:00
 blogger: Esther Hulst
 assets:
 - path: "/uploads/blog%203%20juli.pdf"
