@@ -1,5 +1,5 @@
 ---
-title: De eerste klas
+title: Dag kleuterklas
 date: 2024-07-03 07:07:00 +02:00
 blogger: Esther Hulst
 assets:
