@@ -3,7 +3,7 @@ title: Trots op schooljaar 23-24
 date: 2024-07-17 06:45:00 +02:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blog%2017%20juli.png"
+- path: "/uploads/blog%2017%20juli.pdf"
 ---
 
 *Door: Esther Hulst*
