@@ -1,13 +1,14 @@
 ---
 title: Last reminder
 date: 2024-06-26 15:47:00 +02:00
+permalink: "/blog/26-6-2024-last-reminder/"
 blogger: Esther Hulst
 filmpje-embed-code: <iframe width="560" height="315" src="https://www.youtube.com/embed/w3CXF1ei-0k?si=pZS1PEiEDQqrkoFD"
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
   allowfullscreen></iframe>
 assets:
-- path: "/uploads/12.png"
+- path: "/uploads/last-reminder.jpg"
 ---
 
 *Door: Esther Hulst*

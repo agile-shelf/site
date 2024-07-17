@@ -1,9 +1,10 @@
 ---
 title: Dag kleuterklas
 date: 2024-07-03 07:07:00 +02:00
+permalink: "/blog/3-7-2024-de-eerste-klas/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blog%203%20juli.pdf"
+- path: "/uploads/de-eerste-klas.jpg"
 ---
 
 *Door: Esther Hulst*
