@@ -1,6 +1,7 @@
 ---
 title: Vroegboekkorting
 date: 2024-04-23 13:13:00 +02:00
+published: false
 position: 1
 assets:
 - path: "/uploads/vroegboekkorting-2024.jpg"
