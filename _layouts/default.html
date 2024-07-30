@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>{% if page.url != '/' %}{{page.title}}{% if page.leeftijd %} ({{page.leeftijd}}){% endif %} - {% endif %}{% assign parent = page.url | split: '/' %}{% if parent[2] %}{{parent[1] | replace: '/', '' | replace: '-', ' ' | replace: 'opde1sterij', 'Home' | replace: 'theaterchallenge', 'TheaterChallenge' | capitalize | trim}} - {% endif %}{{site.title}}</title>
-		{% assign home-page = site.pages | where_exp: 'sub-page', 'sub-page.url == "/"' | first %}{% if page.url == '/blog/' %}{% assign blog-page = site.collections | where: 'title', 'Posts' | first %}{% endif %}<meta name="description" content="{% if page.blogger %}{{page.content | replace: '**', ''  | replace: '*', ' - '  | replace: '</em>', ' - ' | strip_html | strip_newlines | truncate: 160, "…"}}{% else %}{{page.korte-beschrijving}}{% if page.url != '/' %} {{home-page.korte-beschrijving}}{% endif %}{% endif %}">
+		{% assign home-page = site.pages | where_exp: 'sub-page', 'sub-page.url == "/"' | first %}<meta name="description" content="{% if page.blogger %}{% assign blog-beschrijving = page.content | replace: '**', ''  | replace: '*', ' - '  | replace: '</em>', ' - ' | strip_html | strip_newlines | truncate: 160, "…" %}{{blog-beschrijving}}{% else %}{{page.korte-beschrijving}}{% if page.url != '/' %} {{home-page.korte-beschrijving}}{% endif %}{% endif %}">
 		<meta name="keywords" content="{% if page.zoektermen %}{{page.zoektermen}}{% else %}{{home-page.zoektermen}}{% endif %}">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="format-detection" content="telephone=no">
@@ -33,7 +33,7 @@
 				],
 				"logo": "https://www.opde1sterij.nl/logo_nieuw_opde1sterij@3x.png",
 				"name": "{{site.title}}",
-				"description:" "{{description}}",
+				"description:" "{{page.korte-beschrijving}} {{home-page.korte-beschrijving}}",
 				"email": "{{home-page.e-mailadres}}"
 				"telephone": "{{home-page.telefoonnummer}}",
 				"address": {
@@ -64,7 +64,7 @@
 		<meta property="og:type" content="{% if page.blogger %}article{% elsif page.sectie %}product{% else %}website{% endif %}">
 		<meta property="og:url" content="{{page.url | prepend: 'https://www.opde1sterij.nl'}}">
 		<meta property="og:image" content="{% if page.url == '/boekingen/' %}{% assign contact-page = site.pages | where_exp: 'sub-page', 'sub-page.url == "/contact/"' | first %}{% assign selected-page = contact-page %}{% else %}{% assign selected-page = page %}{% endif %}{{selected-page.assets[0].path | default: '/leeg_nieuw.png' | prepend: 'https://www.opde1sterij.nl'}}">
-		<meta property="og:description" content="{% if page.blogger %}{{page.content | replace: '**', ''  | replace: '*', ' - '  | replace: '</em>', ' - ' | strip_html | strip_newlines | truncate: 160, "…"}}{% else %}{{description}}{% endif %}">
+		<meta property="og:description" content="{% if page.blogger %}{{blog-beschrijving}}{% else %}{{page.korte-beschrijving}}{% if page.url != '/' %} {{home-page.korte-beschrijving}}{% endif %}{% endif %}">
 	</head>
 
 	<body class="pagina{% assign parent = page.url | split: '/' %}{% if parent[2] %} {{parent[1] | replace: '/', ''}} kind{% else %}{% if page.url == '/' %}{% else %} {{page.url | replace: '/', ''}}{% endif %}{% endif %}{% if page.url == '/crew/' %} hele-crew{% elsif page.url contains 'crew' %} crew{% endif %}{% if page.actie %} actie{% endif %}">
@@ -123,7 +123,7 @@
 			</header>
 			{% if page.url == '/basisonderwijs/' or page.url == '/voortgezet-onderwijs/' or page.url == '/bedrijven/' or page.url == '/particulieren/' or page.url contains '/crew/' or page.url == '/agenda/' %}{% else %}
 			<div class="achtergrond-box">
-				{% if page.url == '/boekingen/' %}{% assign selected-page = contact-page %}{% elsif page.url == '/blog/' %}{% assign selected-page = blog-page %}{% else %}{% assign selected-page = page %}{% endif %}{% assign trailer = selected-page.trailer-embed-code | default: 'geen trailer' %}{% if page.blogger %}{% assign achtergrond-afbeelding = selected-page.assets[0].path | default: '/leeg_nieuw.png' %}{% else %}{% assign achtergrond-afbeelding = selected-page.assets[0].path | default: '/leeg_nieuw.png' %}{% endif %}<noscript><div class="achtergrond"{% if trailer == 'geen trailer' %} style="background-image:url('{{achtergrond-afbeelding | prepend: 'https://wsrv.nl/?url=https://www.opde1sterij.nl' | append: '&w=1920&q=75&output=jpg'}}'); opacity: 1;"{% endif %}>{% if trailer != 'geen trailer' %}{{page.trailer-embed-code | replace: '<iframe', '<div class="video-wikkel"><iframe' | replace: 'src=', 'data-src=' | replace: 'youtube.com', 'youtube-nocookie.com' | replace: '></iframe>', ' class="lazyload"></iframe></div>'}}{% endif %}</div></noscript><div class="achtergrond lazyload"{% if trailer == 'geen trailer' %} data-bg="{{achtergrond-afbeelding | prepend: 'https://wsrv.nl/?url=https://www.opde1sterij.nl' | append: '&w=1920&q=75&output=jpg'}}"{% endif %}>{% if trailer != 'geen trailer' %}{{page.trailer-embed-code | replace: '<iframe', '<div class="video-wikkel"><iframe' | replace: 'src=', 'data-src=' | replace: 'youtube.com', 'youtube-nocookie.com' | replace: '></iframe>', ' class="lazyload"></iframe></div>'}}{% endif %}</div>
+				{% if page.url == '/boekingen/' %}{% assign selected-page = contact-page %}{% elsif page.url == '/blog/' %}{% assign selected-page = site.collections | where: 'title', 'Posts' | first %}{% else %}{% assign selected-page = page %}{% endif %}{% assign trailer = selected-page.trailer-embed-code | default: 'geen trailer' %}{% if page.blogger %}{% assign achtergrond-afbeelding = selected-page.assets[0].path | default: '/leeg_nieuw.png' %}{% else %}{% assign achtergrond-afbeelding = selected-page.assets[0].path | default: '/leeg_nieuw.png' %}{% endif %}<noscript><div class="achtergrond"{% if trailer == 'geen trailer' %} style="background-image:url('{{achtergrond-afbeelding | prepend: 'https://wsrv.nl/?url=https://www.opde1sterij.nl' | append: '&w=1920&q=75&output=jpg'}}'); opacity: 1;"{% endif %}>{% if trailer != 'geen trailer' %}{{page.trailer-embed-code | replace: '<iframe', '<div class="video-wikkel"><iframe' | replace: 'src=', 'data-src=' | replace: 'youtube.com', 'youtube-nocookie.com' | replace: '></iframe>', ' class="lazyload"></iframe></div>'}}{% endif %}</div></noscript><div class="achtergrond lazyload"{% if trailer == 'geen trailer' %} data-bg="{{achtergrond-afbeelding | prepend: 'https://wsrv.nl/?url=https://www.opde1sterij.nl' | append: '&w=1920&q=75&output=jpg'}}"{% endif %}>{% if trailer != 'geen trailer' %}{{page.trailer-embed-code | replace: '<iframe', '<div class="video-wikkel"><iframe' | replace: 'src=', 'data-src=' | replace: 'youtube.com', 'youtube-nocookie.com' | replace: '></iframe>', ' class="lazyload"></iframe></div>'}}{% endif %}</div>
 				<div class="achtergrond-lader"></div>
 			</div>
 			{% endif %}

@@ -1,9 +1,10 @@
 ---
 title: Trots op schooljaar 23-24
 date: 2024-07-17 06:45:00 +02:00
+permalink: "/blog/17-7-2024-trots-op-schooljaar-23-24/"
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blog%2017%20juli.pdf"
+- path: "/uploads/trots-op-schooljaar-23-24.jpg"
 ---
 
 *Door: Esther Hulst*
