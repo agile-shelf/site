@@ -191,6 +191,9 @@ $(function() {
 	})
 	.done(function(agendaData) {
 		$.each(agendaData.data,function(index, item) {
+			if item.artist.name == null || item.date == null {
+				return false
+			}
 			onderdeel = item.artist.name.toLowerCase();
 			if (onderdeel.includes('zwerm')) {
 				onderdeel = 'theatergroep-zwerm';
@@ -205,7 +208,7 @@ $(function() {
 			}
 			item.eventName = item.eventName || onderdeel;
 			if (item.venue.city == null) {
-				item.venu.city = "Geen Plaatsnaam"
+				item.venue.city = "Geen Plaatsnaam"
 			} 
 			if (pad == '/agenda') {
 				$('.agenda-overzicht table tbody').append('<tr class="' + onderdeel + '"><td>' + item.date.dayName + ' ' + item.date.day + ' ' + item.date.monthName + ' ' + item.date.year + '</td><td>' + item.venue.city + '</td><td><a href="/'+ onderdeel +'" title="Ga naar dit onderdeel van Op de eerste rij">' + onderdeel.replace(/-/g, ' ') + '</a></td><td>' + item.eventName + '</td></tr>');
