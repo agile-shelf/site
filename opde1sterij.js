@@ -207,7 +207,7 @@ $(function() {
 				if (item.eventName == null) {
 					eventNaam = onderdeel;
 				} else {
-					eventNaam = eventName;
+					eventNaam = item.eventName;
 				}
 				if (item.venue.city == null) {
 					plaatsNaam = "Geen Plaatsnaam";
