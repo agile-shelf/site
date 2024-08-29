@@ -205,7 +205,7 @@ $(function() {
 			}
 			item.eventName = item.eventName || onderdeel; 
 			if (pad == '/agenda') {
-				$('.agenda-overzicht table tbody').append('<tr class="' + onderdeel + '"><td>' + item.date.dayName + ' ' + item.date.day + ' ' + item.date.monthName + ' ' + item.date.year + '</td><td>' + item.venue.city + '</td><td><a href="/'+ onderdeel +'" title="Ga naar dit onderdeel van Op de eerste rij">' + onderdeel.replace(/-/g, ' ') + '</a></td><td>' + item.eventName + '</td></tr>');
+				$('.agenda-overzicht table tbody').append('<tr class="' + onderdeel + '"><td>' + item.date.dayName + ' ' + item.date.day + ' ' + item.date.monthName + ' ' + item.date.year + '</td><td>' + item.venue.city || "Geen Plaatsnaam" + '</td><td><a href="/'+ onderdeel +'" title="Ga naar dit onderdeel van Op de eerste rij">' + onderdeel.replace(/-/g, ' ') + '</a></td><td>' + item.eventName + '</td></tr>');
 			}
 			if (index <= 2) {
 				$('.laatste-agenda ol').append('<li style="display: list-item;"><a href="/agenda/" title="Bekijk de agenda" class="' + onderdeel + '"><div class="kalendertje"><div class="dag-nummer">' + item.date.day + '</div><div class="maand">' + item.date.monthName + '</div><div class="jaar">' + item.date.year + '</div></div><div class="locatie">' + item.venue.city + '&nbsp;&nbsp;|&nbsp;&nbsp;' + item.eventName + '</div></a></li>');
@@ -239,11 +239,11 @@ $(function() {
 		if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
 			itemImgLink = 'https://wsrv.nl/?url=' + encodeURIComponent(instagramItemImgLink) + '&w=112&q=76&output=jpg'
 		}
-		var instagramItemBericht = virtueelDocument.find('.photo-description').first().text().trim();
+		var instagramItemBericht = virtueelDocument.find('.photo-info .photo-action-description').first().text().trim();
 		if (instagramItemBericht != undefined && instagramItemBericht != '') {
 			itemBericht = instagramItemBericht;
 		}
-		instagramItemTijdGeleden = virtueelDocument.find('.time span').first().text().trim();
+		instagramItemTijdGeleden = virtueelDocument.find('.photo-info .time span').first().text().trim();
 		if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
 			vertaalTijd()
 		}
