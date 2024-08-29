@@ -204,7 +204,9 @@ $(function() {
 				onderdeel = 'opde1sterij';
 			}
 			item.eventName = item.eventName || onderdeel;
-			item.venue.city = item.venue.city || "Geen Plaatsnaam"
+			if item.venue.city == null {
+				item.venu.city = "Geen Plaatsnaam"
+			} 
 			if (pad == '/agenda') {
 				$('.agenda-overzicht table tbody').append('<tr class="' + onderdeel + '"><td>' + item.date.dayName + ' ' + item.date.day + ' ' + item.date.monthName + ' ' + item.date.year + '</td><td>' + item.venue.city + '</td><td><a href="/'+ onderdeel +'" title="Ga naar dit onderdeel van Op de eerste rij">' + onderdeel.replace(/-/g, ' ') + '</a></td><td>' + item.eventName + '</td></tr>');
 			}
