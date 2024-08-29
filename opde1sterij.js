@@ -191,7 +191,7 @@ $(function() {
 	})
 	.done(function(agendaData) {
 		$.each(agendaData.data,function(index, item) {
-			if (item.artist == null && item.date !== null && item.eventName !== null && item.venue !== null) {
+			if (item.artist !== null && item.date !== null && item.eventName !== null && item.venue !== null) {
 				onderdeel = item.artist?.name.toLowerCase();
 				if (onderdeel.includes('zwerm')) {
 					onderdeel = 'theatergroep-zwerm';
