@@ -191,7 +191,7 @@ $(function() {
 	})
 	.done(function(agendaData) {
 		$.each(agendaData.data,function(index, item) {
-			if item.artist.name == null || item.date == null {
+			if (item.artist.name == null || item.date == null) {
 				return false
 			}
 			onderdeel = item.artist.name.toLowerCase();
