@@ -203,9 +203,10 @@ $(function() {
 			} else {
 				onderdeel = 'opde1sterij';
 			}
-			item.eventName = item.eventName || onderdeel; 
+			item.eventName = item.eventName || onderdeel;
+			item.venue.city = item.venue.city || "Geen Plaatsnaam"
 			if (pad == '/agenda') {
-				$('.agenda-overzicht table tbody').append('<tr class="' + onderdeel + '"><td>' + item.date.dayName + ' ' + item.date.day + ' ' + item.date.monthName + ' ' + item.date.year + '</td><td>' + (item.venue.city || "Geen Plaatsnaam") + '</td><td><a href="/'+ onderdeel +'" title="Ga naar dit onderdeel van Op de eerste rij">' + onderdeel.replace(/-/g, ' ') + '</a></td><td>' + item.eventName + '</td></tr>');
+				$('.agenda-overzicht table tbody').append('<tr class="' + onderdeel + '"><td>' + item.date.dayName + ' ' + item.date.day + ' ' + item.date.monthName + ' ' + item.date.year + '</td><td>' + item.venue.city + '</td><td><a href="/'+ onderdeel +'" title="Ga naar dit onderdeel van Op de eerste rij">' + onderdeel.replace(/-/g, ' ') + '</a></td><td>' + item.eventName + '</td></tr>');
 			}
 			if (index <= 2) {
 				$('.laatste-agenda ol').append('<li style="display: list-item;"><a href="/agenda/" title="Bekijk de agenda" class="' + onderdeel + '"><div class="kalendertje"><div class="dag-nummer">' + item.date.day + '</div><div class="maand">' + item.date.monthName + '</div><div class="jaar">' + item.date.year + '</div></div><div class="locatie">' + item.venue.city + '&nbsp;&nbsp;|&nbsp;&nbsp;' + item.eventName + '</div></a></li>');
