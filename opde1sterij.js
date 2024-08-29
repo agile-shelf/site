@@ -204,7 +204,7 @@ $(function() {
 				onderdeel = 'opde1sterij';
 			}
 			item.eventName = item.eventName || onderdeel;
-			if item.venue.city == null {
+			if (item.venue.city == null) {
 				item.venu.city = "Geen Plaatsnaam"
 			} 
 			if (pad == '/agenda') {
