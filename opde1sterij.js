@@ -184,37 +184,42 @@ $(function() {
 		}
 	});
 	
-	var onderdeel;
+	var onderdeel, eventNaam, plaatsNaam;
 	$.ajax({
 		url: 'https://opde1sterij-agenda.dplyd.workers.dev',
 		timeout: 3000
 	})
 	.done(function(agendaData) {
 		$.each(agendaData.data,function(index, item) {
-			if (item.artist.name == null || item.date == null) {
-				return false
-			}
-			onderdeel = item.artist.name.toLowerCase();
-			if (onderdeel.includes('zwerm')) {
-				onderdeel = 'theatergroep-zwerm';
-			} else if (onderdeel.includes('traject c')) {
-				onderdeel = 'traject-c';
-			} else if (onderdeel.includes('theaterchallenge')) {
-				onderdeel = 'theaterchallenge';
-			} else if (onderdeel.includes('monkeyspoom')) {
-				onderdeel = 'monkeyspoom';
-			} else {
-				onderdeel = 'opde1sterij';
-			}
-			item.eventName = item.eventName || onderdeel;
-			if (item.venue.city == null) {
-				item.venue.city = "Geen Plaatsnaam"
-			} 
-			if (pad == '/agenda') {
-				$('.agenda-overzicht table tbody').append('<tr class="' + onderdeel + '"><td>' + item.date.dayName + ' ' + item.date.day + ' ' + item.date.monthName + ' ' + item.date.year + '</td><td>' + item.venue.city + '</td><td><a href="/'+ onderdeel +'" title="Ga naar dit onderdeel van Op de eerste rij">' + onderdeel.replace(/-/g, ' ') + '</a></td><td>' + item.eventName + '</td></tr>');
-			}
-			if (index <= 2) {
-				$('.laatste-agenda ol').append('<li style="display: list-item;"><a href="/agenda/" title="Bekijk de agenda" class="' + onderdeel + '"><div class="kalendertje"><div class="dag-nummer">' + item.date.day + '</div><div class="maand">' + item.date.monthName + '</div><div class="jaar">' + item.date.year + '</div></div><div class="locatie">' + item.venue.city + '&nbsp;&nbsp;|&nbsp;&nbsp;' + item.eventName + '</div></a></li>');
+			if (item.artist.name != null && item.date != null) {
+				onderdeel = item.artist.name.toLowerCase();
+				if (onderdeel.includes('zwerm')) {
+					onderdeel = 'theatergroep-zwerm';
+				} else if (onderdeel.includes('traject c')) {
+					onderdeel = 'traject-c';
+				} else if (onderdeel.includes('theaterchallenge')) {
+					onderdeel = 'theaterchallenge';
+				} else if (onderdeel.includes('monkeyspoom')) {
+					onderdeel = 'monkeyspoom';
+				} else {
+					onderdeel = 'opde1sterij';
+				}
+				if (item.eventName == null) {
+					eventNaam = onderdeel;
+				} else {
+					eventNaam = eventName;
+				}
+				if (item.venue.city == null) {
+					plaatsNaam = "Geen Plaatsnaam";
+				} else {
+					plaatsNaam = item.venue.city;
+				}
+				if (pad == '/agenda') {
+					$('.agenda-overzicht table tbody').append('<tr class="' + onderdeel + '"><td>' + item.date.dayName + ' ' + item.date.day + ' ' + item.date.monthName + ' ' + item.date.year + '</td><td>' + plaatsNaam + '</td><td><a href="/'+ onderdeel +'" title="Ga naar dit onderdeel van Op de eerste rij">' + onderdeel.replace(/-/g, ' ') + '</a></td><td>' + eventNaam + '</td></tr>');
+				}
+				if (index <= 2) {
+					$('.laatste-agenda ol').append('<li style="display: list-item;"><a href="/agenda/" title="Bekijk de agenda" class="' + onderdeel + '"><div class="kalendertje"><div class="dag-nummer">' + item.date.day + '</div><div class="maand">' + item.date.monthName + '</div><div class="jaar">' + item.date.year + '</div></div><div class="locatie">' + plaatsNaam + '&nbsp;&nbsp;|&nbsp;&nbsp;' + eventNaam + '</div></a></li>');
+				}
 			}
 		});
 		if ($('.laatste-agenda ol').is(':empty')) {
@@ -232,7 +237,7 @@ $(function() {
 	var itemImgLink = '';
 	var itemBericht = 'Klik hier om de meest recente posts op onze Instagram pagina te bekijken. @opde1sterij';
 	var itemTijdGeleden = '';
-	var htmlDocument, irtueelDocument, instagramProfiel, instagramItemImgLink, instagramItemBericht, instagramTijdGeleden;
+	var htmlDocument, virtueelDocument, instagramProfiel, instagramItemImgLink, instagramItemBericht, instagramTijdGeleden;
 	$.ajax({
 		url: 'https://opde1sterij-origin.dplyd.workers.dev/' + encodeURIComponent('https://www.picuki.com/profile/opde1sterij'),
 		timeout: 10000
