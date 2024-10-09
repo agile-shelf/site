@@ -36,7 +36,7 @@ speciaal:
 
 De voorstelling iSocial volgt 3 basisscholieren die hun weg proberen te vinden in de wereld van Internet en Social Media. Welke foto’s zijn geschikt om te delen? Wat is veilig? Hoe weet je of iemand echt is? Wat doe je als je beste vriendin een gênante foto van jou online zet? Al deze vragen komen voorbij in de voorstelling iSocial.
 
-Na de voorstelling is er een interactief nagesprek onder leiding van de acteurs. Zij worden hier intensief in getraind. Daardoor zijn ze goed in het creëren van een veilige sfeer, waarin iedereen mee kan praten over deze constant veranderende onderwerpen. Thema’s die aan bod komen: privacy, cyberpesten, veiligheid, online do’s en dont’s, social media gebruik, online identiteit, vriendschappen en relaties en alles wat bij deze online wereld hoort. 
+Na de voorstelling is er een interactief nagesprek onder leiding van de acteurs. Zij worden hier intensief in getraind. Daardoor zijn ze goed in het creëren van een veilige sfeer, waarin iedereen mee kan praten over deze constant veranderende onderwerpen. Thema’s die aan bod komen: privacy, cyberpesten, veiligheid, online do’s en don'ts, social media gebruik, online identiteit, vriendschappen en relaties en alles wat bij deze online wereld hoort. 
 
 De voorstelling iSocial en het interactieve nagesprek zijn een fijne basis om aan te kunnen refereren in de lessen Mediawijsheid.
 
