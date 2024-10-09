@@ -37,7 +37,7 @@ De voorstelling iSocial volgt Naomi, Nick en Femke, 3 middelbare scholieren die 
 
 Na de voorstelling is er een interactief nagesprek. De acteurs zijn dan gespreksleiders. Zij worden hier intensief in getraind. Daardoor zijn ze goed in het creëren van een veilige sfeer, waarin iedereen de ruimte krijgt om deel te nemen aan een eerlijk en open gesprek over deze constant veranderende onderwerpen. 
 
-Thema’s die aan bod komen zijn: privacy, cyberpesten, online do’s en dont’s, sexting, online identiteit en alles wat verder bij deze online wereld hoort.
+Thema’s die aan bod komen zijn: privacy, cyberpesten, online do’s en don'ts, sexting, online identiteit en alles wat verder bij deze online wereld hoort.
 
 De voorstelling iSocial en het interactieve nagesprek zijn een fijne basis om aan te kunnen refereren in de lessen Mediawijsheid.
 
