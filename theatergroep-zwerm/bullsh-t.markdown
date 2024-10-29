@@ -15,7 +15,7 @@ kenmerken: 'Vanaf: sept 2024; Soort project: voorstelling in de klas; Doelgroep:
   Te boeken vanaf: schooljaar 24-25'
 sectie: vo
 leeftijd: '12+ '
-actie: Vroegboekkorting
+actie: 
 ---
 
 **Deze educatieve voorstelling is speciaal ontwikkeld voor het voortgezet onderwijs om leerlingen te helpen kritisch na te denken over (des)informatie in de digitale wereld. Een wereld waar de nieuwe mogelijkheden van AI een onontkoombare en voor vele onzichtbare invloed op hebben.**

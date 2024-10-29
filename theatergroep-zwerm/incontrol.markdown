@@ -26,7 +26,7 @@ kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: 12+ alle niveaus 
   1 voorstelling per dag €865,- <br> 2 voorstellingen per dag €1395,- <br> 3 voorstellingen
   per dag €1840,- <br> De prijzen zijn excl. btw en excl. reiskosten; '
 leeftijd: 12+
-actie: 'Vroegboekkorting '
+actie: 
 sleutelwoorden: 
 speciaal: 
 ---
