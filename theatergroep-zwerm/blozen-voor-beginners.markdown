@@ -26,7 +26,7 @@ kenmerken: 'Soort project: voorstelling in de klas; Doelgroep: groep 7 & 8 ook s
   per dag €1150,- <br> 3 voorstellingen per dag €1545,- <br> Prijzen zijn excl. btw
   en excl. reiskosten; '
 leeftijd: groep 7 & 8
-actie: 'Vroegboekkorting '
+actie: 
 sleutelwoorden: 
 speciaal: 
 ---
