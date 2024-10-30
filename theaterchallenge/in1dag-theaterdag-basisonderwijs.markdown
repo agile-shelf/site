@@ -19,7 +19,7 @@ kenmerken: 'Soort project: workshops; Doelgroep: groep 1 t/m 8; Tijdsduur: de he
   op aanvraag'
 leeftijd: groep 1 t/m 8
 sleutelwoorden: 
-speciaal: "\n"
+speciaal: 
 ---
 
 **In 1 dag: Theaterdag** is een dag vol theater. Elke klas neemt deel aan 2 verschillende workshops van 1 uur. Alle disciplines werken vanuit het prentenboek: De gele ballon. De leerlingen werken binnen deze dag niet toe naar een presentatie.
