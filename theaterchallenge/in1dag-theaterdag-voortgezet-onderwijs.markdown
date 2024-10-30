@@ -18,7 +18,6 @@ kenmerken: 'Soort project: workshops; Doelgroep: 12+; alle niveaus ook speciaal 
   Tijdsduur: hele dag (in overleg korter mogelijk); Aangeboden in: Heel Nederland;
   Max. aantal deelnemers: de hele school; Prijs: offerte op aanvraag'
 leeftijd: 12+
-actie: 'Vroegboekkorting '
 sleutelwoorden: 
 speciaal: 
 ---
