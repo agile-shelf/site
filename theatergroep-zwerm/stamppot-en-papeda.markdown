@@ -24,4 +24,4 @@ sectie: bo
 
 De voorstelling in combinatie met de lesbrief vormt een fijne start om onderwerpen als culturele verschillen, gebruiken, rituelen en gewoontes op een prettige en toegankelijke manier bespreekbaar te maken. Wie weet blijken er juist heel veel overeenkomsten te zijn. Ook al heeft men verschillende achtergronden en thuissituaties. Daarnaast biedt de voorstelling de mogelijkheid om te verdiepen in de gedeelde geschiedenis van Nederland en andere landen, zoals bijvoorbeeld Indonesië, Suriname en de Antillen.
 
-Boekingen voor deze voorstelling via [Buro Bannink](https://www.burobannink.nl/stamppot-en-papeda/) 010 476 96 68 
+Boekingen voor deze voorstelling via [Buro Bannink](https://www.burobannink.nl/stamppot-en-papeda/) 010 476 96 68
