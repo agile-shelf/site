@@ -30,4 +30,4 @@ Hoe kun je het CJP-budget toch nog besteden?
 
 Op de eerste rij biedt een breed scala aan culturele activiteiten, speciaal ontwikkeld voor scholen. Van interactieve voorstellingen tot inspirerende workshops, wij zorgen voor een onvergetelijke ervaring voor jouw leerlingen.
 
-Heb je nog CJP-budget over? Neem dan gerust contact met ons op. Via telefoon <a href="tel:+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a> of mail [info@opde1sterij.nl](mailto:info@opde1sterij.nl). Zo kun je het CJP-budget toch nog besteden aan cultuur. Precies waar het voor bedoeld is.
+Heb je nog CJP-budget over? Neem dan gerust contact met ons op. Via telefoon <a href="tel:+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a> of mail [info@opde1sterij.nl](mailto:info@opde1sterij.nl) of plan een [belafspraak](https://calendly.com/opde1sterij/bellen-over-het-cjp-cultuurkaart-budget) in. Dan bespreken we alle wensen en mogelijkheden. Zo kun je het CJP-budget toch nog besteden aan cultuur. Precies waar het voor bedoeld is.
