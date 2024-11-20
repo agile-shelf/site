@@ -10,7 +10,7 @@ assets:
 
 *Door: Esther Hulst*
 
-Het einde van het jaar nadert en daarmee ook de deadline voor het besteden van je CJP-cultuurkaartbudget. Heb jij als school nog een deel van dit budget over? Dan is het nu hoog tijd om in actie te komen! Het zou jammer zijn als dit budget, dat bedoeld is voor de culturele ontwikkeling van jouw leerlingen, onbenut blijft.
+Het einde van het jaar nadert en daarmee ook de deadline voor het besteden van je CJP-cultuurkaartbudget. Heb jij als school nog een deel van dit budget over? Dan is het nu hoog tijd om in actie te komen! Het budget moet namelijk **vóór 31 dec. 2024** uitgegeven worden. Het zou jammer zijn als dit budget, dat bedoeld is voor de culturele ontwikkeling van jouw leerlingen, onbenut blijft.
 
 Jaarlijks blijft een aanzienlijk bedrag aan CJP-budget ongebruikt. Dit geld is bedoeld om jouw leerlingen rijke, gevarieerde en kwalitatief goede cultuureducatie te bieden. Door je budget volledig te benutten, zorg je niet alleen voor meer culturele activiteiten op school, maar vergroot je ook de kans op een groter budget volgend jaar. Het niet-uitgegeven budget wordt namelijk verdeeld over de scholen die hun budget wèl helemaal opmaken.
 
@@ -24,9 +24,9 @@ Waarom is het belangrijk om je CJP-budget te besteden?
 
 Hoe kun je het CJP-budget toch nog besteden?
 
-* **Flexibel plannen**: Je kunt culturele activiteiten plannen die pas na 31 december plaatsvinden.
+* **Flexibel plannen**: Je kunt culturele activiteiten plannen die pas **ná 31 december** plaatsvinden.
 
-* **Reserveren zonder concrete plannen**: Zelfs als je nog geen specifieke activiteit in gedachten hebt, kun je het budget alvast reserveren.
+* **Reserveren zonder concrete plannen**: Zelfs als je nog geen specifieke activiteit in gedachten hebt, kun je het budget alvast reserveren. 
 
 Op de eerste rij biedt een breed scala aan culturele activiteiten, speciaal ontwikkeld voor scholen. Van interactieve voorstellingen tot inspirerende workshops, wij zorgen voor een onvergetelijke ervaring voor jouw leerlingen.
 
