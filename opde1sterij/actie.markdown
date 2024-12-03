@@ -28,7 +28,8 @@ De feestdagen komen eraan, en wij hebben een cadeau voor jouw school! Boek nu cu
 
 Wil je gebruikmaken van de eindejaarskorting? Wacht niet te lang! En neem dan contact met ons op via:
 
-* 📞 <a href="tel:\+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a>\
-* ✉️ [info@opde1sterij.nl](mailto:info@opde1sterij.nl)\
-* 📅 Plan een [belafspraak](https://calendly.com/opde1sterij/bellen-over-eindejaarskorting) en wij helpen je verder!
+📞 <a href="tel:\+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a>\
+✉️ [info@opde1sterij.nl](mailto:info@opde1sterij.nl)\
+📅 Plan een [belafspraak](https://calendly.com/opde1sterij/bellen-over-eindejaarskorting) en wij helpen je verder!
+
 Geef leerlingen een culturele boost en sluit 2024 slim af met een voordelige boeking. 🎭
