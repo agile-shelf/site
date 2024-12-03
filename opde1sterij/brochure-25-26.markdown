@@ -1,7 +1,7 @@
 ---
 title: Brochure 25-26
 date: 2024-11-20 08:00:00 +01:00
-position: 3
+position: 4
 assets:
 - path: "/uploads/brochure-23-24.jpg"
 author: info@opde1sterij.nl
