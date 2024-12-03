@@ -27,7 +27,6 @@ De feestdagen komen eraan, en wij hebben een cadeau voor jouw school! Boek nu cu
 * De actie geldt ook op alle workshops van [TheaterChallenge](https://www.opde1sterij.nl/theaterchallenge/)
 
 Wil je gebruikmaken van de eindejaarskorting? Wacht niet te lang! En neem dan contact met ons op via:
-
 📞 <a href="tel:\+31232052482" title="Bel Op de eerste rij">023 - 205 2482</a>\
 ✉️ [info@opde1sterij.nl](mailto:info@opde1sterij.nl)\
 📅 Plan een [belafspraak](https://calendly.com/opde1sterij/bellen-over-eindejaarskorting) en wij helpen je verder!
