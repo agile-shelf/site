@@ -20,7 +20,7 @@ De feestdagen komen eraan, en wij hebben een cadeau voor jouw school! Boek nu cu
 
 * Boek **vóór 31 december 2024** om gebruik te maken van de korting.
 
-* De actie geldt voor alle voorstellingen van [Theatergroep Zwerm](https://www.opde1sterij.nl/theatergroep-zwerm/) zowel PO als VO(behalve de Kinderboekenweek-voorstelling).
+* De actie geldt voor alle voorstellingen van [Theatergroep Zwerm](https://www.opde1sterij.nl/theatergroep-zwerm/) zowel PO als VO(behalve de Sam en Philine-voorstelling).
 
 * De voorstellingen vinden plaats op één dag. De exacte speeldatum kan later worden vastgelegd.
 
