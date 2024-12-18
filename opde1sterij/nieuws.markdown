@@ -7,7 +7,7 @@ filmpje-embed-code: <iframe width="560" height="315" src="https://www.youtube.co
   encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
   allowfullscreen></iframe>
 assets:
-- path: "/uploads/5.png"
+- path: "/uploads/cjp-alert-maak-het-budget-op.jpg"
 author: info@opde1sterij.nl
 ---
 

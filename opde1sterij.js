@@ -277,7 +277,7 @@ $(function() {
 				if (instagramItemBericht != undefined && instagramItemBericht != '') {
 					itemBericht = instagramItemBericht;
 				}
-				instagramItemTijdGeleden = "Recent"
+				instagramItemTijdGeleden = "Laatste Post"
 				if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
 					vertaalTijd()
 				}

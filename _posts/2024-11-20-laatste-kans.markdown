@@ -3,7 +3,7 @@ title: Laatste kans!
 date: 2024-11-20 21:01:00 +01:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/CJP-Alert%20maak%20het%20budget%20op2.png"
+- path: "/uploads/cjp-alert-maak-het-budget-op.jpg"
 ---
 
 **Maak je CJP-budget op voor 31 december!**

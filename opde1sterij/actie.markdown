@@ -3,7 +3,7 @@ title: Eindejaarskorting
 date: 2024-12-03 08:08:00 +01:00
 position: 3
 assets:
-- path: "/uploads/eindejaarskorting.png"
+- path: "/uploads/eindejaarskorting.jpg"
 ---
 
 De feestdagen komen eraan, en wij hebben een cadeau voor jouw school! Boek nu cultuureducatie van **Theatergroep Zwerm** of **TheaterChallenge** voor de tweede helft van schooljaar 2024-2025 en profiteer van onze eindejaarskorting.
