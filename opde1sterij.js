@@ -277,10 +277,7 @@ $(function() {
 				if (instagramItemBericht != undefined && instagramItemBericht != '') {
 					itemBericht = instagramItemBericht;
 				}
-				instagramItemTijdGeleden = "Laatste Post"
-// 				if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
-// 					vertaalTijd()
-// 				}
+				itemTijdGeleden = "Laatste Post"
 			}
 			plaatsInstagramPost();
 		})
