@@ -268,10 +268,10 @@ $(function() {
 			htmlDocument = document.implementation.createHTMLDocument('virtueel');
 			virtueelDocument = $(greatfonData, htmlDocument);
 			instagramProfiel = virtueelDocument.find('h1').first().text().trim();
-			instagramItemImgLink = virtueelDocument.find('.card a figure img').first().attr('src');
+			instagramItemImgLink = virtueelDocument.find('.card img').first().attr('src');
 			if (instagramProfiel == '@opde1sterij') {
 				if (instagramItemImgLink != undefined) {
-					itemImgLink = 'https://wsrv.nl/?url=' + encodeURIComponent('instagramItemImgLink') + '&w=112&q=76&output=jpg'
+					itemImgLink = 'https://wsrv.nl/?url=' + encodeURIComponent(instagramItemImgLink) + '&w=112&q=76&output=jpg'
 				}
 				instagramItemBericht = virtueelDocument.find('.card .card-body p').first().html().replace(/<br\s*\/?>/gi,' ').trim();
 				if (instagramItemBericht != undefined && instagramItemBericht != '') {
