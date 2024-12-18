@@ -278,9 +278,9 @@ $(function() {
 					itemBericht = instagramItemBericht;
 				}
 				instagramItemTijdGeleden = "Laatste Post"
-				if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
-					vertaalTijd()
-				}
+// 				if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
+// 					vertaalTijd()
+// 				}
 			}
 			plaatsInstagramPost();
 		})
