@@ -184,15 +184,17 @@ $(function() {
 		}
 	});
 	
-	var onderdeel;
+	var onderdeel, plaats;
 	$.ajax({
 		url: 'https://opde1sterij-agenda.dplyd.workers.dev',
 		timeout: 3000
 	})
 	.done(function(agendaData) {
-		$.each(agendaData.data,function(index, item) {
-			if (item.artist !== null && item.date !== null && item.eventName !== null && item.venue !== null) {
-				onderdeel = item.artist?.name.toLowerCase();
+		$.each(agendaData.data, function(index, item) {
+			if (item.artist !== null && item.date !== null && item.eventName !== null) {
+        		onderdeel = (item.artist !== null && item.artist.name !== null) ? item.artist.name.toLowerCase() : 'opde1sterij';
+				plaats = (item.venue && item.venue.city && item.venue.city.trim() !== '') ? item.venue.city : 'Geen Locatie';
+							
 				if (onderdeel.includes('zwerm')) {
 					onderdeel = 'theatergroep-zwerm';
 				} else if (onderdeel.includes('traject c')) {
@@ -205,10 +207,10 @@ $(function() {
 					onderdeel = 'opde1sterij';
 				}
 				if (pad == '/agenda') {
-					$('.agenda-overzicht table tbody').append('<tr class="' + onderdeel + '"><td>' + item.date.dayName + ' ' + item.date.day + ' ' + item.date.monthName + ' ' + item.date.year + '</td><td>' + item.venue.city + '</td><td><a href="/'+ onderdeel +'" title="Ga naar dit onderdeel van Op de eerste rij">' + onderdeel.replace(/-/g, ' ') + '</a></td><td>' + item.eventName + '</td></tr>');
+					$('.agenda-overzicht table tbody').append('<tr class="' + onderdeel + '"><td>' + item.date.dayName + ' ' + item.date.day + ' ' + item.date.monthName + ' ' + item.date.year + '</td><td>' + plaats + '</td><td><a href="/'+ onderdeel +'" title="Ga naar dit onderdeel van Op de eerste rij">' + onderdeel.replace(/-/g, ' ') + '</a></td><td>' + item.eventName + '</td></tr>');
 				}
 				if (index <= 2) {
-					$('.laatste-agenda ol').append('<li style="display: list-item;"><a href="/agenda/" title="Bekijk de agenda" class="' + onderdeel + '"><div class="kalendertje"><div class="dag-nummer">' + item.date.day + '</div><div class="maand">' + item.date.monthName + '</div><div class="jaar">' + item.date.year + '</div></div><div class="locatie">' + item.venue.city + '&nbsp;&nbsp;|&nbsp;&nbsp;' + item.eventName + '</div></a></li>');
+					$('.laatste-agenda ol').append('<li style="display: list-item;"><a href="/agenda/" title="Bekijk de agenda" class="' + onderdeel + '"><div class="kalendertje"><div class="dag-nummer">' + item.date.day + '</div><div class="maand">' + item.date.monthName + '</div><div class="jaar">' + item.date.year + '</div></div><div class="locatie">' + plaats + '&nbsp;&nbsp;|&nbsp;&nbsp;' + item.eventName + '</div></a></li>');
 				}
 			}
 		});
