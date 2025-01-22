@@ -1,10 +1,11 @@
 ---
 title: Nieuws
 date: 2025-01-22 06:41:00 +01:00
-published: false
 position: 2
+zoektermen: Kinderboekenweek, Kinderboekenweek 2025, vol avontuur, voorstelling, voorstellingen,
+  groep 3, groep 4, groep 5, groep 6, groep 7, groep 8, hele school, groep 3 t/m 8
 assets:
-- path: "/uploads/cjp-alert-maak-het-budget-op.jpg"
+- path: "/uploads/kbw%202025%20aankondiging-7fd200.png"
 author: info@opde1sterij.nl
 ---
 
@@ -12,11 +13,8 @@ Het thema voor de Kinderboekenweek 2025 is bekend: **“Vol avontuur”**. Natuu
 
 De nieuwe voorstelling is nog niet af, maar wat we wél kunnen zeggen, is dat Sam en Philine een spannend avontuur gaan beleven, geschikt voor groep 3 t/m 8. Het scherm speelt opnieuw een rol, waarop een derde personage – of misschien wel een vierde, vijfde en zesde – te zien zal zijn. En dit alles speelt zich af in een prachtig decor van Erica Segveld.  
 
-Laat de leerlingen meevoeren door woeste zeeën, verborgen geheimen en verrassende ontmoetingen. Met herkenbare thema’s zoals vriendschap, samenwerken en nieuwsgierig zijn naar het onbekende, biedt deze voorstelling spanning, humor en inspiratie voor groep 3 t/m 8. Echt iets voor (bijna) de hele school!  
+Laat de leerlingen meevoeren door woeste zeeën, verborgen geheimen en verrassende ontmoetingen. Met herkenbare thema’s zoals vriendschap, avontuur en nieuwsgierig zijn naar het onbekende, biedt deze voorstelling spanning, humor en inspiratie voor groep 3 t/m 8. Echt iets voor (bijna) de hele school!  
 
-Omdat de Kinderboekenweek elk jaar enorm vol zit, maken we er, net als voorgaande jaren, een **Kinderboekenmaand** van. Wil jij als eerste zeker zijn van een plekje? Klik dan op de knop hieronder en vul het Google-formulier in. Wij nemen daarna contact met je op.  
+Omdat de Kinderboekenweek elk jaar enorm vol zit, maken we er, net als voorgaande jaren, een **Kinderboekenmaand** van. Wil jij als eerste zeker zijn van een plekje? Klik dan op de [link](https://forms.gle/cArEnUq7ZfpJGYFc7) en vul het Google-formulier in. Wij nemen daarna contact met je op.  
 
-Hieronder vind je nog wat extra informatie over de voorstelling speciaal voor de Kinderboekenweek 2025.  
-
-**Kenmerken**  
-**Prijs**  
+Meer weten? Klik dan op de [link](www.opde1sterij.nl/theatergroep-zwerm/kinderboekenweek-2025/).
