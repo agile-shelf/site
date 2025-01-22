@@ -32,4 +32,4 @@ Wil je gebruikmaken van de eindejaarskorting? Wacht niet te lang! En neem dan co
 ✉️ [info@opde1sterij.nl](mailto:info@opde1sterij.nl)\
 📅 Plan een [belafspraak](https://calendly.com/opde1sterij/bellen-over-eindejaarskorting) en wij helpen je verder!
 
-Geef leerlingen een culturele boost en sluit 2024 slim af met een voordelige boeking. 🎭
+Geef leerlingen een culturele boost en sluit 2024 slim af met een  voordelige boeking. 🎭
