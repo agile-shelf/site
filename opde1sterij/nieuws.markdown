@@ -15,6 +15,6 @@ De nieuwe voorstelling is nog niet af, maar wat we wél kunnen zeggen, is dat Sa
 
 Laat de leerlingen meevoeren door woeste zeeën, verborgen geheimen en verrassende ontmoetingen. Met herkenbare thema’s zoals vriendschap, avontuur en nieuwsgierig zijn naar het onbekende, biedt deze voorstelling spanning, humor en inspiratie voor groep 3 t/m 8. Echt iets voor (bijna) de hele school!  
 
-Omdat de Kinderboekenweek elk jaar enorm vol zit, maken we er, net als voorgaande jaren, een **Kinderboekenmaand** van. **Vanaf maandag 29 september t/m vrijdag 31 oktober.** Wil jij als eerste zeker zijn van een plekje? Klik dan op de [link](https://forms.gle/cArEnUq7ZfpJGYFc7) en vul het Google-formulier in. Wij nemen daarna contact met je op.  
+Omdat de Kinderboekenweek elk jaar enorm vol zit, maken we er, net als voorgaande jaren, een **Kinderboekenmaand** van. **Vanaf maandag 29 september t/m vrijdag 31 oktober.** Wil jij als eerste zeker zijn van een plekje? Klik dan op de [link](https://forms.gle/cArEnUq7ZfpJGYFc7) en vul het [Google-formulier](https://forms.gle/cArEnUq7ZfpJGYFc7) in. Wij nemen daarna contact met je op.  
 
 Meer weten? Klik dan op deze [link](https://www.opde1sterij.nl/theatergroep-zwerm/kinderboekenweek-2025/).
