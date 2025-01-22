@@ -2,7 +2,7 @@
 title: De Presentatiehub
 date: 2021-02-22 12:32:00 +01:00
 published: false
-position: 16
+position: 17
 assets:
 - path: "/uploads/de-presentatiehub.jpg"
   name: de-presentatiehub
