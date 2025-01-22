@@ -20,7 +20,7 @@ leeftijd: groep 3, 4, 5, 6, 7, 8
 sectie: bo
 ---
 
-Voor de Kinderboekenweek 2025 maakt TG Zwerm weer een speciale voorstelling.
+Voor de Kinderboekenweek 2025 maakt TG Zwerm weer een speciale voorstelling. Deze voorstelling spelen we van maandag 29 sept t/m vrijdag 31 okt 2025.
 
 De nieuwe voorstelling is nog niet af, maar wat we wél kunnen zeggen, is dat Sam en Philine een spannend avontuur gaan beleven, geschikt voor groep 3 t/m 8. Het scherm speelt opnieuw een rol, waarop een derde personage – of misschien wel een vierde, vijfde en zesde – te zien zal zijn. En dit alles speelt zich af in een prachtig decor van Erica Segveld.  
 
