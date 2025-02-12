@@ -15,7 +15,7 @@ kenmerken: 'Vanaf: sept 2024; Soort project: voorstelling in de klas; Doelgroep:
   €1840,- <br> De prijzen zijn excl. btw en excl. reiskosten; Te boeken vanaf: schooljaar
   24-25'
 sectie: vo
-leeftijd: '12+ '
+leeftijd: VO
 actie: 
 ---
 
