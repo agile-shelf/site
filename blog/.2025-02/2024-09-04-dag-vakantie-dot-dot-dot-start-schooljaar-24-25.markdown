@@ -1,6 +1,7 @@
 ---
 title: Dag vakantie... Start schooljaar 24-25
 date: 2024-09-04 09:36:00 +02:00
+permalink: "/blog/4-9-2024-dag-vakantie-dot-dot-dot-start-schooljaar-24-25/"
 blogger: Esther Hulst
 assets:
 - path: "/uploads/dag-vakantie-start-schooljaar-24-25.jpg"
