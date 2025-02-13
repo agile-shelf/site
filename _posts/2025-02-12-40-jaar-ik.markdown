@@ -3,10 +3,10 @@ title: 40 jaar! Ik?
 date: 2025-02-12 10:34:00 +01:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/blog%2012%20feb.png"
+- path: "/uploads/40-jaar-ik.jpg"
 ---
 
-*Door: Esther Hulst
+*Door: Esther Hulst*
 
 Deze week werd ik 40. 40 jaar! Ik? Het voelt gek, om niet te zeggen *vreselijk*. Ik voel me geen 40. Maar wat is 40 dan? Een goede vriendin zei een tijdje terug tegen mij: *"Wees blij dat je 40 mag worden. Dat is niet iedereen gegund."* Daar heeft ze natuurlijk gelijk in. Wat zeur ik nou over een leeftijd?  
 

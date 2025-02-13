@@ -3,7 +3,7 @@ title: Vliegende start van 2025
 date: 2025-01-22 10:45:00 +01:00
 blogger: Esther Hulst
 assets:
-- path: "/uploads/Stammpot%20en%20papeda%20blog.png"
+- path: "/uploads/vliegende-start-van-2025.jpg"
 ---
 
 *Door: Esther Hulst*
