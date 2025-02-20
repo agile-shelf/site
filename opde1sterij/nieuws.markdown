@@ -5,7 +5,7 @@ position: 2
 zoektermen: Kinderboekenweek, Kinderboekenweek 2025, vol avontuur, voorstelling, voorstellingen,
   groep 3, groep 4, groep 5, groep 6, groep 7, groep 8, hele school, groep 3 t/m 8
 assets:
-- path: "/uploads/kinderboekenweek-2025-aankondiging.jpg"
+- path: "/uploads/kinderboekenweek-2025.jpg"
 author: info@opde1sterij.nl
 ---
 

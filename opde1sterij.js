@@ -183,7 +183,7 @@ $(function() {
 			});
 		}
 	});
-	
+
 	var onderdeel, plaats;
 	$.ajax({
 		url: 'https://opde1sterij-agenda.dplyd.workers.dev',
@@ -224,43 +224,43 @@ $(function() {
 		}
 		$('.laatste-agenda ol').append('<li style="display: list-item;"><a href="/agenda/" title="Bekijk de agenda"><div class="kalendertje"><div class="dag-nummer"></div><div class="maand"></div><div class="jaar"></div></div><div class="locatie">Bekijk agenda</div></a></li>');
 	});
-	
+
 	var itemLink = 'https://www.instagram.com/opde1sterij';
 	var itemImgLink = '';
 	var itemBericht = 'Klik hier om de meest recente posts op onze Instagram pagina te bekijken. @opde1sterij';
 	var itemTijdGeleden = '';
 	var htmlDocument, virtueelDocument, instagramProfiel, instagramItemImgLink, instagramItemBericht, instagramTijdGeleden;
-	$.ajax({
-		url: 'https://opde1sterij-origin.dplyd.workers.dev/' + encodeURIComponent('https://www.picuki.com/profile/opde1sterij'),
-		timeout: 10000
-	})
-	.done(function(picukiData) {
-		htmlDocument = document.implementation.createHTMLDocument('virtueel');
-		virtueelDocument = $(picukiData, htmlDocument);
-		instagramProfiel = virtueelDocument.find('.profile-name-top').first().text().trim();
-		instagramItemImgLink = virtueelDocument.find('.post-image').first().attr('src');
-		if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
-			itemImgLink = 'https://wsrv.nl/?url=' + encodeURIComponent(instagramItemImgLink) + '&w=112&q=76&output=jpg'
-		}
-		var instagramItemBericht = virtueelDocument.find('.photo-info .photo-action-description').first().text().trim();
-		if (instagramItemBericht != undefined && instagramItemBericht != '') {
-			itemBericht = instagramItemBericht;
-		}
-		instagramItemTijdGeleden = virtueelDocument.find('.photo-info .time span').first().text().trim();
-		if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
-			vertaalTijd()
-		}
-		if (itemImgLink != '' && instagramProfiel == '@opde1sterij') {
-			plaatsInstagramPost();
-		} else {
-			instagramPostViaGreatfon()
-		}
-	})
-	.fail(function() {
-// 		plaatsInstagramPost();
-		instagramPostViaGreatfon()
-	});
-	
+// 	$.ajax({
+// 		url: 'https://opde1sterij-origin.dplyd.workers.dev/' + encodeURIComponent('https://www.picuki.com/profile/opde1sterij'),
+// 		timeout: 10000
+// 	})
+// 	.done(function(picukiData) {
+// 		htmlDocument = document.implementation.createHTMLDocument('virtueel');
+// 		virtueelDocument = $(picukiData, htmlDocument);
+// 		instagramProfiel = virtueelDocument.find('.profile-name-top').first().text().trim();
+// 		instagramItemImgLink = virtueelDocument.find('.post-image').first().attr('src');
+// 		if (instagramItemImgLink != undefined && instagramItemImgLink.indexOf('instagram') >= 0) {
+// 			itemImgLink = 'https://wsrv.nl/?url=' + encodeURIComponent(instagramItemImgLink) + '&w=112&q=76&output=jpg'
+// 		}
+// 		var instagramItemBericht = virtueelDocument.find('.photo-info .photo-action-description').first().text().trim();
+// 		if (instagramItemBericht != undefined && instagramItemBericht != '') {
+// 			itemBericht = instagramItemBericht;
+// 		}
+// 		instagramItemTijdGeleden = virtueelDocument.find('.photo-info .time span').first().text().trim();
+// 		if (instagramItemTijdGeleden != undefined && instagramItemTijdGeleden != '') {
+// 			vertaalTijd()
+// 		}
+// 		if (itemImgLink != '' && instagramProfiel == '@opde1sterij') {
+// 			plaatsInstagramPost();
+// 		} else {
+// 			instagramPostViaGreatfon()
+// 		}
+// 	})
+// 	.fail(function() {
+// // 		plaatsInstagramPost();
+// 		instagramPostViaGreatfon()
+// 	});
+	instagramPostViaGreatfon()
 	function instagramPostViaGreatfon() {
 		$.ajax({
 		url: 'https://opde1sterij-origin.dplyd.workers.dev/' + encodeURIComponent('https://greatfon.com/v/opde1sterij'),
@@ -287,7 +287,7 @@ $(function() {
 			plaatsInstagramPost();
 		});
 	}
-	
+
 	function vertaalTijd() {
 		var itemTijdGeledenVertaling = {
 			seconds: 'seconden',
@@ -310,7 +310,7 @@ $(function() {
 			return itemTijdGeledenVertaling[matched];
 		});
 	}
-	
+
 	function plaatsInstagramPost() {
 		var itemAfbeelding = '<a href="' + itemLink + '" title="Bekijk op Instagram" rel="noopener noreferrer"><div class="instagram-post-cirkel lazyload" data-bg="/instagram_nieuw.jpg"><div class="instagram-post-foto lazyload" data-bg="' + itemImgLink + '" referrerpolicy="no-referrer"></div></div></a>';
 		$('.laatste-instagram-post').html('<div class="instagram-post-linker-kolom"><div class="instagram-post-plaatje">' + itemAfbeelding + '</div><p class="instagram-post-tijd">' + itemTijdGeleden + '</p></div><div class="instagram-post-rechter-kolom"><p>' + itemBericht + '</p></div>');
